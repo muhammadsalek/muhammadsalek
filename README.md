@@ -95,7 +95,7 @@ class MdSalekMiah:
 
     # ── Education ─────────────────────────
     degree     = "B.Sc.(Hons) Statistics"
-    university = "SUST — 3rd Year | GPA ≈ 3.75 / 4.00"
+    university = "Shahjalal University of Science and Technology"
     credits    = "50+ credits completed"
 
     # ── Current Role ──────────────────────
@@ -476,18 +476,18 @@ class MdSalekMiah:
 ║      ├── 🤖  Advanced Large Language Models (LLMs)                         ║
 ║      └── 🔍  Explainable Artificial Intelligence (XAI)                     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🏥  CHINTA Research Bangladesh                                             ║
-║      Research Fellow                                                         ║
-║      ├── Lead statistician — national public health ML projects             ║
-║      ├── ML models achieving 89%+ predictive accuracy                      ║
-║      ├── 5+ manuscripts under Q1 journal review                            ║
+║  🏥  Pioneering health research and learning Center                          ║
+║      Research Internship                                                       ║
+║      ├── Lead statistician — national public health  projects                 ║
+║      ├── Research Ethics, Research methodology                     ║
+║      ├── Writing manuscripts                                               ║
 ║      └── Mentored junior researchers in statistical methodology             ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  🏛️  SUST — Biostatistics, Epidemiology & Public Health Team  2025–Present ║
 ║      Research Assistant                                                      ║
-║      ├── Supervisors: Dr. Md Jamal Uddin & Dr. Mohammad Ohid Ullah         ║
-║      ├── 10+ manuscripts under review in WoS Q1 journals                  ║
-║      └── Spatial analysis, ML modeling, DHS national survey data           ║
+║      ├── Supervisors: Dr. Md Jamal Uddin                                  ║
+║      ├── 5+ manuscripts under review in WoS Q1 journals                  ║
+║      └──  Research methodology, ethics, and Spatial analysis, ML modeling, DHS national survey data ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  🌾  SUST Research Centre — Pesticides & Farmers' Health  2025–2026        ║
 ║      Research Assistant · Funded by SUST Research Centre                   ║
