@@ -1,42 +1,31 @@
 <!-- ██████████████████████████████████████████████████████████████████████ -->
-<!--                  WELCOME ANIMATION & HEADER                          -->
+<!--                  HEADER WAVE                                          -->
 <!-- ██████████████████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,30:001f3f,60:003366,100:00d4ff&height=280&section=header&text=Md%20Salek%20Miah&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Statistician%20%E2%80%A2%20Epidemiologist%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Explainable%20AI&descAlignY=60&descSize=17&animation=fadeIn&fontAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000d1a,30:001f3f,60:003366,100:00d4ff&height=260&section=header&text=Md%20Salek%20Miah&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Statistician%20%E2%80%A2%20Epidemiologist%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Explainable%20AI&descAlignY=60&descSize=17&animation=fadeIn&fontAlign=50"/>
 
 </div>
 
-<!-- ══════════════ WELCOME SNAKE / MATRIX BANNER ══════════════ -->
+<!-- ══════════════ WELCOME SECTION WITH DEVELOPER IMAGE ══════════════ -->
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                      ║
-║    ██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗                   ║
-║    ██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝                   ║
-║    ██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗                     ║
-║    ██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝                     ║
-║    ╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗                   ║
-║     ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝                   ║
-║                                                                                      ║
-║          🧬 Data Scientist  |  🤖 ML Researcher  |  🗺️ Spatial Epidemiologist       ║
-║                  🇧🇩 SUST, Sylhet, Bangladesh  |  🌐 Open to Global Collaboration   ║
-║                                                                                      ║
-╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1100&color=00D4FF&center=true&vCenter=true&width=950&height=52&lines=🎓+B.Sc.+Statistics+@+SUST+Bangladesh;📊+Complex+Survey+%7C+DHS+%7C+Epidemiology+Researcher;🤖+Machine+Learning+%7C+XGBoost+%7C+Random+Forest+%7C+Deep+Learning;🗺️+Spatial+Analysis+%7C+ArcGIS+%7C+GeoPandas;📝+Published+BMC+Women%27s+Health+(Q1)+%7C+33+Submissions;🏆+DNA+Day+Winner+%7C+Top+10+Hackathon+%7C+5+Conferences;🔬+Research+Intern+@+ELITE+Research+Lab+LLC+(2026);💡+Explainable+AI+%7C+SHAP+%7C+LIME+%7C+Advanced+LLMs;🌍+20%2B+Papers+Under+Review+in+Q1+Journals" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1100&color=00D4FF&center=true&vCenter=true&width=950&height=52&lines=👋+Welcome+to+My+GitHub+Profile!;📊+Complex+Survey+%7C+DHS+%7C+Epidemiology+Researcher;🤖+Machine+Learning+%7C+XGBoost+%7C+Random+Forest+%7C+Deep+Learning;🗺️+Spatial+Analysis+%7C+ArcGIS+%7C+GeoPandas;📝+Published+BMC+Women%27s+Health+(Q1)+%7C+33+Submissions;🏆+DNA+Day+Winner+%7C+Top+10+Hackathon+%7C+5+Conferences;🔬+Research+Intern+@+ELITE+Research+Lab+LLC+(2026);💡+Explainable+AI+%7C+SHAP+%7C+LIME+%7C+Advanced+LLMs;🌍+20%2B+Papers+Under+Review+in+Q1+Journals" alt="Typing SVG" />
 
 <br/><br/>
+
+<!-- Developer Welcome Image -->
+<img src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/main/welcome-developer.png" width="420" alt="Developer at Work — Md Salek Miah"/>
+
+<br/>
+
+> 🧬 **Data Scientist** &nbsp;|&nbsp; 🤖 **ML Researcher** &nbsp;|&nbsp; 🗺️ **Spatial Epidemiologist**
+>
+> 🇧🇩 **SUST, Sylhet, Bangladesh** &nbsp;|&nbsp; 🌐 **Open to Global Collaboration**
+
+<br/>
 
 <!-- Social Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salek-miah-b34309329)
@@ -63,10 +52,6 @@
 
 ---
 
-<!-- ██████████████████████████████████████████████████████████████████████ -->
-<!--                        ANIMATED DIVIDER                              -->
-<!-- ██████████████████████████████████████████████████████████████████████ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- ██████████████████████████████████████████████████████████████████████ -->
@@ -92,11 +77,6 @@ class MdSalekMiah:
     phone      = "+880 1687 831074"
     email      = "saleksta@gmail.com"
     edu_email  = "2021134066@student.sust.edu"
-
-    # ── Education ─────────────────────────
-    degree     = "B.Sc.(Hons) Statistics"
-    university = "Shahjalal University of Science and Technology"
-    
 
     # ── Current Role ──────────────────────
     current_position = {
@@ -476,18 +456,18 @@ class MdSalekMiah:
 ║      ├── 🤖  Advanced Large Language Models (LLMs)                         ║
 ║      └── 🔍  Explainable Artificial Intelligence (XAI)                     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🏥  Pioneering health research and learning Center                          ║
-║      Research Internship                                                       ║
-║      ├── Lead statistician — national public health  projects                 ║
-║      ├── Research Ethics, Research methodology                     ║
-║      ├── Writing manuscripts                                               ║
+║  🏥  Pioneering Health Research and Learning Center (CHINTA)                ║
+║      Research Internship                                                    ║
+║      ├── Lead statistician — national public health projects                ║
+║      ├── Research Ethics & Research Methodology                             ║
+║      ├── Writing & preparing manuscripts for Q1 journals                    ║
 ║      └── Mentored junior researchers in statistical methodology             ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  🏛️  SUST — Biostatistics, Epidemiology & Public Health Team  2025–Present ║
 ║      Research Assistant                                                      ║
-║      ├── Supervisors: Dr. Md Jamal Uddin                                  ║
-║      ├── 5+ manuscripts under review in WoS Q1 journals                  ║
-║      └──  Research methodology, ethics, and Spatial analysis, ML modeling, DHS national survey data ║
+║      ├── Supervisor: Dr. Md Jamal Uddin (Professor, SUST)                  ║
+║      ├── 5+ manuscripts under review in WoS Q1 journals                    ║
+║      └── Research methodology, spatial analysis, ML modeling, DHS data     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║  🌾  SUST Research Centre — Pesticides & Farmers' Health  2025–2026        ║
 ║      Research Assistant · Funded by SUST Research Centre                   ║
@@ -589,10 +569,6 @@ class MdSalekMiah:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ██████████████████████████████████████████████████████████████████████ -->
-<!--                        QUOTE & FOOTER                                -->
-<!-- ██████████████████████████████████████████████████████████████████████ -->
-
 ## 💬 Quote
 
 <div align="center">
@@ -609,9 +585,7 @@ class MdSalekMiah:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- ██████████████████████████████████████████████████████████████████████ -->
-<!--                       FOOTER WAVE                                    -->
-<!-- ██████████████████████████████████████████████████████████████████████ -->
+<!-- FOOTER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:003366,100:000d1a&height=160&section=footer&text=Open+to+Research+Collaborations!&fontSize=26&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
 
