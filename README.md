@@ -33,7 +33,7 @@
 
 ```python
 class SalekMiah:
-    name       = "Md. Salek Miah"
+    name       = "Md Salek Miah"
     role       = "Statistician & ML Researcher"
     location   = "Sylhet, Bangladesh"
     phone      = "+880 1687 831074"
