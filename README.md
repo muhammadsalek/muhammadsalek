@@ -96,7 +96,7 @@ class MdSalekMiah:
     # ── Education ─────────────────────────
     degree     = "B.Sc.(Hons) Statistics"
     university = "Shahjalal University of Science and Technology"
-    credits    = "50+ credits completed"
+    
 
     # ── Current Role ──────────────────────
     current_position = {
