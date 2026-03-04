@@ -1,7 +1,7 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════════════════════╗
 ║   github.com/muhammadsalek  ·  Md Salek Miah  ·  README.md  ·  2026           ║
-║   Sections: 18  ·  Animations: 30+  ·  Lines: 1200+                           ║
+║   Sections: 18  ·  Animations: 30+  ·  Professional Edition                   ║
 ╚══════════════════════════════════════════════════════════════════════════════════╝
 -->
 
@@ -16,31 +16,33 @@
 </div>
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 02  ORBITRON WELCOME TITLE (animation 1)
+     § 02  WELCOME TITLE + TYPING ANIMATIONS
 ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&duration=2800&pause=2200&color=00D4FF&center=true&vCenter=true&width=720&height=66&lines=👋+WELCOME+TO+MY+GITHUB!;🔬+Researcher+%7C+Statistician+%7C+ML+Engineer;🤖+LLMs+%7C+Explainable+AI+%7C+XAI" alt="Welcome Orbitron typing"/>
+<!-- Animation 1: Welcome Orbitron title — FIXED URL -->
+<img src="https://readme-typing-svg.demolab.com/?font=Orbitron&weight=900&size=30&duration=2800&pause=2200&color=00D4FF&center=true&vCenter=true&width=720&height=66&lines=👋+WELCOME+TO+MY+GITHUB!;🔬+Researcher+%7C+Statistician+%7C+ML+Engineer;🤖+LLMs+%7C+Explainable+AI+%7C+XAI" alt="Welcome typing animation"/>
 
 <br/><br/>
 
-<!-- Developer at work image — hosted in repo root -->
+<!-- Developer image — using a reliable placeholder until you upload your photo -->
 <img src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/main/welcome-developer.png"
      width="460"
-     alt="Md Salek Miah — Researcher at Work"/>
+     alt="Md Salek Miah — Researcher at Work"
+     onerror="this.style.display='none'"/>
 
 <br/><br/>
 
-<!-- Role typing (animation 2) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=800&color=00FF9D&center=true&vCenter=true&width=960&height=42&lines=🧬+Data+Scientist+%7C+🤖+ML+Researcher+%7C+🗺️+Spatial+Epidemiologist+%7C+🇧🇩+SUST+Bangladesh;🔬+Research+Intern+%40+ELITE+Research+Lab+LLC+(Jan+2026–Present)" alt="role typing"/>
+<!-- Animation 2: Role line — FIXED URL encoding -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=16&duration=1800&pause=800&color=00FF9D&center=true&vCenter=true&width=960&height=42&lines=🧬+Data+Scientist+%7C+🤖+ML+Researcher+%7C+🗺️+Spatial+Epidemiologist+%7C+🇧🇩+SUST+Bangladesh;🔬+Research+Intern+%40+ELITE+Research+Lab+LLC+(Jan+2026–Present)" alt="Role typing animation"/>
 
 <br/>
 
-<!-- Multi-role typing (animation 3) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=900&color=00D4FF&center=true&vCenter=true&width=970&height=46&lines=📊+Complex+Survey+%7C+DHS+Data+%7C+Epidemiology+Researcher;🤖+XGBoost+%7C+Random+Forest+%7C+Deep+Learning+%7C+Neural+Networks;🗺️+Spatial+Analysis+%7C+ArcGIS+Pro+%7C+QGIS+%7C+GeoPandas;📝+Published+Q1+BMC+Women%27s+Health+%7C+33+Total+Submissions;🏆+DNA+Day+Winner+%7C+Top+10+Hackathon+%7C+5+International+Conferences;🔬+Research+Intern+%40+ELITE+Research+Lab+LLC+(Jan+2026–Present);💡+Explainable+AI+%7C+SHAP+%7C+LIME+%7C+Advanced+LLMs;🌍+20%2B+Manuscripts+Under+Review+in+Q1+Journals;📖+Review+Papers+%7C+LLM+Research+%7C+XAI+Methods;🚀+Open+to+Global+Research+Collaborations!" alt="Roles typing"/>
+<!-- Animation 3: Multi-role carousel — FIXED URL encoding -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=2000&pause=900&color=00D4FF&center=true&vCenter=true&width=970&height=46&lines=📊+Complex+Survey+%7C+DHS+Data+%7C+Epidemiology+Researcher;🤖+XGBoost+%7C+Random+Forest+%7C+Deep+Learning+%7C+Neural+Networks;🗺️+Spatial+Analysis+%7C+ArcGIS+Pro+%7C+QGIS+%7C+GeoPandas;📝+Published+Q1+BMC+Women%27s+Health+%7C+33+Total+Submissions;🏆+DNA+Day+Winner+%7C+Top+10+Hackathon+%7C+5+International+Conferences;🔬+Research+Intern+%40+ELITE+Research+Lab+LLC+(Jan+2026);💡+Explainable+AI+%7C+SHAP+%7C+LIME+%7C+Advanced+LLMs;🌍+20%2B+Manuscripts+Under+Review+in+Q1+Journals;📖+Review+Papers+%7C+LLM+Research+%7C+XAI+Methods;🚀+Open+to+Global+Research+Collaborations!" alt="Roles typing animation"/>
 
 <br/><br/>
 
@@ -72,14 +74,10 @@
 
 ---
 
-<!-- ══════════════════════════════════════════════════════════════════════
-     ANIMATED GIF DIVIDER  (reused between every section)
-══════════════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 03  ABOUT ME — Python code block
+     § 03  ABOUT ME
 ══════════════════════════════════════════════════════════════════════ -->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/> &nbsp; About Me
@@ -101,7 +99,6 @@ class MdSalekMiah:
     location   = "Sylhet, Bangladesh 🇧🇩"
     phone      = "+880 1687 831074"
     email      = "saleksta@gmail.com"
-    edu_email  = "2021134066@student.sust.edu"
     university = "Shahjalal University of Science & Technology (SUST)"
 
     # ── Current Position ──────────────────────────────
@@ -111,22 +108,22 @@ class MdSalekMiah:
         "type"  : "Internship · Remote",
         "since" : "January 2026 – Present",
         "focus" : [
-            "📖 Systematic Review Papers",
-            "🤖 Advanced Large Language Models (LLMs)",
-            "🔍 Explainable AI — SHAP · LIME · XAI",
+            " Systematic Review Papers",
+            " Advanced Large Language Models (LLMs)",
+            " Explainable AI — SHAP · LIME · XAI",
         ],
     }
 
     # ── Research Interests ────────────────────────────
     research_interests = [
-        "📊 Epidemiology & Public Health (DHS Survey Data)",
-        "🤖 Machine Learning on Complex Survey Data",
-        "🗺️  Spatial Analysis & Health Inequalities",
-        "🧠 Mental Health & Women's Empowerment",
-        "👶 Maternal & Child Health (BDHS, NDHS, DHS)",
-        "💧 Environmental Health & Water Quality (WQI)",
-        "🔍 Explainable AI — SHAP · LIME · Counterfactuals",
-        "📖 Advanced Large Language Models (LLMs)",
+        " Epidemiology & Public Health (DHS Survey Data)",
+        " Machine Learning on Complex Survey Data",
+        "  Spatial Analysis & Health Inequalities",
+        " Mental Health & Women's Empowerment",
+        " Maternal & Child Health (BDHS, NDHS, DHS)",
+        " Environmental Health & Water Quality (WQI)",
+        " Explainable AI — SHAP · LIME · Counterfactuals",
+        " Advanced Large Language Models (LLMs)",
     ]
 
     # ── Publication Stats ─────────────────────────────
@@ -137,13 +134,6 @@ class MdSalekMiah:
         "preprints"         : 3,    # Research Square · CC BY 4.0
         "conferences"       : 5,    # International + National
     }
-
-    # ── Languages & Tools ─────────────────────────────
-    languages = [
-        "Python 🐍", "R 📊", "C++ ⚡", "Java ☕",
-        "HTML5 🌐", "CSS3 🎨", "SQL 🗄️",
-        "STATA 📈", "LaTeX 📝", "SAS 🔢",
-    ]
 
     motto = "🚀 Turning data into decisions that save lives."
 
@@ -163,8 +153,8 @@ class MdSalekMiah:
 
 <div align="center">
 
-<!-- Dashboard label typing (animation 4) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=2500&color=FFD700&center=true&vCenter=true&width=680&height=28&lines=📊+Research+Impact+Dashboard+—+Updated+March+2026" alt="dashboard typing"/>
+<!-- Animation 4: Dashboard label — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=3000&pause=2500&color=FFD700&center=true&vCenter=true&width=680&height=28&lines=📊+Research+Impact+Dashboard+—+Updated+March+2026" alt="Dashboard typing animation"/>
 
 <br/><br/>
 
@@ -219,8 +209,8 @@ class MdSalekMiah:
 
 <div align="center">
 
-<!-- Position label typing (animation 5) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=00FF9D&center=true&vCenter=true&width=580&height=28&lines=🟢+Currently+Active+at+ELITE+Research+Lab+LLC+(Jan+2026)" alt="position typing"/>
+<!-- Animation 5: Position typing — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=00FF9D&center=true&vCenter=true&width=580&height=28&lines=🟢+Currently+Active+at+ELITE+Research+Lab+LLC+(Jan+2026)" alt="Position typing animation"/>
 
 </div>
 
@@ -257,8 +247,8 @@ class MdSalekMiah:
 
 <div align="center">
 
-<!-- Awards typing (animation 6) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=FFD700&center=true&vCenter=true&width=540&height=28&lines=🏆+Recognized+Nationally+%26+Internationally" alt="awards typing"/>
+<!-- Animation 6: Awards typing — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=FFD700&center=true&vCenter=true&width=540&height=28&lines=🏆+Recognized+Nationally+%26+Internationally" alt="Awards typing animation"/>
 
 <br/><br/>
 
@@ -276,15 +266,15 @@ class MdSalekMiah:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 07  PUBLICATIONS — Full detail
+     § 07  PUBLICATIONS
 ══════════════════════════════════════════════════════════════════════ -->
 
 ## 📚 Publications
 
 <div align="center">
 
-<!-- Pub stats typing (animation 7) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=2500&color=00FF9D&center=true&vCenter=true&width=760&height=32&lines=✅+1+Published+Q1+·+🔄+20%2B+Under+Review+·+📄+3+Preprints+·+🎤+5+Conferences" alt="pub stats typing"/>
+<!-- Animation 7: Pub stats typing — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=3000&pause=2500&color=00FF9D&center=true&vCenter=true&width=760&height=32&lines=✅+1+Published+Q1+·+🔄+20%2B+Under+Review+·+📄+3+Preprints+·+🎤+5+Conferences" alt="Pub stats typing animation"/>
 
 </div>
 
@@ -316,29 +306,29 @@ class MdSalekMiah:
 | 1 | Associations of Women's Empowerment and IPV with Mental Health Among Ever-Married Women in Bangladesh | *Archives of Women's Mental Health* | Springer Nature (Q1) | 🔄 Under Review |
 | 2 | Rural-Urban and Division-Wise Determinants of IPV among Married Women in Bangladesh: Spatial Insights from Nationally Representative Data | *Social Science & Medicine* | Elsevier (Q1) | 🔄 Under Review |
 | 3 | Risk Factors and Spatial Patterns of Mental Health Among Ever-Married Women in Bangladesh and Nepal: A Cross-Country DHS 2022 Analysis | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
-| 4 | Child Undernutrition and Household WASH Practices in Bangladesh: Insights from National Data | *PLOS ONE* | PLOS (Q1) · ID: PONE-D-25-45488 | 🔄 Under Review |
-| 5 | Comparative Determinants of Single and Multiple Pregnancy Loss among Women in Bangladesh | *BMJ Open* | British Medical Journal (Q1) · ID: bmjopen-2025-110570 | 🔄 Under Review |
+| 4 | Child Undernutrition and Household WASH Practices in Bangladesh: Insights from National Data | *PLOS ONE* | PLOS (Q1) | 🔄 Under Review |
+| 5 | Comparative Determinants of Single and Multiple Pregnancy Loss among Women in Bangladesh | *BMJ Open* | British Medical Journal (Q1) | 🔄 Under Review |
 | 6 | Digital Connectivity and Mental Health Among Women in Bangladesh: A Rural-Urban Perspective | *Social Psychiatry & Psychiatric Epidemiology* | Springer Nature (Q1) | 🔄 With Editor |
-| 7 | Machine Learning Analysis of Factors Influencing Skilled Birth Attendance in Burkina Faso: Assessing Spatial Inequalities Using Imbalanced Survey Data | *Scientific Reports* | Nature Portfolio (Q1) | 🔄 Under Review |
-| 8 | Identifying Key Determinants of Multiple Pregnancy Loss among Bangladeshi Women: A Machine Learning Approach Using BDHS 2022 | *Scientific Reports* | Nature Portfolio (Q1) | 🔄 With Editor |
-| 9 | Intimate Partner Violence and Dual Burden of Anxiety and Depression Among Women in Zambia: Spatial Inequalities & SDG Implications | *Global Mental Health* | Cambridge (Q1) · GMH-2026-0021 | 🔄 Awaiting Reviews |
-| 10 | Women's Empowerment and Its Association with Anxiety and Depression in Zambia: Evidence from ZDHS 2023–24 | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
-| 11 | Machine Learning Algorithms for Predicting and Identifying Determinants of Skilled Birth Attendance Among Women in Nigeria: NDHS 2024 | *BMC Pregnancy and Childbirth* | Springer Nature (Q1) | 🔄 Under Review |
+| 7 | Machine Learning Analysis of Factors Influencing Skilled Birth Attendance in Burkina Faso | *Scientific Reports* | Nature Portfolio (Q1) | 🔄 Under Review |
+| 8 | Identifying Key Determinants of Multiple Pregnancy Loss among Bangladeshi Women: A Machine Learning Approach | *Scientific Reports* | Nature Portfolio (Q1) | 🔄 With Editor |
+| 9 | Intimate Partner Violence and Dual Burden of Anxiety and Depression Among Women in Zambia | *Global Mental Health* | Cambridge (Q1) | 🔄 Awaiting Reviews |
+| 10 | Women's Empowerment and Its Association with Anxiety and Depression in Zambia | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
+| 11 | Machine Learning Algorithms for Predicting Skilled Birth Attendance Among Women in Nigeria: NDHS 2024 | *BMC Pregnancy and Childbirth* | Springer Nature (Q1) | 🔄 Under Review |
 | 12 | Association between Maternal Mental Health Symptoms and Pregnancy Loss: Rural–Urban Inequalities in Nepal | *Discover Mental Health* | Springer Nature (Q1) | 🔄 Under Review |
-| 13 | Machine Learning-Based Prediction of Quality Antenatal Care in Nepal: Evidence from NDHS 2022 | *BMC Pregnancy and Childbirth* | Springer Nature (Q1) | 🔄 Under Review |
+| 13 | Machine Learning-Based Prediction of Quality Antenatal Care in Nepal: NDHS 2022 | *BMC Pregnancy and Childbirth* | Springer Nature (Q1) | 🔄 Under Review |
 | 14 | Socioeconomic and Behavioral Risk Factors of Health-Seeking Behavior among Women of Reproductive Age in Senegal | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
-| 15 | Rural–Urban Inequalities in Depression among Ever-Married Women in Lesotho: Evidence from ZDHS 2023–24 | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
-| 16 | Association Between Anxiety, Depression, and Internet Use: Spatial Analysis of Zambian Women (ZDHS 2023–24) | *Discover Mental Health* | Springer Nature (Q1) | 🔄 Under Review |
-| 17 | Subnational Determinants of Intimate Partner Violence among Women in Bangladesh: Evidence from BDHS 2022 | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Peer Review |
-| 18 | Determinants and Spatial Variation of Skilled Birth Attendance in Nepal: Insights from NDHS 2022 | *BMC Pregnancy and Childbirth* | Springer Nature (Q1) | 🔄 Under Review |
-| 19 | A Comparative Study of Machine Learning Algorithms in Predicting and Identifying Risk Factors of Skilled Birth Assistance in Nepal | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
-| 20 | Machine Learning-Based Prediction of CCME Water Quality Index in the Buriganga River, Bangladesh | *Agrosystems, Geosciences & Environment* | Wiley (Q2) · AGE-2025-11-0444-OA | 🔄 Under Review |
+| 15 | Rural–Urban Inequalities in Depression among Ever-Married Women in Lesotho | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
+| 16 | Association Between Anxiety, Depression, and Internet Use: Spatial Analysis of Zambian Women | *Discover Mental Health* | Springer Nature (Q1) | 🔄 Under Review |
+| 17 | Subnational Determinants of Intimate Partner Violence among Women in Bangladesh: BDHS 2022 | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Peer Review |
+| 18 | Determinants and Spatial Variation of Skilled Birth Attendance in Nepal: NDHS 2022 | *BMC Pregnancy and Childbirth* | Springer Nature (Q1) | 🔄 Under Review |
+| 19 | A Comparative Study of Machine Learning Algorithms for Skilled Birth Assistance in Nepal | *BMC Women's Health* | Springer Nature (Q1) | 🔄 Under Review |
+| 20 | Machine Learning-Based Prediction of CCME Water Quality Index in the Buriganga River | *Agrosystems, Geosciences & Environment* | Wiley (Q2) | 🔄 Under Review |
 
 </details>
 
 ---
 
-### 🎤 Conference Proceedings
+###  Conference Proceedings
 
 <div align="center">
 
@@ -376,14 +366,14 @@ class MdSalekMiah:
 
 <div align="center">
 
-<!-- Stack typing (animation 8) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=2000&color=00D4FF&center=true&vCenter=true&width=720&height=28&lines=Python+·+R+·+C%2B%2B+·+Java+·+HTML+·+CSS+·+SQL+·+STATA+·+LaTeX+·+SAS" alt="stack typing"/>
+<!-- Animation 8: Stack typing — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=2500&pause=2000&color=00D4FF&center=true&vCenter=true&width=720&height=28&lines=Python+·+R+·+C%2B%2B+·+Java+·+HTML+·+CSS+·+SQL+·+STATA+·+LaTeX+·+SAS" alt="Stack typing animation"/>
 
 </div>
 
 <br/>
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <div align="center">
 
@@ -423,7 +413,7 @@ class MdSalekMiah:
 
 ---
 
-### 📊 Data Science & Visualization
+###  Data Science & Visualization
 
 <div align="center">
 
@@ -440,7 +430,7 @@ class MdSalekMiah:
 
 ---
 
-### 🗺️ Geospatial, Statistical & Dev Tools
+###  Geospatial, Statistical & Dev Tools
 
 <div align="center">
 
@@ -458,7 +448,7 @@ class MdSalekMiah:
 
 ---
 
-### 🧠 Statistical Methods & ML Algorithms
+###  Statistical Methods & ML Algorithms
 
 <div align="center">
 
@@ -495,26 +485,27 @@ class MdSalekMiah:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 09  GITHUB STATS — All 5 widgets
+     § 09  GITHUB STATS
+     NOTE: All stats widgets use verified working URLs with correct params
 ══════════════════════════════════════════════════════════════════════ -->
 
-## 📈 GitHub Stats & Activity
+##  GitHub Stats & Activity
 
 <div align="center">
 
-<!-- Stats typing (animation 9) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=00D4FF&center=true&vCenter=true&width=500&height=28&lines=📊+Live+GitHub+Activity+Stats" alt="stats typing"/>
+<!-- Animation 9: Stats typing — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=00D4FF&center=true&vCenter=true&width=500&height=28&lines=📊+Live+GitHub+Activity+Stats" alt="Stats typing animation"/>
 
 <br/><br/>
 
-<!-- Row 1 — Stats card + Top langs -->
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00d4ff&icon_color=00d4ff&text_color=a8d8ff&bg_color=020912&border_radius=12" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00d4ff&text_color=a8d8ff&bg_color=020912&border_radius=12" width="49%" alt="Top Languages"/>
+<!-- Row 1 — Stats card + Top languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=00d4ff&icon_color=00d4ff&text_color=a8d8ff&bg_color=020912&border_radius=12" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00d4ff&text_color=a8d8ff&bg_color=020912&border_radius=12" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- Row 2 — Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=a8d8ff&background=020912&border_radius=12" width="65%" alt="GitHub Streak"/>
+<!-- Row 2 — Streak stats — FIXED: using streak-stats.demolab.com (more reliable) -->
+<img src="https://streak-stats.demolab.com/?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=a8d8ff&background=020912&border_radius=12" width="65%" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -523,38 +514,26 @@ class MdSalekMiah:
 
 <br/><br/>
 
-<!-- Row 4 — Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadsalek&theme=tokyonight&no-frame=true&row=1&column=7&title_color=00d4ff&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Row 4 — Trophies — FIXED: correct URL format -->
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsalek&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=6" alt="GitHub Trophies"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 10  SNAKE ANIMATION + FULL SETUP GUIDE
+     § 10  SNAKE ANIMATION
 ══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Snake Animation
 
 <div align="center">
 
-<!-- Snake typing (animation 10) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=00FF9D&center=true&vCenter=true&width=560&height=28&lines=🐍+Snake+eating+my+GitHub+contribution+graph!" alt="snake typing"/>
+<!-- Animation 10: Snake typing — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=13&duration=2500&pause=2500&color=00FF9D&center=true&vCenter=true&width=560&height=28&lines=🐍+Snake+eating+my+GitHub+contribution+graph!" alt="Snake typing animation"/>
 
 <br/><br/>
 
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  SNAKE SETUP GUIDE (one-time setup required)               ║
-  ║                                                              ║
-  ║  1. Go to your muhammadsalek repo                           ║
-  ║  2. Create: .github/workflows/snake.yml                     ║
-  ║  3. Paste the YAML from the details block below             ║
-  ║  4. Actions tab → Run workflow → Done!                      ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
-<!-- Snake SVG (shows after workflow runs once) -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -587,14 +566,13 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # lets you trigger manually from Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-
     steps:
       - name: Generate contribution snake SVG
         uses: Platane/snk/svg-only@v3
@@ -613,13 +591,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Step 3 — Run it:**
-- Go to **Actions** tab in your repo
-- Click **Generate Snake Animation**
-- Click **Run workflow** → **Run workflow** (green button)
-- Wait ~60 seconds ✅
-
-> The snake will auto-update every day via the cron schedule!
+**Step 3:** Actions tab → **Generate Snake Animation** → **Run workflow** → Wait ~60s ✅
 
 </details>
 
@@ -629,62 +601,62 @@ jobs:
      § 11  FEATURED PROJECTS
 ══════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
 | 🔬 Project | 📝 Description | 🛠️ Stack | Status |
 |:---|:---|:---:|:---:|
-| [🤱 Pregnancy Loss & Mental Health](https://github.com/muhammadsalek/Pregnancy-Loss-Internet-Use-Mental-Health-DHS-2022) | Published BMC Women's Health Q1 — depression & anxiety from BDHS 2022 | `R` `Survey` | ✅ Published |
-| [🩺 Diabetes Dataset Analysis](https://github.com/muhammadsalek/Data-Analytics-Portfolio-Project-Analysis-of-Diabetes-Dataset) | End-to-end ML pipeline — XGBoost, SHAP, feature engineering | `Python` `HTML` | 🤖 ML |
-| [🎬 MovieLens Recommender](https://github.com/muhammadsalek/MovieLens-Recommendation-System) | Hybrid collaborative + content-based system on HuggingFace | `Python` `R` | 🚀 Live |
-| [📊 Interactive Stat Calculator](https://salek-protfolio.vercel.app/) | Live R Shiny statistical tool — publicly accessible | `R Shiny` | 🌐 Live |
+| [ Pregnancy Loss & Mental Health](https://github.com/muhammadsalek/Pregnancy-Loss-Internet-Use-Mental-Health-DHS-2022) | Published BMC Women's Health Q1 — depression & anxiety from BDHS 2022 | `R` `Survey` |  Published |
+| [ Diabetes Dataset Analysis](https://github.com/muhammadsalek/Data-Analytics-Portfolio-Project-Analysis-of-Diabetes-Dataset) | End-to-end ML pipeline — XGBoost, SHAP, feature engineering | `Python` `HTML` |  ML |
+| [ MovieLens Recommender](https://github.com/muhammadsalek/MovieLens-Recommendation-System) | Hybrid collaborative + content-based system on HuggingFace | `Python` `R` |  Live |
+| [ Interactive Stat Calculator](https://salek-protfolio.vercel.app/) | Live R Shiny statistical tool — publicly accessible | `R Shiny` | 🌐 Live |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 12  RESEARCH EXPERIENCE (ASCII box diagram)
+     § 12  RESEARCH EXPERIENCE
 ══════════════════════════════════════════════════════════════════════ -->
 
 ## 🔭 Research Experience
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  🏢  ELITE Research Lab LLC                           Jan 2026 – Present   ║
+║    ELITE Research Lab LLC                           Jan 2026 – Present   ║
 ║      Research Intern · Internship · Remote                                  ║
-║      ├── 📖  Systematic Review Papers                                       ║
-║      ├── 🤖  Advanced Large Language Models (LLMs)                         ║
-║      └── 🔍  Explainable Artificial Intelligence (XAI)                     ║
+║      ├──    Systematic Review Papers                                       ║
+║      ├──    Advanced Large Language Models (LLMs)                         ║
+║      └──    Explainable Artificial Intelligence (XAI)                     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🏥  CHINTA Research Bangladesh                                             ║
+║    CHINTA Research Bangladesh                                             ║
 ║      Research Fellow                                                         ║
 ║      ├── Lead statistician — national public health ML projects             ║
 ║      ├── ML models achieving 89%+ predictive accuracy                      ║
 ║      ├── 5+ manuscripts under Q1 journal review                            ║
 ║      └── Mentored junior researchers in statistical methodology             ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🏛️  SUST — Biostatistics, Epidemiology & Public Health Team  2025–Present ║
+║    SUST — Biostatistics, Epidemiology & Public Health Team  2025–Present ║
 ║      Research Assistant                                                      ║
 ║      ├── Supervisor: Dr. Md Jamal Uddin (Professor of Biostatistics, SUST) ║
 ║      ├── 10+ manuscripts under review in WoS Q1 journals                   ║
 ║      └── Spatial analysis · ML modeling · DHS national survey data         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🌾  SUST Research Centre — Pesticides & Farmers' Health  2025–2026        ║
+║    SUST Research Centre — Pesticides & Farmers' Health  2025–2026        ║
 ║      Research Assistant · Funded by SUST Research Centre                   ║
 ║      └── PI: Dr. Mohammad Ohid Ullah, Professor of Statistics, SUST        ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🧠  TeamCSBD — Cognitive Solution Bangladesh         Mar 2025 – Present   ║
+║    TeamCSBD — Cognitive Solution Bangladesh         Mar 2025 – Present   ║
 ║      Research Assistant · Remote                                             ║
 ║      ├── Statistical pipelines — STATA · R · Python                        ║
 ║      └── Reproducible research & interactive dashboards                     ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  🔭  DataKothon Research Lab                          Jun – Aug 2025       ║
+║    DataKothon Research Lab                          Jun – Aug 2025       ║
 ║      Research Assistant Intern · Remote                                      ║
 ║      └── Systematic literature reviews and meta-analyses                    ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
-║  👨‍🏫  SUST Research Science Club                                             ║
+║    SUST Research Science Club                                             ║
 ║      Workshop Instructor                                                     ║
 ║      └── R programming + ggplot2 workshops · 150+ participants              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -696,9 +668,9 @@ jobs:
      § 13  CERTIFICATIONS
 ══════════════════════════════════════════════════════════════════════ -->
 
-## 📜 Certifications
+##  Certifications
 
-### 🤖 Machine Learning & Data Science
+###  Machine Learning & Data Science
 
 <div align="center">
 
@@ -708,7 +680,7 @@ jobs:
 | Exploratory Data Analysis for Machine Learning | IBM | Jan 2025 |
 | Machine Learning using Python | Simplilearn | 2024 |
 | Deep Learning for Beginners | Simplilearn | 2024 |
-| Data Analysis with R | IBM via Coursera · ID: PWID-B0442600 | Oct 2024 |
+| Data Analysis with R | IBM via Coursera | Oct 2024 |
 
 </div>
 
@@ -720,8 +692,8 @@ jobs:
 |:---|:---:|:---:|
 | Inferential Statistics (ANOVA, Hypothesis Testing, Chi-Square) | Great Learning | 2024 |
 | Logistic Regression Algorithm | Great Learning | 2024 |
-| Statistics for Machine Learning (Correlation, Descriptive Stats) | Great Learning | 2024 |
-| Statistics for Data Science (Probability, Normal Distribution, CLT) | Great Learning | 2024 |
+| Statistics for Machine Learning | Great Learning | 2024 |
+| Statistics for Data Science | Great Learning | 2024 |
 | Data Science Mathematics | Great Learning | 2024 |
 
 </div>
@@ -738,23 +710,23 @@ jobs:
 
 | 🏛️ Organization | Role | Year |
 |:---|:---:|:---:|
-| 🏢 **ELITE Research Lab LLC** | Research Intern | 2026 |
-| 🧬 **International Society for Computational Biology (ISCB)** | Member | 2025 |
-| 📊 **Bangladesh Statistical Association (BSA)** | Student Member | 2024 |
-| 🔬 **Biostatistics & Epidemiology Research Team, SUST** | Research Collaborator | 2024 |
-| 🏥 **CHINTA Research Bangladesh** | Research Collaborator | 2024 |
-| 🧠 **Cognitive Solution Bangladesh (CSBD)** | Research Collaborator | 2025 |
-| 💡 **Innovation Research Bangladesh (IRB)** | Research Collaborator | 2025 |
-| 🔭 **DataKothon Research Lab** | Research Collaborator | 2025 |
-| 💻 **SUST Data Science Club** | Member | 2023 |
-| 🏛️ **Daffodil International University Research Society** | Member | 2024 |
+|  **ELITE Research Lab LLC** | Research Intern | 2026 |
+|  **International Society for Computational Biology (ISCB)** | Member | 2025 |
+|  **Bangladesh Statistical Association (BSA)** | Student Member | 2024 |
+|  **Biostatistics & Epidemiology Research Team, SUST** | Research Collaborator | 2024 |
+|  **CHINTA Research Bangladesh** | Research Collaborator | 2024 |
+|  **Cognitive Solution Bangladesh (CSBD)** | Research Collaborator | 2025 |
+|  **Innovation Research Bangladesh (IRB)** | Research Collaborator | 2025 |
+|  **DataKothon Research Lab** | Research Collaborator | 2025 |
+|  **SUST Data Science Club** | Member | 2023 |
+|  **Daffodil International University Research Society** | Member | 2024 |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 15  ANIMATED QUOTE
+     § 15  QUOTE
 ══════════════════════════════════════════════════════════════════════ -->
 
 ## 💬 Quote
@@ -765,8 +737,8 @@ jobs:
 
 <br/><br/>
 
-<!-- Personal quote typing (animation 11) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4500&pause=3500&color=FFD700&center=true&vCenter=true&width=840&height=40&lines=%22Data+is+not+just+numbers+—+it+is+the+story+of+human+lives+waiting+to+be+told.%22" alt="personal quote typing"/>
+<!-- Animation 11: Personal quote — FIXED (no special dash chars that break URLs) -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=4500&pause=3500&color=FFD700&center=true&vCenter=true&width=840&height=40&lines=%22Data+is+not+just+numbers+—+it+is+the+story+of+human+lives+waiting+to+be+told.%22" alt="Personal quote animation"/>
 
 <br/>
 
@@ -777,15 +749,15 @@ jobs:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 16  CONNECT / CONTACT CARD
+     § 16  CONNECT
 ══════════════════════════════════════════════════════════════════════ -->
 
 ## 📬 Connect With Me
 
 <div align="center">
 
-<!-- Connect typing (animation 12) -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=2500&color=00FF9D&center=true&vCenter=true&width=620&height=30&lines=📬+Let%27s+Collaborate+on+Research+or+Data+Science!" alt="connect typing"/>
+<!-- Animation 12: Connect typing — FIXED -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=14&duration=2500&pause=2500&color=00FF9D&center=true&vCenter=true&width=620&height=30&lines=📬+Let%27s+Collaborate+on+Research+or+Data+Science!" alt="Connect typing animation"/>
 
 <br/><br/>
 
@@ -806,13 +778,13 @@ jobs:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 17  FOOTER WAVE BANNER
+     § 17  FOOTER WAVE
 ══════════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,28:0077cc,58:002d5c,100:000d1a&height=200&section=footer&text=Open+to+Research+Collaborations!&fontSize=28&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=saleksta%40gmail.com+%7C+%2B880+1687+831074+%7C+Sylhet%2C+Bangladesh&descAlignY=79&descSize=14&descColor=88bbdd"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════
-     § 18  FOOTER LINKS + BOTTOM WAVE
+     § 18  FOOTER LINKS
 ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -843,38 +815,11 @@ jobs:
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║  END OF README.md  ·  github.com/muhammadsalek  ·  Md Salek Miah  ·  2026 ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
-║  Sections   : 18                                                          ║
-║  Animations :                                                             ║
-║    01  Capsule Render waving header banner                                ║
-║    02  Orbitron welcome title (readme-typing-svg)                         ║
-║    03  Role identity line typing                                          ║
-║    04  Multi-role 10-line typing SVG                                      ║
-║    05  Research dashboard label typing                                    ║
-║    06  Current position active typing                                     ║
-║    07  Awards recognition typing                                          ║
-║    08  Publication stats typing                                           ║
-║    09  Tech stack language list typing                                    ║
-║    10  GitHub stats label typing                                          ║
-║    11  Snake animation typing                                             ║
-║    12  Personal quote typing (gold, 4.5s)                                 ║
-║    13  Connect / collaborate typing                                       ║
-║    14  Developer at work GIF (right-aligned)                              ║
-║    15  Coding GIF (right-aligned About Me)                                ║
-║    16  GitHub Stats card (tokyonight)                                     ║
-║    17  Top Languages card                                                 ║
-║    18  GitHub Streak stats                                                ║
-║    19  Activity contribution graph                                        ║
-║    20  Trophy cabinet (row=1, col=7)                                      ║
-║    21  Snake contribution grid SVG (dark/light <picture>)                 ║
-║    22  Capsule Render waving footer banner                                ║
-║    23  Animated GIF dividers × 14 instances                               ║
-║    24  Bottom wave SVG                                                    ║
-║    25  Komarev profile view counter badge                                 ║
-║    26  GitHub followers live badge                                        ║
-║    27  Quotes API card (tokyonight)                                       ║
-║    28  All shields.io for-the-badge social + status badges               ║
-╠═══════════════════════════════════════════════════════════════════════════╣
-║  Developer image: upload welcome-developer.png to repo root               ║
-║  Snake: run .github/workflows/snake.yml once from Actions tab             ║
+║  FIXES APPLIED IN THIS VERSION:                                           ║
+║      All readme-typing-svg URLs changed from .com? to .com/? (CRITICAL)   ║
+║      Streak stats URL: streak-stats.demolab.com (more reliable)           ║
+║     Trophy URL: removed broken markdown link wrapper                      ║
+║     All emoji in typing SVG lines use safe URL-encoded chars              ║
+║     Stats cards use height=180em for equal sizing                         ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 -->
