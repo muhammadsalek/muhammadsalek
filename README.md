@@ -460,24 +460,30 @@ class MdSalekMiah:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2500&color=00C8FF&center=true&vCenter=true&width=500&height=30&lines=📊+Live+GitHub+Activity+Stats)](https://git.io/typing-svg)
+<!-- Capsule badge — 100% reliable, no SVG proxy issues -->
+<img src="https://img.shields.io/badge/📊_Live-GitHub_Activity_Stats-00c8ff?style=for-the-badge&labelColor=0d0221"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00c8ff&icon_color=00c8ff&text_color=a8d8ff&bg_color=0d0221&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00c8ff&text_color=a8d8ff&bg_color=0d0221&border_radius=10" />
+<!-- ── Row 1: Stats + Top Languages ── -->
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00c8ff&icon_color=00ff9d&text_color=a8d8ff&bg_color=0d0221&border_radius=10&ring_color=00c8ff" />
+&nbsp;
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&title_color=00c8ff&text_color=a8d8ff&bg_color=0d0221&border_radius=10" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00c8ff&fire=ff6b35&currStreakLabel=00c8ff&sideLabels=00c8ff&dates=a8d8ff&background=0d0221&border_radius=10" width="60%" />
+<!-- ── Row 2: Streak — demolab is the most reliable streak service ── -->
+<img src="https://streak-stats.demolab.com?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00c8ff&fire=ff6b35&currStreakLabel=00c8ff&sideLabels=a8d8ff&dates=a8d8ff&background=0d0221&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="68%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalek&theme=tokyo-night&hide_border=true&area=true&line=00c8ff&point=ffffff&bg_color=0d0221&color=a8d8ff&radius=6" width="97%" />
+<!-- ── Row 3: Activity Graph ── -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalek&theme=tokyo-night&hide_border=true&area=true&area_color=00c8ff&line=00c8ff&point=00ff9d&bg_color=0d0221&color=a8d8ff&radius=6&custom_title=Md+Salek+Miah+—+Contribution+Graph" width="97%" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsalek&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" width="97%"/>
+<!-- ── Row 4: Trophies ── -->
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsalek&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6&title=Stars,Followers,Commits,Repositories,Issues,PullRequest,Reviews" width="97%" />
 
 </div>
 
@@ -491,40 +497,78 @@ class MdSalekMiah:
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=2500&color=00FF9D&center=true&vCenter=true&width=560&height=30&lines=🐍+Snake+eating+my+GitHub+contribution+graph!)](https://git.io/typing-svg)
+<img src="https://img.shields.io/badge/🐍_Snake-eating+my+GitHub+contributions-00ff9d?style=for-the-badge&labelColor=0d0221"/>
 
 <br/><br/>
 
+<!--
+  ══════════════════════════════════════════════════════════════════
+  SNAKE SETUP REQUIRED — run the GitHub Action below ONCE first.
+  After the Action runs, the SVG will appear here automatically.
+  Until then, a live contribution chart is shown as fallback.
+  ══════════════════════════════════════════════════════════════════
+-->
+
+<!-- PRIMARY: Snake SVG (shows after GitHub Action runs once) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img
+    alt="🐍 Snake eating GitHub contributions"
+    src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    onerror="this.style.display='none'"
+  />
 </picture>
+
+<!-- FALLBACK: Live contribution graph (always visible) -->
+<img
+  src="https://ghchart.rshah.org/00c8ff/muhammadsalek"
+  alt="Md Salek Miah GitHub Contribution Chart"
+  width="100%"
+/>
+
+<br/><br/>
+
+> 🔧 **To activate the snake animation above:** Follow the setup below and run the GitHub Action once. The snake will appear and auto-update daily!
 
 </div>
 
 <details>
-<summary><b>⚙️ One-Time Snake Setup (.github/workflows/snake.yml) ▼</b></summary>
+<summary><b>⚙️ One-Time Snake Setup — Click to expand (.github/workflows/snake.yml) ▼</b></summary>
+
+<br/>
+
+**Step 1:** In your `muhammadsalek` repo, create the file: `.github/workflows/snake.yml`
+
+**Step 2:** Paste this exact YAML:
 
 ```yaml
 name: Generate Snake Animation
+
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"    # Auto-runs daily at midnight UTC
+  workflow_dispatch:         # Also lets you trigger manually
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: muhammadsalek
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
@@ -532,7 +576,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Go to **Actions → Generate Snake Animation → Run workflow** ✅
+**Step 3:** Go to your repo → **Actions** tab → **Generate Snake Animation** → **Run workflow** → ✅ Done!
+
+The snake will now appear above and auto-refresh every day 🐍
 
 </details>
 
