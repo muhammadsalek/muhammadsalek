@@ -1,48 +1,63 @@
-<!-- ═══════════════════════════════════════════════════════════════
+<!-- ════════════════════════════════════════════════════════════
   Md Salek Miah · github.com/muhammadsalek · 2026
-  PALETTE: Firoza · Pink · Sky Blue · Light Green · No Yellow
-  ✅ GIFs: raw.githubusercontent.com ONLY (GitHub-proxy safe)
+  🎨 PALETTE: Firoza · Hot Pink · Sky Blue · Light Green
+  ✅ GIFs: raw.githubusercontent.com — verified stable repos only
+  ✅ Dividers: user-images.githubusercontent.com (GitHub-hosted)
   ✅ Typing: readme-typing-svg.demolab.com
-  ✅ Stats: vercel.app + demolab.com ONLY
-════════════════════════════════════════════════════════════════ -->
+  ✅ Stats: vercel.app + demolab.com
+  ✅ Section headings: plain ## emoji text (loads instantly)
+  ✅ Name: Md Salek Miah (not MD)
+════════════════════════════════════════════════════════════ -->
 
-<!-- ══ ANIMATED TOP ACCENT BAR ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,30:48cae4,60:f72585,100:7209b7&height=8"/>
+<!-- ══ TOP COLOR STRIP ══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,25:48cae4,50:f72585,75:7209b7,100:00b4d8&height=6"/>
 
-<!-- ══ HEADER WAVE ══ -->
+<!-- ══ HERO HEADER WAVE ══ -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,20:0077b6,45:00b4d8,65:48cae4,80:f72585,100:7209b7&height=310&section=header&text=MD%20SALEK%20MIAH&fontSize=80&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Statistician%20%7C%20Epidemiologist%20%7C%20ML%20Researcher%20%7C%20Explainable%20AI&descSize=17&descAlignY=58&descColor=caf0f8&animation=fadeIn&stroke=48cae4&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,20:023e8a,42:0077b6,62:00b4d8,80:f72585,100:7209b7&height=320&section=header&text=Md%20Salek%20Miah&fontSize=82&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=Statistician%20%7C%20Epidemiologist%20%7C%20ML%20Researcher%20%7C%20Explainable%20AI&descSize=17&descAlignY=56&descColor=caf0f8&animation=fadeIn"/>
 </div>
 
-<!-- ══ DIVIDER ══ -->
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<!-- ══ VERIFIED WORKING ELECTRIC DIVIDER GIF ══ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══ TYPING ANIMATIONS ══ -->
+<!-- ══ WELCOME TYPING BLOCK ══ -->
 <div align="center">
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2600&pause=1100&color=00D4FF&center=true&vCenter=true&width=780&height=68&lines=%3E+Hello+World!+I+am+Salek+%F0%9F%91%8B;%3E+Researcher+%26+Data+Scientist+%F0%9F%94%AC;%3E+ML+Engineer+%7C+XAI+Specialist+%F0%9F%A4%96;%3E+Turning+Data+Into+Lives+Saved+%F0%9F%92%99;%3E+Open+to+Global+Collaborations+%F0%9F%8C%90" alt="Welcome Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=2400&pause=900&color=00D4FF&center=true&vCenter=true&width=800&height=72&lines=%F0%9F%91%8B+Hello+World!+I+am+Salek+%F0%9F%8C%8A;%F0%9F%94%AC+Researcher+%26+Data+Scientist;%F0%9F%A4%96+ML+Engineer+%7C+XAI+Specialist;%F0%9F%92%BE+30%2B+ML+Models+%7C+89%25%2B+Accuracy;%F0%9F%8C+Turning+Data+Into+Lives+Saved;%F0%9F%8C%90+Open+to+Global+Collaborations" alt="Typing Welcome"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=15&duration=2000&pause=700&color=F72585&center=true&vCenter=true&width=980&height=40&lines=Spatial+Epidemiologist+%7C+ML+Researcher+%7C+DHS+Expert+%7C+SUST+Bangladesh;Research+Intern+%40+ELITE+Research+Lab+LLC+2026;1+Q1+Published+%2B+20+Under+Review+%2B+33+Submissions+%2B+5+Conferences;SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+PyTorch+%7C+XGBoost;DNA+Day+Winner+%7C+Top+10+Hackathon+%7C+Runner-up+Poster" alt="Role Carousel"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=15&duration=1900&pause=600&color=F72585&center=true&vCenter=true&width=980&height=42&lines=%F0%9F%93%8A+Spatial+Epidemiologist+%7C+ML+Researcher+%7C+DHS+Expert+%7C+SUST+Bangladesh;%F0%9F%8F%A2+Research+Intern+%40+ELITE+Research+Lab+LLC+2026;%F0%9F%93%96+1+Q1+Published+%2B+20+Under+Review+%2B+33+Submissions+%2B+5+Conferences;%F0%9F%A7%A0+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+PyTorch+%7C+XGBoost;%F0%9F%8F%86+DNA+Day+Winner+%7C+Top+10+Hackathon+%7C+Runner-up+Poster" alt="Role Carousel"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=14&duration=5000&pause=4000&color=90E0EF&center=true&vCenter=true&width=700&height=32&lines=%E2%9C%A8+Turning+data+into+decisions+that+save+lives+%E2%9C%A8" alt="Tagline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=5000&pause=4200&color=90E0EF&center=true&vCenter=true&width=740&height=34&lines=%E2%9C%A8+Turning+data+into+decisions+that+save+lives+%E2%9C%A8" alt="Tagline"/>
 
 <br/><br/>
 
-<!-- SOCIAL BADGES -->
-<a href="https://www.linkedin.com/in/md-salek-miah-b34309329"><img src="https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03045e"/></a>&nbsp;
-<a href="https://salek-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-f72585?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03045e"/></a>&nbsp;
-<a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Research-48cae4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=03045e"/></a>&nbsp;
-<a href="https://www.researchgate.net/profile/Md-Miah-142"><img src="https://img.shields.io/badge/ResearchGate-Profile-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/></a>&nbsp;
-<a href="https://huggingface.co/salekml"><img src="https://img.shields.io/badge/HuggingFace-Models-f72585?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/></a>&nbsp;
-<a href="https://github.com/muhammadsalek"><img src="https://img.shields.io/badge/GitHub-Follow-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/></a>&nbsp;
-<a href="mailto:saleksta@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/></a>
+<!-- ══ SOCIAL BADGES ══ -->
+<a href="https://www.linkedin.com/in/md-salek-miah-b34309329">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03045e"/>
+</a>&nbsp;
+<a href="https://salek-protfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-f72585?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03045e"/>
+</a>&nbsp;
+<a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en">
+  <img src="https://img.shields.io/badge/Google_Scholar-Research-48cae4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=03045e"/>
+</a>&nbsp;
+<a href="https://www.researchgate.net/profile/Md-Miah-142">
+  <img src="https://img.shields.io/badge/ResearchGate-Profile-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/>
+</a>&nbsp;
+<a href="https://huggingface.co/salekml">
+  <img src="https://img.shields.io/badge/HuggingFace-Models-f72585?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/>
+</a>&nbsp;
+<a href="https://github.com/muhammadsalek">
+  <img src="https://img.shields.io/badge/GitHub-Follow-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/>
+</a>&nbsp;
+<a href="mailto:saleksta@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Email_Me-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/>
+</a>
 
 <br/><br/>
 
@@ -50,26 +65,25 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/muhammadsalek?label=Followers&style=for-the-badge&color=f72585&logo=github&labelColor=03045e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Location-Sylhet%2C+Bangladesh-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/📍_Location-Sylhet%2C+Bangladesh-00b4d8?style=for-the-badge&labelColor=03045e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open+To+Collaborate-56cfe1?style=for-the-badge&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/🟢_Status-Open+To+Collaborate-56cfe1?style=for-the-badge&labelColor=03045e"/>
 &nbsp;
-<img src="https://img.shields.io/badge/ELITE-Research+Lab+LLC-7209b7?style=for-the-badge&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/🔬_ELITE-Research+Lab+LLC-7209b7?style=for-the-badge&labelColor=03045e"/>
 
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══ WAVE DIVIDER ══ -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf/bottom_wave.png" width="100%"/>
+<!-- ════════════════════════════════════════════════════
+  § 01  ABOUT ME
+════════════════════════════════════════════════════ -->
 
-<!-- ══════════════════════════════════════
-  SECTION 01 — ABOUT ME
-══════════════════════════════════════ -->
+## 👋🏽 About Me
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=00D4FF&vCenter=true&width=220&height=34&lines=About+Me" alt="About Me"/>
-
-<img align="right" alt="Coding GIF" width="320" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
+<img align="right" alt="Coding" width="300"
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 #!/usr/bin/env python3
@@ -82,37 +96,37 @@ class MdSalekMiah:
 
     name       = "Md Salek Miah"
     title      = "Statistician & ML Researcher"
-    location   = "Sylhet, Bangladesh  🇧🇩"
+    location   = "Sylhet, Bangladesh 🇧🇩"
     email      = "saleksta@gmail.com"
     university = "SUST — Shahjalal Univ. of Science & Technology"
 
     current = {
-        "role"  : "Research Intern @ ELITE Research Lab LLC",
+        "role"  : "Research Intern @ ELITE Research Lab LLC 🏢",
         "type"  : "Remote · Jan 2026 – Present",
         "focus" : [
-            "Systematic Review Papers",
-            "Advanced Large Language Models (LLMs)",
-            "Explainable AI — SHAP · LIME · XAI",
+            "📄 Systematic Review Papers",
+            "🤖 Advanced Large Language Models (LLMs)",
+            "🔍 Explainable AI — SHAP · LIME · XAI",
         ],
     }
 
     domains = [
-        "Epidemiology & Public Health  (DHS Survey Data)",
-        "Machine Learning on Complex Survey Data",
-        "Spatial Analysis & Health Inequalities",
-        "Mental Health & Women Empowerment Research",
-        "Maternal & Child Health  (BDHS · NDHS · DHS)",
-        "Environmental Health & Water Quality (WQI)",
-        "Explainable AI — SHAP · LIME · Counterfactuals",
-        "Advanced Large Language Models (LLMs)",
+        "📊 Epidemiology & Public Health (DHS Survey Data)",
+        "🧠 Machine Learning on Complex Survey Data",
+        "🗺️  Spatial Analysis & Health Inequalities",
+        "💙 Mental Health & Women Empowerment Research",
+        "🤱 Maternal & Child Health (BDHS · NDHS · DHS)",
+        "💧 Environmental Health & Water Quality (WQI)",
+        "🔬 Explainable AI — SHAP · LIME · Counterfactuals",
+        "🚀 Advanced Large Language Models (LLMs)",
     ]
 
     publications = {
-        "q1_published"    : 1,
-        "under_review"    : 20,
-        "total_submitted" : 33,
-        "preprints"       : 3,
-        "conferences"     : 5,
+        "q1_published"    : 1,     # BMC Women's Health · Springer
+        "under_review"    : 20,    # Q1/Q2 Journals
+        "total_submitted" : 33,    # Springer Nature System
+        "preprints"       : 3,     # Research Square · CC BY 4.0
+        "conferences"     : 5,     # International & National
         "ml_models"       : 30,
         "best_accuracy"   : "89%+",
     }
@@ -128,52 +142,52 @@ if __name__ == "__main__":
 <br clear="right"/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=99999&pause=99999&color=90E0EF&center=true&vCenter=true&width=800&height=26&lines=%E2%9C%85+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences" alt="quick stats"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=99999&pause=99999&color=90E0EF&center=true&vCenter=true&width=820&height=28&lines=%E2%9C%85+1+Q1+Published+%7C+%F0%9F%94%84+20%2B+Under+Review+%7C+%F0%9F%93%9C+33+Submissions+%7C+%F0%9F%93%84+3+Preprints+%7C+%F0%9F%8E%99+5+Conferences" alt="quick stats bar"/>
+
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 02 — RESEARCH DASHBOARD
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 02  RESEARCH DASHBOARD
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=F72585&vCenter=true&width=340&height=34&lines=Research+Dashboard" alt="Research Dashboard"/>
+## 📊 Research Dashboard
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=2500&color=48CAE4&center=true&vCenter=true&width=700&height=28&lines=%F0%9F%93%8A+Research+Impact+Dashboard+--+March+2026" alt="dashboard label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2800&color=48CAE4&center=true&vCenter=true&width=720&height=30&lines=%F0%9F%93%88+Research+Impact+Dashboard+%E2%80%94+March+2026+%F0%9F%8C%8F" alt="dashboard label"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center" width="175">
+<td align="center" width="178">
 <img src="https://img.shields.io/badge/01-Q1_PUBLISHED-00b4d8?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>BMC Women's Health</b><br/>
 <sub>Springer Nature · 2025</sub>
 </td>
-<td align="center" width="175">
+<td align="center" width="178">
 <img src="https://img.shields.io/badge/20%2B-UNDER_REVIEW-f72585?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>Q1 / Q2 Journals</b><br/>
 <sub>Springer · Elsevier · BMJ</sub>
 </td>
-<td align="center" width="175">
+<td align="center" width="178">
 <img src="https://img.shields.io/badge/33-SUBMISSIONS-7209b7?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>Springer Nature</b><br/>
 <sub>Total System Count</sub>
 </td>
-<td align="center" width="175">
+<td align="center" width="178">
 <img src="https://img.shields.io/badge/03-PREPRINTS-48cae4?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>Research Square</b><br/>
 <sub>CC BY 4.0 Open</sub>
 </td>
-<td align="center" width="175">
+<td align="center" width="178">
 <img src="https://img.shields.io/badge/05-CONFERENCES-56cfe1?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>International</b><br/>
@@ -184,28 +198,26 @@ if __name__ == "__main__":
 
 <br/>
 
-![](https://img.shields.io/badge/Co--Authors-15%2B-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Countries_Studied-10%2B-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/DHS_Datasets-08-00d4ff?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/ML_Models-30%2B-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Workshop_Participants-150%2B-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Best_Accuracy-89%25%2B-56cfe1?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Active_Since-2024-90e0ef?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/🤝_Co--Authors-15%2B-00b4d8?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/🌍_Countries_Studied-10%2B-48cae4?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/📂_DHS_Datasets-08-00d4ff?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/🤖_ML_Models-30%2B-f72585?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/👥_Workshop_Participants-150%2B-7209b7?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/🎯_Best_Accuracy-89%25%2B-56cfe1?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/📅_Active_Since-2024-90e0ef?style=flat-square&labelColor=03045e)
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 03 — CURRENT POSITION
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 03  CURRENT POSITION
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=56CFE1&vCenter=true&width=300&height=34&lines=Current+Position" alt="Current Position"/>
+## 🔬 Current Position
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=700&height=32&lines=%F0%9F%9F%A2+ACTIVE+%40+ELITE+Research+Lab+LLC+%E2%80%94+Jan+2026+to+Present" alt="position typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=740&height=32&lines=%F0%9F%9F%A2+ACTIVE+%40+ELITE+Research+Lab+LLC+%E2%80%94+Jan+2026+to+Present+%F0%9F%9A%80" alt="position typing"/>
 </div>
 
 <br/>
@@ -214,7 +226,7 @@ if __name__ == "__main__":
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║  💠  ELITE RESEARCH LAB LLC                           Jan 2026 – Present   ║
 ║  ────────────────────────────────────────────────────────────────────────  ║
-║  Role    ➤  Research Intern · Internship · Remote                          ║
+║  Role    ➤  Research Intern · Internship · Remote 🌐                       ║
 ║  Type    ➤  Global · AI & Biomedical Research Lab                          ║
 ║  Status  ➤  🟢 ACTIVE (3+ months)                                          ║
 ║                                                                             ║
@@ -228,19 +240,17 @@ if __name__ == "__main__":
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 04 — AWARDS
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 04  AWARDS & RECOGNITION
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=F72585&vCenter=true&width=360&height=34&lines=Awards+%26+Recognition" alt="Awards"/>
+## 🏆 Awards & Recognition
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=48CAE4&center=true&vCenter=true&width=660&height=28&lines=%F0%9F%8F%86+Recognized+Nationally+%26+Internationally+%E2%80%94+2013+to+2025" alt="awards label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=48CAE4&center=true&vCenter=true&width=680&height=30&lines=%F0%9F%8F%86+Recognized+Nationally+%26+Internationally+%E2%80%94+2013+to+2025+%F0%9F%8C%9F" alt="awards label"/>
 
 <br/><br/>
 
@@ -255,23 +265,21 @@ if __name__ == "__main__":
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 05 — PUBLICATIONS
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 05  PUBLICATIONS
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=56CFE1&vCenter=true&width=240&height=34&lines=Publications" alt="Publications"/>
+## 📚 Publications
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2500&color=90E0EF&center=true&vCenter=true&width=860&height=32&lines=%F0%9F%93%96+1+Q1+Published+%7C+20%2B+Under+Review+%7C+3+Preprints+%7C+5+Conferences" alt="pub stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2800&color=90E0EF&center=true&vCenter=true&width=900&height=32&lines=%F0%9F%93%96+1+Q1+Published+%7C+20%2B+Under+Review+%7C+3+Preprints+%7C+5+Conferences+%F0%9F%8C%8F" alt="pub stats"/>
 </div>
 
 <br/>
 
-### <img src="https://img.shields.io/badge/%E2%9C%85+PUBLISHED-Q1_JOURNAL-00b4d8?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/%E2%9C%85_PUBLISHED-Q1_JOURNAL-00b4d8?style=for-the-badge&labelColor=03045e"/>
 
 <div align="center">
 
@@ -282,46 +290,46 @@ if __name__ == "__main__":
 > [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12905--025--04166--4-00b4d8?style=for-the-badge&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1186/s12905-025-04166-4)
 > &nbsp;
 > ![](https://img.shields.io/badge/Q1-Springer_Nature-f72585?style=flat-square&labelColor=03045e)
-> ![](https://img.shields.io/badge/Status-Published-56cfe1?style=flat-square&labelColor=03045e)
+> ![](https://img.shields.io/badge/Status-✅_Published-56cfe1?style=flat-square&labelColor=03045e)
 
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/%F0%9F%94%84+UNDER_REVIEW-20%2B_MANUSCRIPTS-f72585?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/%F0%9F%94%84_UNDER_REVIEW-20%2B_Manuscripts-f72585?style=for-the-badge&labelColor=03045e"/>
 
 <details>
-<summary><b>&nbsp;💙 Click to expand all 20 manuscripts</b></summary>
+<summary><b>&nbsp;💙 Click to expand all 20 manuscripts under review</b></summary>
 <br/>
 
 | # | Title | Journal | Publisher | Status |
 |:-:|:------|:--------|:----------|:------:|
-| 01 | Women's Empowerment and IPV with Mental Health — Bangladesh | *Archives of Women's Mental Health* | Springer Nature Q1 | Under Review |
-| 02 | Rural-Urban Determinants of IPV — Bangladesh | *Social Science & Medicine* | Elsevier Q1 | Under Review |
-| 03 | Spatial Patterns of Mental Health — Bangladesh and Nepal | *BMC Women's Health* | Springer Nature Q1 | Under Review |
-| 04 | Child Undernutrition and WASH Practices — Bangladesh | *PLOS ONE* | PLOS Q1 | Under Review |
-| 05 | Comparative Determinants of Pregnancy Loss — Bangladesh | *BMJ Open* | BMJ Q1 | Under Review |
-| 06 | Digital Connectivity and Mental Health — Bangladesh | *Social Psychiatry & Psychiatric Epidemiology* | Springer Q1 | With Editor |
-| 07 | ML Analysis of Skilled Birth Attendance — Burkina Faso | *Scientific Reports* | Nature Portfolio Q1 | Under Review |
-| 08 | ML Determinants of Multiple Pregnancy Loss — Bangladesh | *Scientific Reports* | Nature Portfolio Q1 | With Editor |
-| 09 | IPV and Anxiety and Depression — Zambia | *Global Mental Health* | Cambridge Q1 | Awaiting |
-| 10 | Women's Empowerment and Mental Health — Zambia | *BMC Women's Health* | Springer Nature Q1 | Under Review |
-| 11 | ML for Skilled Birth Attendance — Nigeria | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | Under Review |
-| 12 | Maternal Mental Health and Pregnancy Loss — Nepal | *Discover Mental Health* | Springer Nature Q1 | Under Review |
-| 13 | ML Prediction of Antenatal Care Quality — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | Under Review |
-| 14 | Socioeconomic Risk Factors Health-Seeking — Senegal | *BMC Women's Health* | Springer Nature Q1 | Under Review |
-| 15 | Rural-Urban Inequalities in Depression — Lesotho | *BMC Women's Health* | Springer Nature Q1 | Under Review |
-| 16 | Anxiety, Depression and Internet Use — Zambia | *Discover Mental Health* | Springer Nature Q1 | Under Review |
-| 17 | Subnational Determinants of IPV — Bangladesh | *BMC Women's Health* | Springer Nature Q1 | Peer Review |
-| 18 | Spatial Variation of Skilled Birth Attendance — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | Under Review |
-| 19 | ML Comparison for Skilled Birth Assistance — Nepal | *BMC Women's Health* | Springer Nature Q1 | Under Review |
-| 20 | ML Prediction of Water Quality Index — Buriganga River | *Agrosystems, Geosciences & Environment* | Wiley Q2 | Under Review |
+| 01 | Women's Empowerment and IPV with Mental Health — Bangladesh | *Archives of Women's Mental Health* | Springer Nature Q1 | 🔄 Under Review |
+| 02 | Rural-Urban Determinants of IPV — Bangladesh | *Social Science & Medicine* | Elsevier Q1 | 🔄 Under Review |
+| 03 | Spatial Patterns of Mental Health — Bangladesh and Nepal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Under Review |
+| 04 | Child Undernutrition and WASH Practices — Bangladesh | *PLOS ONE* | PLOS Q1 | 🔄 Under Review |
+| 05 | Comparative Determinants of Pregnancy Loss — Bangladesh | *BMJ Open* | BMJ Q1 | 🔄 Under Review |
+| 06 | Digital Connectivity and Mental Health — Bangladesh | *Social Psychiatry & Psychiatric Epidemiology* | Springer Q1 | 📝 With Editor |
+| 07 | ML Analysis of Skilled Birth Attendance — Burkina Faso | *Scientific Reports* | Nature Portfolio Q1 | 🔄 Under Review |
+| 08 | ML Determinants of Multiple Pregnancy Loss — Bangladesh | *Scientific Reports* | Nature Portfolio Q1 | 📝 With Editor |
+| 09 | IPV and Anxiety and Depression — Zambia | *Global Mental Health* | Cambridge Q1 | ⏳ Awaiting |
+| 10 | Women's Empowerment and Mental Health — Zambia | *BMC Women's Health* | Springer Nature Q1 | 🔄 Under Review |
+| 11 | ML for Skilled Birth Attendance — Nigeria | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Under Review |
+| 12 | Maternal Mental Health and Pregnancy Loss — Nepal | *Discover Mental Health* | Springer Nature Q1 | 🔄 Under Review |
+| 13 | ML Prediction of Antenatal Care Quality — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Under Review |
+| 14 | Socioeconomic Risk Factors Health-Seeking — Senegal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Under Review |
+| 15 | Rural-Urban Inequalities in Depression — Lesotho | *BMC Women's Health* | Springer Nature Q1 | 🔄 Under Review |
+| 16 | Anxiety, Depression and Internet Use — Zambia | *Discover Mental Health* | Springer Nature Q1 | 🔄 Under Review |
+| 17 | Subnational Determinants of IPV — Bangladesh | *BMC Women's Health* | Springer Nature Q1 | 👁 Peer Review |
+| 18 | Spatial Variation of Skilled Birth Attendance — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Under Review |
+| 19 | ML Comparison for Skilled Birth Assistance — Nepal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Under Review |
+| 20 | ML Prediction of Water Quality Index — Buriganga River | *Agrosystems, Geosciences & Environment* | Wiley Q2 | 🔄 Under Review |
 
 </details>
 
 ---
 
-### <img src="https://img.shields.io/badge/%F0%9F%8E%99+CONFERENCES-5_PROCEEDINGS-7209b7?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/%F0%9F%8E%99_CONFERENCES-5_Proceedings-7209b7?style=for-the-badge&labelColor=03045e"/>
 
 <div align="center">
 
@@ -337,7 +345,7 @@ if __name__ == "__main__":
 
 ---
 
-### <img src="https://img.shields.io/badge/%F0%9F%93%84+PREPRINTS-Research_Square-48cae4?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/%F0%9F%93%84_PREPRINTS-Research_Square-48cae4?style=for-the-badge&labelColor=03045e"/>
 
 <div align="center">
 
@@ -349,23 +357,21 @@ if __name__ == "__main__":
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 06 — TECH STACK
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 06  TECH STACK & EXPERTISE
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=00D4FF&vCenter=true&width=360&height=34&lines=Tech+Stack+%26+Expertise" alt="Tech Stack"/>
+## ⚙️ Tech Stack & Expertise
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=2000&color=48CAE4&center=true&vCenter=true&width=820&height=32&lines=%F0%9F%92%BB+Python+%7C+R+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+STATA+%7C+LaTeX+%7C+SAS+%7C+HTML+%7C+CSS" alt="stack typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2400&pause=1800&color=48CAE4&center=true&vCenter=true&width=840&height=34&lines=%F0%9F%92%BB+Python+%7C+R+%7C+C%2B%2B+%7C+Java+%7C+SQL+%7C+STATA+%7C+LaTeX+%7C+SAS+%7C+HTML+%7C+CSS+%F0%9F%9B%A0%EF%B8%8F" alt="stack typing"/>
 
 <br/><br/>
 
-**`// 💻 Programming Languages`**
+### `💻 Programming Languages`
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -381,7 +387,7 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-**`// 🤖 AI · ML · Deep Learning · XAI`**
+### `🤖 AI · ML · Deep Learning · XAI`
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -397,7 +403,7 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-**`// 📊 Data Science & Visualization`**
+### `📊 Data Science & Visualization`
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -410,7 +416,7 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-**`// 🗺️ Geospatial · DevTools`**
+### `🗺️ Geospatial · DevTools`
 
 ![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
@@ -424,7 +430,7 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-**`// 🧠 Statistical Methods`**
+### `🧠 Statistical Methods`
 
 ![](https://img.shields.io/badge/Multilevel_Modeling-03045e?style=flat-square&color=00b4d8)
 ![](https://img.shields.io/badge/Survival_Analysis-03045e?style=flat-square&color=00b4d8)
@@ -450,68 +456,68 @@ if __name__ == "__main__":
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 07 — GITHUB STATS
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 07  GITHUB STATS & ACTIVITY
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=00D4FF&vCenter=true&width=390&height=34&lines=GitHub+Stats+%26+Activity" alt="GitHub Stats"/>
+## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=520&height=28&lines=%F0%9F%93%A1+Live+GitHub+Metrics+%26+Activity" alt="live stats label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=540&height=28&lines=%F0%9F%93%A1+Live+GitHub+Metrics+%26+Activity+%E2%9A%A1" alt="live stats label"/>
 
 <br/><br/>
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=f72585&text_color=caf0f8&bg_color=03045e&border_radius=10&ring_color=00b4d8&custom_title=Salek+GitHub+Stats" />
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=f72585&text_color=caf0f8&bg_color=03045e&border_radius=10&ring_color=00b4d8&custom_title=Md+Salek+Miah+%E2%80%94+GitHub+Stats"/>
 &nbsp;&nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&title_color=00d4ff&text_color=caf0f8&bg_color=03045e&border_radius=10&custom_title=Most+Used+Languages" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&title_color=00d4ff&text_color=caf0f8&bg_color=03045e&border_radius=10&custom_title=Most+Used+Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00b4d8&fire=f72585&currStreakLabel=00d4ff&sideLabels=caf0f8&dates=90e0ef&background=03045e&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&sideNums=48cae4" width="70%" />
+<img src="https://streak-stats.demolab.com?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00b4d8&fire=f72585&currStreakLabel=00d4ff&sideLabels=caf0f8&dates=90e0ef&background=03045e&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&sideNums=48cae4" width="70%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalek&theme=tokyo-night&hide_border=true&area=true&area_color=00b4d8&line=f72585&point=48cae4&bg_color=03045e&color=caf0f8&radius=8&custom_title=Md+Salek+Miah+%E2%80%94+Contribution+Timeline" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalek&theme=tokyo-night&hide_border=true&area=true&area_color=00b4d8&line=f72585&point=48cae4&bg_color=03045e&color=caf0f8&radius=8&custom_title=Md+Salek+Miah+%E2%80%94+Contribution+Timeline" width="97%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=muhammadsalek&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" width="97%" />
+<img src="https://github-profile-trophy.vercel.app/?username=muhammadsalek&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" width="97%"/>
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 08 — CONTRIBUTION SNAKE
-  Snake GIF works after the GitHub Action runs once.
+<!-- ════════════════════════════════════════════════════
+  § 08  CONTRIBUTION SNAKE
+  ⚡ Snake SVG loads after running the GitHub Action once.
   Until then the activity graph above is visible.
-══════════════════════════════════════ -->
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=56CFE1&vCenter=true&width=400&height=34&lines=Contribution+Snake" alt="Contribution Snake"/>
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=2500&color=48CAE4&center=true&vCenter=true&width=580&height=32&lines=%F0%9F%90%8D+Snake+devouring+my+GitHub+contributions..." alt="snake typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=2500&color=48CAE4&center=true&vCenter=true&width=600&height=32&lines=%F0%9F%90%8D+Snake+devouring+my+GitHub+contributions+%E2%9A%A1" alt="snake typing"/>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake.svg"/>
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"
+    width="100%"/>
 </picture>
 
 </div>
 
 <details>
-<summary><b>💙 One-Time Snake Setup — .github/workflows/snake.yml</b></summary>
+<summary><b>💙 One-Time Snake Setup — copy to .github/workflows/snake.yml</b></summary>
 <br/>
 
 ```yaml
@@ -541,44 +547,40 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**Go to** Actions → Generate Snake Animation → Run workflow ✅
+**Steps:** Actions → Generate Snake Animation → Run workflow ✅
 
 </details>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 09 — FEATURED PROJECTS
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 09  FEATURED PROJECTS
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=F72585&vCenter=true&width=330&height=34&lines=Featured+Projects" alt="Projects"/>
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=56CFE1&center=true&vCenter=true&width=700&height=28&lines=%F0%9F%9A%80+Production+research+projects+%26+ML+pipelines" alt="projects label"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=56CFE1&center=true&vCenter=true&width=720&height=28&lines=%F0%9F%9A%80+Production+research+projects+%26+ML+pipelines+%F0%9F%A7%A0" alt="projects label"/>
 
 <br/><br/>
 
-| 🔬 Project | 📝 Description | 🛠 Stack | 🏷 Status |
+| 🔬 Project | 📝 Description | 🛠️ Stack | 🏷️ Status |
 |:---|:---|:---:|:---:|
 | [Pregnancy Loss & Mental Health](https://github.com/muhammadsalek/Pregnancy-Loss-Internet-Use-Mental-Health-DHS-2022) | Published Q1 — depression & anxiety, BDHS 2022 | `R` `Survey` | ✅ Published |
-| [Diabetes ML Analysis](https://github.com/muhammadsalek/Data-Analytics-Portfolio-Project-Analysis-of-Diabetes-Dataset) | End-to-end ML pipeline — XGBoost, SHAP | `Python` | ⚡ ML |
+| [Diabetes ML Analysis](https://github.com/muhammadsalek/Data-Analytics-Portfolio-Project-Analysis-of-Diabetes-Dataset) | End-to-end ML pipeline — XGBoost + SHAP | `Python` | ⚡ ML |
 | [MovieLens Recommender](https://github.com/muhammadsalek/MovieLens-Recommendation-System) | Hybrid collaborative + content-based filtering | `Python` `R` | 🔴 Live |
 | [Interactive Stat Calculator](https://salek-protfolio.vercel.app/) | Live R Shiny statistical tool | `R Shiny` | 🔴 Live |
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 10 — RESEARCH EXPERIENCE
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 10  RESEARCH EXPERIENCE
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=7209B7&vCenter=true&width=370&height=34&lines=Research+Experience" alt="Research Experience"/>
+## 🔭 Research Experience
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -612,19 +614,17 @@ jobs:
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 11 — CERTIFICATIONS
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 11  CERTIFICATIONS
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=48CAE4&vCenter=true&width=290&height=34&lines=Certifications" alt="Certifications"/>
+## 📜 Certifications
 
 <div align="center">
 
-**`// 🤖 Machine Learning & Data Science`**
+### `🤖 Machine Learning & Data Science`
 
 | Certificate | Issuer | Year |
 |:---|:---:|:---:|
@@ -636,7 +636,7 @@ jobs:
 
 <br/>
 
-**`// 📊 Statistics`**
+### `📊 Statistics`
 
 | Certificate | Issuer | Year |
 |:---|:---:|:---:|
@@ -648,19 +648,17 @@ jobs:
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 12 — AFFILIATIONS
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 12  PROFESSIONAL AFFILIATIONS
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=56CFE1&vCenter=true&width=400&height=34&lines=Professional+Affiliations" alt="Affiliations"/>
+## 👥 Professional Affiliations
 
 <div align="center">
 
-| 🏛 Organization | 🎯 Role | 📅 Year |
+| 🏛️ Organization | 🎯 Role | 📅 Year |
 |:---|:---:|:---:|
 | **💠 ELITE Research Lab LLC** | Research Intern | 2026 |
 | **🔬 ISCB — International Society for Computational Biology** | Member | 2025 |
@@ -675,15 +673,13 @@ jobs:
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 13 — QUOTE
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 13  MY QUOTE
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Speech%20Balloon.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=F72585&vCenter=true&width=210&height=34&lines=My+Quote" alt="Quote"/>
+## 💬 My Quote
 
 <div align="center">
 
@@ -691,40 +687,62 @@ jobs:
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=5000&pause=4000&color=90E0EF&center=true&vCenter=true&width=840&height=46&lines=%F0%9F%92%99+%22+Data+is+not+just+numbers+--+it+is+the+story+of+human+lives.+%22" alt="personal quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=5000&pause=4200&color=90E0EF&center=true&vCenter=true&width=860&height=48&lines=%F0%9F%92%99+%22+Data+is+not+just+numbers+--+it+is+the+story+of+human+lives.+%22" alt="personal quote"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Md_Salek_Miah-Researcher+%7C+Statistician+%7C+ML+Engineer-f72585?style=for-the-badge&labelColor=03045e&color=00b4d8"/>
+<img src="https://img.shields.io/badge/Md_Salek_Miah-Researcher+%7C+Statistician+%7C+ML+Engineer-00b4d8?style=for-the-badge&labelColor=03045e"/>
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<!-- ══════════════════════════════════════
-  SECTION 14 — CONNECT
-══════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════
+  § 14  CONNECT WITH ME
+════════════════════════════════════════════════════ -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" width="32"/> &nbsp;<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=21&duration=99999&pause=99999&color=56CFE1&vCenter=true&width=320&height=34&lines=Connect+With+Me" alt="Connect"/>
+## 📞 Connect With Me
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=720&height=34&lines=%F0%9F%8C%90+Collaborate+on+research+%26+data+science!+Always+open+%F0%9F%92%99" alt="connect typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=740&height=34&lines=%F0%9F%8C%90+Collaborate+on+research+%26+data+science!+Always+open+%F0%9F%92%99%F0%9F%9A%80" alt="connect typing"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center"><a href="https://salek-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-f72585?style=for-the-badge&logo=vercel&labelColor=03045e"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/md-salek-miah-b34309329"><img src="https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge&logo=linkedin&labelColor=03045e"/></a></td>
-<td align="center"><a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Scholar-My_Papers-48cae4?style=for-the-badge&logo=google-scholar&labelColor=03045e"/></a></td>
+<td align="center">
+  <a href="https://salek-protfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Now-f72585?style=for-the-badge&logo=vercel&labelColor=03045e"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://www.linkedin.com/in/md-salek-miah-b34309329">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge&logo=linkedin&labelColor=03045e"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Scholar-My_Papers-48cae4?style=for-the-badge&logo=google-scholar&labelColor=03045e"/>
+  </a>
+</td>
 </tr>
 <tr>
-<td align="center"><a href="https://www.researchgate.net/profile/Md-Miah-142"><img src="https://img.shields.io/badge/ResearchGate-Follow-7209b7?style=for-the-badge&logo=researchgate&labelColor=03045e"/></a></td>
-<td align="center"><a href="https://huggingface.co/salekml"><img src="https://img.shields.io/badge/HuggingFace-Models-f72585?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/></a></td>
-<td align="center"><a href="mailto:saleksta@gmail.com"><img src="https://img.shields.io/badge/Gmail-Write_Now-56cfe1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/></a></td>
+<td align="center">
+  <a href="https://www.researchgate.net/profile/Md-Miah-142">
+    <img src="https://img.shields.io/badge/ResearchGate-Follow-7209b7?style=for-the-badge&logo=researchgate&labelColor=03045e"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://huggingface.co/salekml">
+    <img src="https://img.shields.io/badge/HuggingFace-Models-f72585?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/>
+  </a>
+</td>
+<td align="center">
+  <a href="mailto:saleksta@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Write_Now-56cfe1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/>
+  </a>
+</td>
 </tr>
 </table>
 
@@ -744,9 +762,7 @@ jobs:
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ══ FOOTER WAVE ══ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,25:f72585,50:00b4d8,75:48cae4,100:03045e&height=200&section=footer&text=Open+to+Collaborations!&fontSize=30&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=saleksta%40gmail.com+%7C+%2B880+1687+831074+%7C+Sylhet%2C+Bangladesh&descAlignY=74&descSize=14&descColor=caf0f8"/>
@@ -763,13 +779,13 @@ jobs:
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=740&height=28&lines=%E2%AD%90+Star+my+repos+if+useful!+Open+to+global+research+collaborations+%F0%9F%8C%90" alt="footer typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=760&height=28&lines=%E2%AD%90+Star+my+repos+if+useful!+Open+to+global+research+collaborations+%F0%9F%8C%90" alt="footer typing"/>
 
 <br/>
 
-![](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
 </div>
 
-<!-- ══ BOTTOM ACCENT BAR ══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,30:7209b7,60:00b4d8,100:48cae4&height=8"/>
+<!-- ══ BOTTOM COLOR STRIP ══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,25:7209b7,50:00b4d8,75:48cae4,100:f72585&height=6"/>
