@@ -1,12 +1,6 @@
 <!-- ╔════════════════════════════════════════════════════════════════════════╗
      ║  MD SALEK MIAH  ·  github.com/muhammadsalek  ·  2026                 ║
      ║  Complete Academic Portfolio  ·  CV  ·  Code Repository              ║
-     ║  ──────────────────────────────────────────────────────────────────  ║
-     ║  ✅ All dividers    → capsule-render.vercel.app  (SVG, never breaks) ║
-     ║  ✅ Snake           → Platane/snk v3  (see §11 for setup)            ║
-     ║  ✅ Stats           → github-readme-stats · streak · activity-graph  ║
-     ║  ✅ WoS             → PII-8481-2026  (7 placements)                  ║
-     ║  ✅ Structure       → 14-section academic portfolio                   ║
      ╚════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ░░░░░░░  TOP NEON STRIP  ░░░░░░░ -->
@@ -19,19 +13,21 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
 
-<!-- ░░░░░░░  ANIMATED INTRO LINES  ░░░░░░░ -->
+<!-- ░░░░░░░  ANIMATED INTRO — LINE 1  ░░░░░░░ -->
 <div align="center">
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&duration=2100&pause=750&color=00D4FF&center=true&vCenter=true&width=900&height=72&lines=%F0%9F%91%8B+Hello!+I+am+Md+Salek+Miah+%F0%9F%8C%8A;%F0%9F%94%AC+Statistician+%7C+Epidemiologist+%7C+Data+Scientist;%F0%9F%A4%96+ML+Engineer+%7C+XAI+Specialist+%7C+LLM+Researcher;%F0%9F%8C+Turning+Data+Into+Decisions+That+Save+Lives;%F0%9F%8C%90+Seeking+PhD+%26+Global+Research+Collaborations" alt="intro-1"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2100&pause=750&color=00D4FF&center=true&vCenter=true&multiline=false&width=860&height=70&lines=%F0%9F%91%8B+Hello!+I+am+Md+Salek+Miah+%F0%9F%8C%8A;%F0%9F%94%AC+Statistician+%7C+Epidemiologist+%7C+Data+Scientist;%F0%9F%A4%96+ML+Engineer+%7C+XAI+Specialist+%7C+LLM+Researcher;%F0%9F%8C+Turning+Data+Into+Decisions+That+Save+Lives;%F0%9F%8C%90+Seeking+PhD+%26+Global+Research+Collaborations)](https://github.com/muhammadsalek)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=15&duration=1900&pause=650&color=F72585&center=true&vCenter=true&width=1020&height=44&lines=%F0%9F%8F%9B%EF%B8%8F+Web+of+Science+Verified+Author+%E2%80%94+ID%3A+PII-8481-2026;%F0%9F%93%96+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;%F0%9F%8F%A2+Research+Intern+%40+ELITE+Research+Lab+LLC+%E2%80%94+Transparent%2C+Reliable+AI;%F0%9F%93%8A+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;%F0%9F%A7%A0+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch" alt="intro-2"/>
+<!-- ░░░░░░░  ANIMATED INTRO — LINE 2  ░░░░░░░ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1900&pause=650&color=F72585&center=true&vCenter=true&multiline=false&width=1000&height=42&lines=%F0%9F%8F%9B%EF%B8%8F+Web+of+Science+Verified+Author+%E2%80%94+ID%3A+PII-8481-2026;%F0%9F%93%96+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;%F0%9F%8F%A2+Research+Intern+%40+ELITE+Research+Lab+LLC+%E2%80%94+Transparent%2C+Reliable+AI;%F0%9F%93%8A+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;%F0%9F%A7%A0+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch)](https://github.com/muhammadsalek)
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=15&duration=6000&pause=5200&color=FFD700&center=true&vCenter=true&width=840&height=34&lines=%E2%9C%A8+Research+Portfolio+%C2%B7+CV+%C2%B7+Code+Repository+%E2%80%94+PhD+Ready+2026+%E2%9C%A8" alt="tagline"/>
+<!-- ░░░░░░░  TAGLINE  ░░░░░░░ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=6000&pause=5200&color=FFD700&center=true&vCenter=true&multiline=false&width=820&height=32&lines=%E2%9C%A8+Research+Portfolio+%C2%B7+CV+%C2%B7+Code+Repository+%E2%80%94+PhD+Ready+2026+%E2%9C%A8)](https://github.com/muhammadsalek)
 
 <br/><br/>
 
@@ -72,18 +68,19 @@
 
 <br/><br/>
 
+<!-- ═══  QUICK-STATS CAPSULE BANNER (replaces broken typing SVG)  ═══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,50:03045e,100:03045e&height=36&text=✅%201%20Q1%20Published%20│%2020%2B%20Under%20Review%20│%2033%20Submissions%20│%203%20Preprints%20│%205%20Conferences%20│%2030%2B%20ML%20Models%20│%20WoS%20PII-8481-2026&fontSize=11&fontColor=90E0EF&fontAlign=50&fontAlignY=55"/>
+
+<br/><br/>
+
 <!-- ═══  QUICK-NAV SECTION PILLS  ═══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=99999&pause=99999&color=7B8EA0&center=true&vCenter=true&width=600&height=22&lines=Navigate+this+Academic+Portfolio+%E2%86%93" alt="nav hint"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=22&text=Navigate+this+Academic+Portfolio+↓&fontSize=11&fontColor=7B8EA0&fontAlign=50&fontAlignY=60"/>
 
 <br/>
 
 ![About](https://img.shields.io/badge/1️⃣_About_Me-03045e?style=flat-square&color=03045e&labelColor=00b4d8)&nbsp;![Interests](https://img.shields.io/badge/2️⃣_Research_Interests-03045e?style=flat-square&color=03045e&labelColor=f72585)&nbsp;![Education](https://img.shields.io/badge/3️⃣_Education-03045e?style=flat-square&color=03045e&labelColor=7209b7)&nbsp;![Experience](https://img.shields.io/badge/4️⃣_Research_Experience-03045e?style=flat-square&color=03045e&labelColor=48cae4)&nbsp;![Skills](https://img.shields.io/badge/5️⃣_Skills_%26_Tools-03045e?style=flat-square&color=03045e&labelColor=00b4d8)&nbsp;![Projects](https://img.shields.io/badge/6️⃣_Projects-03045e?style=flat-square&color=03045e&labelColor=f72585)
 
 ![Publications](https://img.shields.io/badge/7️⃣_Publications-03045e?style=flat-square&color=03045e&labelColor=7209b7)&nbsp;![Datasets](https://img.shields.io/badge/8️⃣_Datasets-03045e?style=flat-square&color=03045e&labelColor=48cae4)&nbsp;![Achievements](https://img.shields.io/badge/9️⃣_Achievements-03045e?style=flat-square&color=03045e&labelColor=00b4d8)&nbsp;![Profiles](https://img.shields.io/badge/🔟_Research_Profiles-03045e?style=flat-square&color=03045e&labelColor=f72585)&nbsp;![Stats](https://img.shields.io/badge/1️⃣1️⃣_GitHub_Stats-03045e?style=flat-square&color=03045e&labelColor=7209b7)&nbsp;![WIP](https://img.shields.io/badge/1️⃣2️⃣_Work_in_Progress-03045e?style=flat-square&color=03045e&labelColor=48cae4)&nbsp;![Collabs](https://img.shields.io/badge/1️⃣3️⃣_Collaborations-03045e?style=flat-square&color=03045e&labelColor=FFD700)&nbsp;![Contact](https://img.shields.io/badge/1️⃣4️⃣_Contact-03045e?style=flat-square&color=03045e&labelColor=56cfe1)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=99999&pause=99999&color=90E0EF&center=true&vCenter=true&width=1000&height=26&lines=✅+1+Q1+Published+│+20%2B+Under+Review+│+33+Submissions+│+3+Preprints+│+5+Conferences+│+30%2B+ML+Models+│+WoS+PII-8481-2026" alt="quick-stats"/>
 
 </div>
 
@@ -118,7 +115,7 @@ class MdSalekMiah:
 
     # ── Verified Research Profiles ──────────────────────────────
     profiles = {
-        "web_of_science" : "PII-8481-2026  ✅ Verified",    # NEW
+        "web_of_science" : "PII-8481-2026  ✅ Verified",
         "google_scholar" : "oV99NYoAAAAJ",
         "researchgate"   : "Md-Miah-142",
         "huggingface"    : "salekml",
@@ -178,7 +175,10 @@ if __name__ == "__main__":
 <h2>2️⃣ &nbsp;Research Interests</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=3000&color=48CAE4&center=true&vCenter=true&width=840&height=30&lines=🔬+Core+Research+Domains+—+Interdisciplinary+·+Global+·+Impact-Driven" alt="ri"/>
+
+<!-- Reliable capsule-render banner replaces broken typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🔬+Core+Research+Domains+—+Interdisciplinary+·+Global+·+Impact-Driven&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -299,7 +299,10 @@ if __name__ == "__main__":
 <h2>4️⃣ &nbsp;Research Experience</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=880&height=28&lines=🟢+Active+Across+6+Research+Organisations+—+International+%26+National" alt="exp label"/>
+
+<!-- Capsule-render replaces broken typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🟢+Active+Across+6+Research+Organisations+—+International+%26+National&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -348,7 +351,10 @@ if __name__ == "__main__":
 <br/>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=99999&pause=99999&color=FFD700&center=true&vCenter=true&width=780&height=26&lines=🧑‍🏫+Research+Supervisors+—+SUST+Department+of+Statistics+(sust.edu+verified)" alt="sup label"/>
+
+<!-- Capsule-render replaces broken "sup label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=26&text=🧑‍🏫+Research+Supervisors+—+SUST+Department+of+Statistics+(sust.edu+verified)&fontSize=12&fontColor=FFD700&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -395,7 +401,8 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2400&pause=2000&color=48CAE4&center=true&vCenter=true&width=900&height=32&lines=💻+Python+·+R+·+C%2B%2B+·+Java+·+SQL+·+STATA+·+SAS+·+LaTeX+·+HTML+·+SPSS" alt="stack-bar"/>
+<!-- Capsule-render replaces broken "stack-bar" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=💻+Python+·+R+·+C%2B%2B+·+Java+·+SQL+·+STATA+·+SAS+·+LaTeX+·+HTML+·+SPSS&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
@@ -487,7 +494,10 @@ if __name__ == "__main__":
 <h2>6️⃣ &nbsp;Featured Research Projects</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=3000&color=56CFE1&center=true&vCenter=true&width=800&height=28&lines=🚀+ML+Pipelines+·+Public+Health+Research+·+Open+Science" alt="proj label"/>
+
+<!-- Capsule-render replaces broken "proj label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🚀+ML+Pipelines+·+Public+Health+Research+·+Open+Science&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -517,7 +527,10 @@ if __name__ == "__main__":
 <h2>7️⃣ &nbsp;Publications &amp; Manuscripts</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=2800&color=90E0EF&center=true&vCenter=true&width=1000&height=30&lines=📖+1+Q1+Published+·+20%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026" alt="pub bar"/>
+
+<!-- Capsule-render replaces broken "pub bar" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=📖+1+Q1+Published+·+20%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026&fontSize=12&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -606,7 +619,10 @@ if __name__ == "__main__":
 <h2>8️⃣ &nbsp;Datasets &amp; Resources</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3500&pause=3000&color=48CAE4&center=true&vCenter=true&width=760&height=28&lines=🗄️+DHS+Programme+·+Open+Survey+Data+·+10%2B+Countries+·+Open+Science" alt="data label"/>
+
+<!-- Capsule-render replaces broken "data label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🗄️+DHS+Programme+·+Open+Survey+Data+·+10%2B+Countries+·+Open+Science&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -699,7 +715,10 @@ if __name__ == "__main__":
 <h2>🔟 &nbsp;Research Profiles</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=3000&color=FFD700&center=true&vCenter=true&width=800&height=30&lines=🏛️+Verified+Academic+Profiles+—+Indexed+·+Citable+·+Trackable" alt="profiles label"/>
+
+<!-- Capsule-render replaces broken "profiles label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🏛️+Verified+Academic+Profiles+—+Indexed+·+Citable+·+Trackable&fontSize=13&fontColor=FFD700&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -776,7 +795,8 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=540&height=28&lines=📡+Live+GitHub+Metrics+%26+Activity" alt="stats label"/>
+<!-- Capsule-render replaces broken "stats label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=📡+Live+GitHub+Metrics+%26+Activity&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
@@ -787,7 +807,7 @@ if __name__ == "__main__":
 
 <br/><br/>
 
-<!-- Streak — demolab is most reliable host -->
+<!-- Streak -->
 <img src="https://streak-stats.demolab.com/?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00b4d8&fire=f72585&currStreakLabel=00d4ff&sideLabels=caf0f8&dates=90e0ef&background=03045e&border_radius=14&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&sideNums=48cae4" width="70%"/>
 
 <br/><br/>
@@ -810,12 +830,11 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=3000&pause=2500&color=48CAE4&center=true&vCenter=true&width=680&height=32&lines=🐍+Snake+eating+my+GitHub+contribution+grid+⚡" alt="snake label"/>
+<!-- Capsule-render replaces broken "snake label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🐍+Snake+eating+my+GitHub+contribution+grid+⚡&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
-<!-- Snake SVG — generated by GitHub Action below.
-     Shows broken-image until Action runs once (normal & expected). -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"/>
@@ -833,16 +852,15 @@ if __name__ == "__main__":
 
 <br/>
 
-**STEP 1** — In your `muhammadsalek/muhammadsalek` profile repo, create the file:
-`.github/workflows/snake.yml` — paste the content below exactly:
+**STEP 1** — Create `.github/workflows/snake.yml` in your profile repo:
 
 ```yaml
 name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"    # auto-runs daily at midnight UTC
-  workflow_dispatch:         # lets you run it manually anytime
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -852,7 +870,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -870,13 +887,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**STEP 2** — Allow write permissions:
-Repo → **Settings** → **Actions** → **General** → **Workflow permissions** → select **"Read and write permissions"** → click **Save**
+**STEP 2** — Settings → Actions → General → Workflow permissions → **Read and write** → Save
 
-**STEP 3** — Trigger manually:
-**Actions tab** → click **"Generate Snake Animation"** → click **"Run workflow"** → wait ~60 seconds → ✅ snake appears permanently
-
-*The snake then auto-regenerates every day at midnight UTC.*
+**STEP 3** — Actions tab → "Generate Snake Animation" → **Run workflow** → wait ~60s → ✅ done
 
 </details>
 
@@ -890,7 +903,10 @@ Repo → **Settings** → **Actions** → **General** → **Workflow permissions
 <h2>1️⃣2️⃣ &nbsp;Current Research &amp; Work in Progress</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=56CFE1&center=true&vCenter=true&width=780&height=28&lines=🟢+Active+Research+Pipeline+—+March+2026" alt="wip label"/>
+
+<!-- Capsule-render replaces broken "wip label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🟢+Active+Research+Pipeline+—+March+2026&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -933,7 +949,10 @@ Repo → **Settings** → **Actions** → **General** → **Workflow permissions
 <h2>1️⃣3️⃣ &nbsp;Collaborations &amp; Open Research</h2>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=2500&color=48CAE4&center=true&vCenter=true&width=800&height=28&lines=🤝+Open+to+Research+Collaborations+—+Global+·+Interdisciplinary+·+Impact-Driven" alt="collab label"/>
+
+<!-- Capsule-render replaces broken "collab label" typing SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🤝+Open+to+Research+Collaborations+—+Global+·+Interdisciplinary+·+Impact-Driven&fontSize=12&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
+
 </div>
 
 <br/>
@@ -985,7 +1004,8 @@ Repo → **Settings** → **Actions** → **General** → **Workflow permissions
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=2500&color=90E0EF&center=true&vCenter=true&width=820&height=34&lines=🌐+Always+open+to+collaborate+·+PhD+enquiries+welcome+💙" alt="contact typing"/>
+<!-- Capsule-render replaces broken "contact typing" SVG -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🌐+Always+open+to+collaborate+·+PhD+enquiries+welcome+💙&fontSize=14&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
@@ -1032,7 +1052,7 @@ Repo → **Settings** → **Actions** → **General** → **Workflow permissions
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=6000&pause=5200&color=90E0EF&center=true&vCenter=true&width=940&height=50&lines=💙+%22+Data+is+not+just+numbers+—+it+is+the+story+of+human+lives.+%22" alt="quote"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=6000&pause=5200&color=90E0EF&center=true&vCenter=true&multiline=false&width=920&height=50&lines=💙+%22+Data+is+not+just+numbers+—+it+is+the+story+of+human+lives.+%22)](https://github.com/muhammadsalek)
 
 <br/>
 
@@ -1042,8 +1062,8 @@ Repo → **Settings** → **Actions** → **General** → **Workflow permissions
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7209b7,18:f72585,42:00b4d8,68:0077b6,100:03045e&height=240&section=footer&text=Open+to+Collaborations+%26+PhD+Opportunities!&fontSize=28&fontColor=ffffff&fontAlignY=54&animation=fadeIn&desc=saleksta%40gmail.com+·+%2B880+1687+831074+·+Sylhet%2C+Bangladesh+🇧🇩&descAlignY=74&descSize=15&descColor=caf0f8"/>
+<!-- FOOTER WAVE — Firoza / deep rose-to-cyan gradient as requested -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,15:7209b7,38:f72585,62:ff6b9d,80:00b4d8,100:48cae4&height=240&section=footer&text=Open+to+Collaborations+%26+PhD+Opportunities!&fontSize=28&fontColor=ffffff&fontAlignY=54&animation=fadeIn&desc=saleksta%40gmail.com+·+%2B880+1687+831074+·+Sylhet%2C+Bangladesh+🇧🇩&descAlignY=74&descSize=15&descColor=caf0f8"/>
 
 <div align="center">
 
@@ -1058,7 +1078,7 @@ Repo → **Settings** → **Actions** → **General** → **Workflow permissions
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=3000&color=90E0EF&center=true&vCenter=true&width=840&height=26&lines=⭐+Star+my+repos+if+useful!+Open+to+PhD+%26+global+research+collaborations+🌐" alt="footer note"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=3000&color=90E0EF&center=true&vCenter=true&multiline=false&width=820&height=26&lines=⭐+Star+my+repos+if+useful!+Open+to+PhD+%26+global+research+collaborations+🌐)](https://github.com/muhammadsalek)
 
 </div>
 
