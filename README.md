@@ -1,8 +1,9 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════════╗
      ║   Md Salek Miah  ·  github.com/muhammadsalek  ·  2026                      ║
-     ║   PhD-Level Academic Portfolio  ·  CV  ·  Research Code Repository         ║
+     ║    Academic Portfolio  ·  CV  ·  Research Code Repository                  ║
      ║   Statistician · Epidemiologist · ML Researcher · XAI · Public Health      ║
      ║   WoS: PII-8481-2026  ·  Q1 Published  ·  20+ Under Review                ║
+     ║   Q1 Peer Reviewer · Cambridge University Press · Global Mental Health      ║
      ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ████  TOP IRIDESCENT STRIP  ████ -->
@@ -10,7 +11,7 @@
 
 <!-- ████  HERO BANNER  ████ -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,10:023e8a,22:0077b6,36:0096c7,50:00b4d8,65:7209b7,80:b5179e,92:f72585,100:ff6b9d&height=420&section=header&text=Md%20Salek%20Miah&fontSize=115&fontColor=ffffff&fontAlignY=33&fontAlign=50&desc=Statistician%20%7C%20Epidemiologist%20%7C%20ML%20Researcher%20%7C%20Explainable%20AI%20%7C%20Public%20Health%20Scientist&descSize=19&descAlignY=52&descColor=caf0f8&animation=fadeIn&stroke=48cae4&strokeWidth=2"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,10:023e8a,22:0077b6,36:0096c7,50:00b4d8,65:7209b7,80:b5179e,92:f72585,100:ff6b9d&height=440&section=header&text=Md%20Salek%20Miah&fontSize=112&fontColor=ffffff&fontAlignY=30&fontAlign=50&desc=Statistician%20%7C%20Epidemiologist%20%7C%20ML%20Researcher%20%7C%20Explainable%20AI%20%7C%20Q1%20Peer%20Reviewer%20%7C%20Cambridge%20University%20Press&descSize=17&descAlignY=50&descColor=caf0f8&animation=fadeIn&stroke=48cae4&strokeWidth=2"/>
 </div>
 
 <!-- ████  ACCENT LINE  ████ -->
@@ -28,7 +29,7 @@
 <!-- ████  ANIMATED — RESEARCH STATS BAR  ████ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📖+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch)](https://github.com/muhammadsalek)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📖+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch;📝+Q1+Peer+Reviewer+%E2%80%94+Cambridge+Prisms%3A+Global+Mental+Health+%7C+Cambridge+University+Press)](https://github.com/muhammadsalek)
 
 </div>
 
@@ -65,14 +66,15 @@
 <img src="https://img.shields.io/badge/📍_Sylhet-Bangladesh_🇧🇩-0096c7?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🟢_Open-To_Collaborate-56cfe1?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🔬_ELITE-Research_Lab_LLC-7209b7?style=for-the-badge&labelColor=03045e"/>&nbsp;
-<img src="https://img.shields.io/badge/🏛️_WoS-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/🏛️_WoS-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e"/>&nbsp;
+<a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/📝_Peer_Reviewer-Cambridge_University_Press-48cae4?style=for-the-badge&labelColor=03045e"/></a>
 
 </div>
 
 <br/>
 
 <!-- ████  QUICK-STATS FULL-WIDTH CAPSULE  ████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=40&text=✅+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences+%7C+30%2B+ML+Models+%7C+WoS+PII-8481-2026&fontSize=11.5&fontColor=90E0EF&fontAlign=50&fontAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=46&text=✅+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences+%7C+30%2B+ML+Models+%7C+Q1+Peer+Reviewer+%7C+WoS+PII-8481-2026&fontSize=11&fontColor=90E0EF&fontAlign=50&fontAlignY=58"/>
 
 <br/><br/>
 
@@ -175,6 +177,7 @@ class MdSalekMiah:
         "ml_models"    : "30+",
         "top_accuracy" : "89%+",
         "countries"    : "10+",
+        "peer_reviewer": "Cambridge Prisms: Global Mental Health",
     }
 
     motto = "Turning data into decisions that save lives. 💙"
@@ -183,6 +186,7 @@ if __name__ == "__main__":
     me = MdSalekMiah()
     print(f"👋  Welcome to {me.name}'s Academic Portfolio")
     print(f"🏛️  WoS Verified : {me.research['wos_id']}")
+    print(f"📝  Peer Reviewer: {me.research['peer_reviewer']}")
     print(f"✨  {me.motto}")
 ```
 
@@ -201,6 +205,7 @@ if __name__ == "__main__":
 | ML + XAI + Epidemiology | 10+ Countries (DHS) | 33 Submissions | Fully Funded PhD 2026 |
 | Spatial Health Mapping | Bangladesh → Africa | 30+ ML Models | Global Health Impact |
 | SHAP · LIME · LLMs | Open Science · CC BY | 89%+ Accuracy | Transparent AI Systems |
+| Q1 Peer Reviewer | Cambridge University Press | Global Mental Health | Rigorous Science |
 
 </div>
 
@@ -442,6 +447,48 @@ if __name__ == "__main__":
 </td>
 </tr>
 </table>
+</div>
+
+
+---
+
+### <img src="https://img.shields.io/badge/📝_PEER_REVIEW_EXPERIENCE-Verified_·_Publons_·_Web_of_Science-48cae4?style=for-the-badge&labelColor=03045e"/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=📝+Peer+Review+Experience+—+Verified+on+Web+of+Science+%2F+Publons&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| 📋 Detail | 📌 Information |
+|:---|:---|
+| **Journal** | Cambridge Prisms: Global Mental Health |
+| **Publisher** | Cambridge University Press |
+| **Date** | March 2026 |
+| **Verification** | ✅ [Web of Science / Publons — PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026) |
+| **Manuscript Focus** | Multisite study of post-traumatic depressive symptoms among Nigerian women survivors of sexual and domestic abuse |
+
+</div>
+
+<br/>
+
+**Contributions & Scope:**
+- 📊 Assessed **methodological rigour**, study design, and statistical analysis quality
+- 🔬 Evaluated **interpretation of findings**, clinical relevance, and evidence-based conclusions
+- ✅ Review record **verified on Web of Science / Publons** — Author ID: PII-8481-2026
+- 🌍 Contributed to advancing **global mental health research** and international publication quality
+
+<br/>
+
+<div align="center">
+
+<a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/📝_Peer_Reviewer-Cambridge_Prisms%3A_Global_Mental_Health-48cae4?style=for-the-badge&labelColor=03045e"/></a>&nbsp;
+<a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/✅_Verified-Web_of_Science_%2F_Publons-FFD700?style=for-the-badge&labelColor=03045e"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Publisher-Cambridge_University_Press-7209b7?style=for-the-badge&labelColor=03045e"/>&nbsp;
+<img src="https://img.shields.io/badge/📅_Date-March_2026-f72585?style=for-the-badge&labelColor=03045e"/>
+
 </div>
 
 <br/>
@@ -731,6 +778,7 @@ if __name__ == "__main__":
 | 🥈 | **Runner-up** — Scientific Poster Competition | 6th Bangladesh Economics Summit | 2025 |
 | 📄 | **Q1 Published** — BMC Women's Health · DOI: 10.1186/s12905-025-04166-4 | Springer Nature | Nov 2025 |
 | 🏛️ | **WoS Verified Author** — ID: PII-8481-2026 | Clarivate Web of Science | 2026 |
+| 📝 | **Q1 Peer Reviewer** — [Cambridge Prisms: Global Mental Health](https://www.webofscience.com/wos/author/record/PII-8481-2026) | Cambridge University Press | Mar 2026 |
 | 🎓 | **Merit Scholarship** | Aftab Uddin–Khudeja Banu Welfare Trust, UK | 2016 |
 | 🎓 | **Merit Scholarship** | Khandoker Trust International | 2013 |
 
