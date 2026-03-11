@@ -1,109 +1,134 @@
-<!-- ╔════════════════════════════════════════════════════════════════════════╗
-     ║  MD SALEK MIAH  ·  github.com/muhammadsalek  ·  2026                 ║
-     ║  Complete Academic Portfolio  ·  CV  ·  Code Repository              ║
-     ╚════════════════════════════════════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════════════╗
+     ║   Md Salek Miah  ·  github.com/muhammadsalek  ·  2026                      ║
+     ║   PhD-Level Academic Portfolio  ·  CV  ·  Research Code Repository         ║
+     ║   Statistician · Epidemiologist · ML Researcher · XAI · Public Health      ║
+     ║   WoS: PII-8481-2026  ·  Q1 Published  ·  20+ Under Review                ║
+     ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ░░░░░░░  TOP NEON STRIP  ░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,15:0077b6,35:023e8a,55:7209b7,75:f72585,90:48cae4,100:00b4d8&height=8"/>
+<!-- ████  TOP IRIDESCENT STRIP  ████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,12:0096c7,25:023e8a,40:3a0ca3,55:7209b7,70:b5179e,85:f72585,100:ff6b9d&height=6"/>
 
-<!-- ░░░░░░░  HERO BANNER  ░░░░░░░ -->
+<!-- ████  HERO BANNER  ████ -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,12:023e8a,28:0077b6,46:0096c7,64:00b4d8,82:f72585,100:7209b7&height=390&section=header&text=MD%20SALEK%20MIAH&fontSize=108&fontColor=ffffff&fontAlignY=34&fontAlign=50&desc=Statistician%20%E2%80%A2%20Epidemiologist%20%E2%80%A2%20ML%20Researcher%20%E2%80%A2%20Explainable%20AI%20%E2%80%A2%20Public%20Health%20Scientist&descSize=18&descAlignY=54&descColor=caf0f8&animation=fadeIn&stroke=48cae4&strokeWidth=3"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,10:023e8a,22:0077b6,36:0096c7,50:00b4d8,65:7209b7,80:b5179e,92:f72585,100:ff6b9d&height=420&section=header&text=Md%20Salek%20Miah&fontSize=115&fontColor=ffffff&fontAlignY=33&fontAlign=50&desc=Statistician%20%7C%20Epidemiologist%20%7C%20ML%20Researcher%20%7C%20Explainable%20AI%20%7C%20Public%20Health%20Scientist&descSize=19&descAlignY=52&descColor=caf0f8&animation=fadeIn&stroke=48cae4&strokeWidth=2"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<!-- ████  ACCENT LINE  ████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ░░░░░░░  ANIMATED INTRO — LINE 1  ░░░░░░░ -->
+<br/>
+
+<!-- ████  ANIMATED WELCOME — PRIMARY  ████ -->
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=880&height=68&lines=👋+Hello!+I+am+Md+Salek+Miah+🌊;🔬+Statistician+%7C+Epidemiologist+%7C+Data+Scientist;🤖+ML+Engineer+%7C+XAI+Specialist+%7C+LLM+Researcher;🌏+Turning+Data+Into+Decisions+That+Save+Lives;🎓+Seeking+PhD+%26+Global+Research+Collaborations)](https://github.com/muhammadsalek)
+
+</div>
+
+<!-- ████  ANIMATED — RESEARCH STATS BAR  ████ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📖+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch)](https://github.com/muhammadsalek)
+
+</div>
+
+<!-- ████  GOLDEN TAGLINE  ████ -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=13&duration=7000&pause=6000&color=FFD700&center=true&vCenter=true&multiline=false&width=860&height=30&lines=✨+PhD-Ready+2026+·+Research+Portfolio+·+CV+·+Code+Repository+·+Open+Science+✨)](https://github.com/muhammadsalek)
+
+</div>
+
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=2100&pause=750&color=00D4FF&center=true&vCenter=true&multiline=false&width=860&height=70&lines=%F0%9F%91%8B+Hello!+I+am+Md+Salek+Miah+%F0%9F%8C%8A;%F0%9F%94%AC+Statistician+%7C+Epidemiologist+%7C+Data+Scientist;%F0%9F%A4%96+ML+Engineer+%7C+XAI+Specialist+%7C+LLM+Researcher;%F0%9F%8C+Turning+Data+Into+Decisions+That+Save+Lives;%F0%9F%8C%90+Seeking+PhD+%26+Global+Research+Collaborations)](https://github.com/muhammadsalek)
+<!-- ████  SOCIAL BADGE ROW  ████ -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-salek-miah-b34309329"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="https://salek-protfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-f72585?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-Cite_Me-48cae4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&logoColor=black&labelColor=03045e"/></a>&nbsp;
+<a href="https://www.researchgate.net/profile/Md-Miah-142"><img src="https://img.shields.io/badge/ResearchGate-Follow-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="https://huggingface.co/salekml"><img src="https://img.shields.io/badge/HuggingFace-Models-b5179e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="https://github.com/muhammadsalek"><img src="https://img.shields.io/badge/GitHub-Follow-56cfe1?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="mailto:saleksta@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/></a>
+
+</div>
 
 <br/>
 
-<!-- ░░░░░░░  ANIMATED INTRO — LINE 2  ░░░░░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=1900&pause=650&color=F72585&center=true&vCenter=true&multiline=false&width=1000&height=42&lines=%F0%9F%8F%9B%EF%B8%8F+Web+of+Science+Verified+Author+%E2%80%94+ID%3A+PII-8481-2026;%F0%9F%93%96+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;%F0%9F%8F%A2+Research+Intern+%40+ELITE+Research+Lab+LLC+%E2%80%94+Transparent%2C+Reliable+AI;%F0%9F%93%8A+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;%F0%9F%A7%A0+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch)](https://github.com/muhammadsalek)
-
-<br/>
-
-<!-- ░░░░░░░  TAGLINE  ░░░░░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=14&duration=6000&pause=5200&color=FFD700&center=true&vCenter=true&multiline=false&width=820&height=32&lines=%E2%9C%A8+Research+Portfolio+%C2%B7+CV+%C2%B7+Code+Repository+%E2%80%94+PhD+Ready+2026+%E2%9C%A8)](https://github.com/muhammadsalek)
-
-<br/><br/>
-
-<!-- ═══  SOCIAL LINKS  ═══ -->
-<a href="https://www.linkedin.com/in/md-salek-miah-b34309329">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03045e"/>
-</a>&nbsp;
-<a href="https://salek-protfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-f72585?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03045e"/>
-</a>&nbsp;
-<a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en">
-  <img src="https://img.shields.io/badge/Google_Scholar-Cite_Me-48cae4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=03045e"/>
-</a>&nbsp;
-<a href="https://www.webofscience.com/wos/author/record/PII-8481-2026">
-  <img src="https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&logoColor=black&labelColor=03045e"/>
-</a>&nbsp;
-<a href="https://www.researchgate.net/profile/Md-Miah-142">
-  <img src="https://img.shields.io/badge/ResearchGate-Follow-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/>
-</a>&nbsp;
-<a href="https://huggingface.co/salekml">
-  <img src="https://img.shields.io/badge/HuggingFace-Models-f72585?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/>
-</a>&nbsp;
-<a href="https://github.com/muhammadsalek">
-  <img src="https://img.shields.io/badge/GitHub-Follow-56cfe1?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/>
-</a>&nbsp;
-<a href="mailto:saleksta@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email_Me-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/>
-</a>
-
-<br/><br/>
+<!-- ████  STATUS BADGES  ████ -->
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=muhammadsalek&label=Profile+Views&color=00b4d8&style=for-the-badge"/>&nbsp;
 <img src="https://img.shields.io/github/followers/muhammadsalek?label=Followers&style=for-the-badge&color=f72585&logo=github&labelColor=03045e"/>&nbsp;
-<img src="https://img.shields.io/badge/📍_Sylhet-Bangladesh_🇧🇩-00b4d8?style=for-the-badge&labelColor=03045e"/>&nbsp;
-<img src="https://img.shields.io/badge/🟢_Status-Open_To_Collaborate-56cfe1?style=for-the-badge&labelColor=03045e"/>&nbsp;
+<img src="https://img.shields.io/badge/📍_Sylhet-Bangladesh_🇧🇩-0096c7?style=for-the-badge&labelColor=03045e"/>&nbsp;
+<img src="https://img.shields.io/badge/🟢_Open-To_Collaborate-56cfe1?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🔬_ELITE-Research_Lab_LLC-7209b7?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🏛️_WoS-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e"/>
-
-<br/><br/>
-
-<!-- ═══  QUICK-STATS CAPSULE BANNER (replaces broken typing SVG)  ═══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,50:03045e,100:03045e&height=36&text=✅%201%20Q1%20Published%20│%2020%2B%20Under%20Review%20│%2033%20Submissions%20│%203%20Preprints%20│%205%20Conferences%20│%2030%2B%20ML%20Models%20│%20WoS%20PII-8481-2026&fontSize=11&fontColor=90E0EF&fontAlign=50&fontAlignY=55"/>
-
-<br/><br/>
-
-<!-- ═══  QUICK-NAV SECTION PILLS  ═══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=22&text=Navigate+this+Academic+Portfolio+↓&fontSize=11&fontColor=7B8EA0&fontAlign=50&fontAlignY=60"/>
-
-<br/>
-
-![About](https://img.shields.io/badge/1️⃣_About_Me-03045e?style=flat-square&color=03045e&labelColor=00b4d8)&nbsp;![Interests](https://img.shields.io/badge/2️⃣_Research_Interests-03045e?style=flat-square&color=03045e&labelColor=f72585)&nbsp;![Education](https://img.shields.io/badge/3️⃣_Education-03045e?style=flat-square&color=03045e&labelColor=7209b7)&nbsp;![Experience](https://img.shields.io/badge/4️⃣_Research_Experience-03045e?style=flat-square&color=03045e&labelColor=48cae4)&nbsp;![Skills](https://img.shields.io/badge/5️⃣_Skills_%26_Tools-03045e?style=flat-square&color=03045e&labelColor=00b4d8)&nbsp;![Projects](https://img.shields.io/badge/6️⃣_Projects-03045e?style=flat-square&color=03045e&labelColor=f72585)
-
-![Publications](https://img.shields.io/badge/7️⃣_Publications-03045e?style=flat-square&color=03045e&labelColor=7209b7)&nbsp;![Datasets](https://img.shields.io/badge/8️⃣_Datasets-03045e?style=flat-square&color=03045e&labelColor=48cae4)&nbsp;![Achievements](https://img.shields.io/badge/9️⃣_Achievements-03045e?style=flat-square&color=03045e&labelColor=00b4d8)&nbsp;![Profiles](https://img.shields.io/badge/🔟_Research_Profiles-03045e?style=flat-square&color=03045e&labelColor=f72585)&nbsp;![Stats](https://img.shields.io/badge/1️⃣1️⃣_GitHub_Stats-03045e?style=flat-square&color=03045e&labelColor=7209b7)&nbsp;![WIP](https://img.shields.io/badge/1️⃣2️⃣_Work_in_Progress-03045e?style=flat-square&color=03045e&labelColor=48cae4)&nbsp;![Collabs](https://img.shields.io/badge/1️⃣3️⃣_Collaborations-03045e?style=flat-square&color=03045e&labelColor=FFD700)&nbsp;![Contact](https://img.shields.io/badge/1️⃣4️⃣_Contact-03045e?style=flat-square&color=03045e&labelColor=56cfe1)
 
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  1️⃣  INTRODUCTION / ABOUT ME
-═══════════════════════════════════════════════════════════════ -->
+<!-- ████  QUICK-STATS FULL-WIDTH CAPSULE  ████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=40&text=✅+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences+%7C+30%2B+ML+Models+%7C+WoS+PII-8481-2026&fontSize=11.5&fontColor=90E0EF&fontAlign=50&fontAlignY=58"/>
 
-<h2>1️⃣ &nbsp;Introduction &amp; About Me</h2>
+<br/><br/>
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
+<!-- ████  QUICK-NAV  ████ -->
+<div align="center">
+
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=22&text=◈+Navigate+This+Academic+Portfolio+◈&fontSize=11&fontColor=7B8EA0&fontAlign=50&fontAlignY=62"/>
+
+<br/><br/>
+
+![About](https://img.shields.io/badge/①_About_Me-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![Interests](https://img.shields.io/badge/②_Research_Interests-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![Education](https://img.shields.io/badge/③_Education-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![Experience](https://img.shields.io/badge/④_Research_Experience-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![Skills](https://img.shields.io/badge/⑤_Skills_%26_Tools-0096c7?style=flat-square&labelColor=03045e)&nbsp;
+![Projects](https://img.shields.io/badge/⑥_Projects-f72585?style=flat-square&labelColor=03045e)
+
+![Publications](https://img.shields.io/badge/⑦_Publications-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![Datasets](https://img.shields.io/badge/⑧_Datasets-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![Achievements](https://img.shields.io/badge/⑨_Achievements-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![Profiles](https://img.shields.io/badge/⑩_Research_Profiles-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![Stats](https://img.shields.io/badge/⑪_GitHub_Stats-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![WIP](https://img.shields.io/badge/⑫_Work_in_Progress-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![Collabs](https://img.shields.io/badge/⑬_Collaborations-FFD700?style=flat-square&labelColor=03045e)&nbsp;
+![Contact](https://img.shields.io/badge/⑭_Contact-56cfe1?style=flat-square&labelColor=03045e)
+
+</div>
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
+
+<!-- ══════════════════════════════════════════════════════════════
+  ①  INTRODUCTION / ABOUT ME
+══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## <img src="https://img.shields.io/badge/①-ABOUT_ME-00b4d8?style=for-the-badge&labelColor=03045e"/> &nbsp;Introduction &amp; About Md Salek Miah
+
+<img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
 ```python
 #!/usr/bin/env python3
-# ╔═══════════════════════════════════════════════════════════════╗
-# ║  profile.py  ·  github.com/muhammadsalek  ·  2026            ║
-# ║  Research Portfolio + CV + Code Repository                   ║
-# ╚═══════════════════════════════════════════════════════════════╝
+# ╔══════════════════════════════════════════════════════════════════╗
+# ║  profile.py  ·  github.com/muhammadsalek  ·  2026               ║
+# ║  PhD-Level Research Portfolio + CV + Code Repository            ║
+# ╚══════════════════════════════════════════════════════════════════╝
 
 class MdSalekMiah:
+    """
+    Statistician · Epidemiologist · ML Researcher
+    Explainable AI Specialist · Public Health Scientist
+    Web of Science Verified Author: PII-8481-2026
+    """
 
+    # ── Identity ────────────────────────────────────────────────────
     name        = "Md Salek Miah"
     title       = "Statistician · Epidemiologist · ML Researcher"
     location    = "Sylhet, Bangladesh 🇧🇩"
@@ -113,7 +138,7 @@ class MdSalekMiah:
     university  = "Shahjalal Univ. of Science & Technology (SUST)"
     department  = "Department of Statistics"
 
-    # ── Verified Research Profiles ──────────────────────────────
+    # ── Verified Research Profiles ──────────────────────────────────
     profiles = {
         "web_of_science" : "PII-8481-2026  ✅ Verified",
         "google_scholar" : "oV99NYoAAAAJ",
@@ -123,23 +148,23 @@ class MdSalekMiah:
         "teamcsbd"       : "www.teamcsbd.com",
     }
 
-    # ── Current Positions ────────────────────────────────────────
+    # ── Active Positions ────────────────────────────────────────────
     positions = [
-        "Research Intern     · ELITE Research Lab LLC    Jan 2026–Now",
-        "Research Fellow     · CHINTA Research BD        2024–Now",
-        "Research Asst.      · SUST Biostatistics Team   2025–Now",
-        "Co-Investigator     · SUST RC Pesticides Proj.  2025–2026",
-        "Research Asst.      · TeamCSBD  (teamcsbd.com)  Jan–Jul 2025",
+        "Research Intern  · ELITE Research Lab LLC    Jan 2026 – Now",
+        "Research Fellow  · CHINTA Research BD        2024 – Now",
+        "Research Asst.   · SUST Biostatistics Team   2025 – Now",
+        "Co-Investigator  · SUST RC Pesticides Proj.  2025 – 2026",
+        "Research Asst.   · TeamCSBD (teamcsbd.com)   Jan–Jul 2025",
     ]
 
-    # ── Supervisors (SUST, sust.edu verified) ───────────────────
+    # ── Supervisors (sust.edu verified) ─────────────────────────────
     supervisors = [
         "Prof. Dr. Md. Jamal Uddin   · SUST Statistics",
         "Prof. Mohammad Ohid Ullah   · SUST Statistics  (PI, SUST RC)",
         "Prof. Dr. Md. Zakir Hossain · SUST Statistics",
     ]
 
-    # ── Publication Snapshot ────────────────────────────────────
+    # ── Research Snapshot ───────────────────────────────────────────
     research = {
         "wos_id"       : "PII-8481-2026",
         "q1_published" : 1,
@@ -156,29 +181,42 @@ class MdSalekMiah:
 
 if __name__ == "__main__":
     me = MdSalekMiah()
-    print(f"👋  Welcome — {me.name}'s Complete Academic Portfolio")
-    print(f"🏛️  WoS : {me.research['wos_id']}")
+    print(f"👋  Welcome to {me.name}'s Academic Portfolio")
+    print(f"🏛️  WoS Verified : {me.research['wos_id']}")
     print(f"✨  {me.motto}")
 ```
 
 <br clear="right"/>
 
-> 🔬 I am a **statistician and spatial epidemiologist** at SUST Bangladesh, specialising in **machine learning, explainable AI (XAI), and public health**. My research uses large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health. I am passionate about **transparent AI** and open science — with **1 Q1 paper published**, **20+ manuscripts under review**, and active collaboration across international research organisations.
-
-<br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
-
-<!-- ═══════════════════════════════════════════════════════════════
-  2️⃣  RESEARCH INTERESTS
-═══════════════════════════════════════════════════════════════ -->
-
-<h2>2️⃣ &nbsp;Research Interests</h2>
-
 <div align="center">
 
-<!-- Reliable capsule-render banner replaces broken typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🔬+Core+Research+Domains+—+Interdisciplinary+·+Global+·+Impact-Driven&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
+> ### 💙 &nbsp;"Turning data into decisions that save lives."
+>
+> I am **Md Salek Miah** — a statistician and spatial epidemiologist at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health. I champion **transparent AI** and open science — with **1 Q1 paper published** in Springer Nature, **20+ manuscripts under review**, and active collaboration with international research organisations across three continents.
 
+<br/>
+
+| 🔬 Focus | 🌍 Scope | 📊 Output | 🎯 Goal |
+|:---:|:---:|:---:|:---:|
+| ML + XAI + Epidemiology | 10+ Countries (DHS) | 33 Submissions | Fully Funded PhD 2026 |
+| Spatial Health Mapping | Bangladesh → Africa | 30+ ML Models | Global Health Impact |
+| SHAP · LIME · LLMs | Open Science · CC BY | 89%+ Accuracy | Transparent AI Systems |
+
+</div>
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
+
+<!-- ══════════════════════════════════════════════════════════════
+  ②  RESEARCH INTERESTS
+══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## <img src="https://img.shields.io/badge/②-RESEARCH_INTERESTS-f72585?style=for-the-badge&labelColor=03045e"/> &nbsp;Research Interests
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🔬+Core+Research+Domains+—+Interdisciplinary+·+Global+·+Impact-Driven&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -187,14 +225,14 @@ if __name__ == "__main__":
 <tr>
 <td width="33%" valign="top">
 
-**📊 Epidemiology & Biostatistics**
+### 📊 Epidemiology & Biostatistics
 - Spatial epidemiology & health inequalities
 - Complex survey design (DHS · BDHS · NDHS)
 - Multilevel & longitudinal modelling
 - Survival analysis · Cox & Poisson regression
 - Meta-analysis & systematic reviews
 
-**🤱 Maternal & Child Health**
+### 🤱 Maternal & Child Health
 - Skilled birth attendance determinants
 - Pregnancy loss & mental health linkages
 - Antenatal care quality & access
@@ -203,13 +241,13 @@ if __name__ == "__main__":
 </td>
 <td width="33%" valign="top">
 
-**💙 Mental Health & Women's Empowerment**
+### 💙 Mental Health & Women's Empowerment
 - Depression & anxiety (internet / IPV / pregnancy)
 - Women's empowerment indices & IPV dynamics
 - Rural–urban mental health inequalities
 - Cross-country comparative studies (10+ nations)
 
-**🗺️ Spatial & Environmental Health**
+### 🗺️ Spatial & Environmental Health
 - GIS-based health outcome mapping
 - Water quality index (WQI) modelling
 - Pesticide exposure & farmers' health
@@ -218,17 +256,17 @@ if __name__ == "__main__":
 </td>
 <td width="33%" valign="top">
 
-**🤖 Machine Learning & Explainable AI**
+### 🤖 Machine Learning & XAI
 - XGBoost · Random Forest · Neural Networks
 - SHAP · LIME · Counterfactual explanations
 - SMOTE for imbalanced clinical data
 - ML for complex DHS survey datasets
 
-**🚀 Advanced AI & NLP**
+### 🚀 Advanced AI & NLP
 - Large Language Models (LLMs)
 - AI-assisted systematic literature reviews
 - Explainable AI for healthcare decisions
-- Transparent & reliable AI systems (ELITE Lab)
+- Transparent & reliable AI (ELITE Lab)
 
 </td>
 </tr>
@@ -236,125 +274,141 @@ if __name__ == "__main__":
 
 <div align="center">
 
-![](https://img.shields.io/badge/Epidemiology-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Biostatistics-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Spatial_Analysis-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Machine_Learning-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Explainable_AI-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/LLMs-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Maternal_Health-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Mental_Health-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/DHS_Survey_Data-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Public_Health-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Women_Empowerment-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Water_Quality-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Pesticide_Health-56cfe1?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/SHAP_LIME_XAI-56cfe1?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/Epidemiology-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Biostatistics-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Spatial_Analysis-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Machine_Learning-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Explainable_AI-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/LLMs-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Maternal_Health-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Mental_Health-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/DHS_Survey_Data-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Public_Health-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Women_Empowerment-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Water_Quality-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Pesticide_Health-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/SHAP_LIME_XAI-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Global_Health-90e0ef?style=flat-square&labelColor=03045e)
 
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  3️⃣  EDUCATION
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ③  EDUCATION
+══════════════════════════════════════════════════════════════ -->
 
-<h2>3️⃣ &nbsp;Education</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/③-EDUCATION-7209b7?style=for-the-badge&labelColor=03045e"/> &nbsp;Education
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  🎓  B.Sc. (HONOURS) IN STATISTICS                           2021 – Present    ║
-║  ──────────────────────────────────────────────────────────────────────────── ║
-║  Institution  ➤  Shahjalal University of Science & Technology (SUST)           ║
-║  Department   ➤  Department of Statistics                                       ║
-║  Location     ➤  Sylhet, Bangladesh 🇧🇩                                         ║
-║  Student ID   ➤  2021134066                                                      ║
-║  Status       ➤  🟢 Currently Enrolled                                          ║
-║                                                                                 ║
-║  Core Coursework:                                                               ║
-║      ┣━━  📊  Statistical Theory · Probability · Regression Analysis           ║
-║      ┣━━  💻  Computational: R · Python · STATA · SAS · SPSS · LaTeX          ║
-║      ┣━━  🔬  Research Methods · Biostatistics · Epidemiology                  ║
-║      ┣━━  🗺️   Spatial Statistics · GIS Analysis · Survey Design               ║
-║      ┗━━  🤖  Machine Learning · Data Mining · Applied Artificial Intelligence ║
-║                                                                                 ║
-║  Scholarships:                                                                  ║
-║      ┣━━  🎓  Aftab Uddin–Khudeja Banu Welfare Trust, UK              (2016)   ║
-║      ┗━━  🎓  Khandoker Trust International                            (2013)   ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🏫  H.S.C. — HIGHER SECONDARY CERTIFICATE                                     ║
-║  Secondary education in Bangladesh · Foundation in Science & Mathematics       ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   🎓  B.Sc. (HONOURS) IN STATISTICS                              2021 – Present     ║
+║   ─────────────────────────────────────────────────────────────────────────────    ║
+║   Institution  ➤  Shahjalal University of Science & Technology (SUST)              ║
+║   Department   ➤  Department of Statistics                                          ║
+║   Location     ➤  Sylhet, Bangladesh 🇧🇩                                            ║
+║   Student ID   ➤  2021134066                                                        ║
+║   Status       ➤  🟢 Currently Enrolled                                             ║
+║                                                                                      ║
+║   Core Coursework:                                                                   ║
+║       ┣━━  📊  Statistical Theory · Probability · Regression Analysis              ║
+║       ┣━━  💻  R · Python · STATA · SAS · SPSS · LaTeX · C++ · Java               ║
+║       ┣━━  🔬  Research Methods · Biostatistics · Epidemiology                     ║
+║       ┣━━  🗺️   Spatial Statistics · GIS Analysis · Complex Survey Design          ║
+║       ┗━━  🤖  Machine Learning · Deep Learning · Applied Artificial Intelligence  ║
+║                                                                                      ║
+║   Scholarships Awarded:                                                              ║
+║       ┣━━  🎓  Aftab Uddin–Khudeja Banu Welfare Trust, UK                  (2016)  ║
+║       ┗━━  🎓  Khandoker Trust International                                (2013)  ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🏫  H.S.C.  —  HIGHER SECONDARY CERTIFICATE                                       ║
+║   Secondary education in Bangladesh · Foundation in Science & Mathematics           ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  4️⃣  RESEARCH EXPERIENCE
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ④  RESEARCH EXPERIENCE
+══════════════════════════════════════════════════════════════ -->
 
-<h2>4️⃣ &nbsp;Research Experience</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/④-RESEARCH_EXPERIENCE-48cae4?style=for-the-badge&labelColor=03045e"/> &nbsp;Research Experience
 
 <div align="center">
-
-<!-- Capsule-render replaces broken typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🟢+Active+Across+6+Research+Organisations+—+International+%26+National&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🟢+Active+Across+6+Research+Organisations+—+International+%26+National&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  🔬  ELITE RESEARCH LAB LLC                              Jan 2026 – Present    ║
-║  Motto: "Transparent, Reliable AI for Everyone"                                 ║
-║  Role  ➤  Research Intern · Remote 🌐  ·  Status: 🟢 ACTIVE                   ║
-║      ┣━━  📄  AI-assisted Systematic Literature Reviews & Review Papers        ║
-║      ┣━━  🤖  Advanced Large Language Models (LLMs) Research                   ║
-║      ┗━━  🔍  Explainable AI — SHAP · LIME · Counterfactual Explanations      ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  💙  CHINTA RESEARCH BANGLADESH                          2024 – Present        ║
-║  Role  ➤  Research Fellow  ·  Status: 🟢 ACTIVE                                ║
-║      ┣━━  Lead statistician — national public health & ML projects             ║
-║      ┣━━  ML models achieving 89%+ predictive accuracy                         ║
-║      ┗━━  5+ manuscripts currently under Q1 journal review                     ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🔬  SUST BIOSTATISTICS & EPIDEMIOLOGY RESEARCH TEAM     2025 – Present        ║
-║  Role       ➤  Research Assistant  ·  Status: 🟢 ACTIVE                        ║
-║  Supervisor ➤  Prof. Dr. Md. Jamal Uddin · Dept. Statistics · SUST · sust.edu ║
-║      ┣━━  10+ Q1 manuscripts authored & co-authored                            ║
-║      ┗━━  Spatial ML modelling · DHS multi-country survey analysis             ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🌱  SUST RESEARCH CENTRE — Pesticides & Farmers' Health  2025 – 2026          ║
-║  Role       ➤  Co-Investigator / Research Assistant  ·  🟢 ONGOING             ║
-║  PI         ➤  Prof. Mohammad Ohid Ullah · Statistics · SUST · sust.edu       ║
-║  Funder     ➤  SUST Research Centre (Official Government Funded Grant)          ║
-║      ┣━━  Agricultural communities · north-eastern Bangladesh                   ║
-║      ┗━━  Pesticide exposure analysis · spatial health outcome modelling       ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  📊  TEAMCSBD — COGNITIVE SOLUTION BANGLADESH            Jan – Jul 2025        ║
-║  Role  ➤  Research Assistant  ·  URL: www.teamcsbd.com                         ║
-║      ┗━━  STATA · R · Python · Interactive Dashboards · Research Reports       ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  📖  DATAKOTHON RESEARCH LAB                             Jun – Aug 2025        ║
-║  Role  ➤  Research Intern                                                        ║
-║      ┗━━  Systematic reviews · meta-analyses · evidence synthesis              ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🎓  SUST RESEARCH SCIENCE CLUB — Workshop Instructor                           ║
-║      ┗━━  R programming · ggplot2 visualisation · 150+ participants trained    ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   🔬  ELITE RESEARCH LAB LLC                                 Jan 2026 – Present     ║
+║   Motto: "Transparent, Reliable AI for Everyone"                                     ║
+║   Role  ➤  Research Intern  ·  Remote 🌐  ·  Status: 🟢 ACTIVE                    ║
+║       ┣━━  📄  AI-assisted Systematic Literature Reviews & Research Papers          ║
+║       ┣━━  🤖  Advanced Large Language Models (LLMs) Research                      ║
+║       ┗━━  🔍  Explainable AI — SHAP · LIME · Counterfactual Explanations         ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   💙  CHINTA RESEARCH BANGLADESH                             2024 – Present         ║
+║   Role  ➤  Research Fellow  ·  Status: 🟢 ACTIVE                                   ║
+║       ┣━━  Lead statistician — national public health & ML projects                 ║
+║       ┣━━  ML models achieving 89%+ predictive accuracy                             ║
+║       ┗━━  5+ manuscripts currently under Q1 journal review                         ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🔬  SUST BIOSTATISTICS & EPIDEMIOLOGY RESEARCH TEAM        2025 – Present         ║
+║   Role       ➤  Research Assistant  ·  Status: 🟢 ACTIVE                            ║
+║   Supervisor ➤  Prof. Dr. Md. Jamal Uddin · Dept. Statistics · SUST                ║
+║       ┣━━  10+ Q1 manuscripts authored & co-authored                                ║
+║       ┗━━  Spatial ML modelling · DHS multi-country survey analysis                 ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🌱  SUST RESEARCH CENTRE — Pesticides & Farmers' Health    2025 – 2026            ║
+║   Role  ➤  Co-Investigator / Research Assistant  ·  🟢 ONGOING                      ║
+║   PI    ➤  Prof. Mohammad Ohid Ullah · Statistics · SUST                            ║
+║   Fund  ➤  SUST Research Centre — Official Government Funded Grant                  ║
+║       ┣━━  Agricultural communities · north-eastern Bangladesh                       ║
+║       ┗━━  Pesticide exposure analysis · spatial health outcome modelling            ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   📊  TEAMCSBD — COGNITIVE SOLUTION BANGLADESH               Jan – Jul 2025         ║
+║   Role  ➤  Research Assistant  ·  URL: www.teamcsbd.com                              ║
+║       ┗━━  STATA · R · Python · Interactive Dashboards · Research Reports            ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   📖  DATAKOTHON RESEARCH LAB                                Jun – Aug 2025          ║
+║   Role  ➤  Research Intern                                                            ║
+║       ┗━━  Systematic reviews · meta-analyses · evidence synthesis                   ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🎓  SUST RESEARCH SCIENCE CLUB — Workshop Instructor                               ║
+║       ┗━━  R programming · ggplot2 visualisation · 150+ participants trained         ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <div align="center">
-
-<!-- Capsule-render replaces broken "sup label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=26&text=🧑‍🏫+Research+Supervisors+—+SUST+Department+of+Statistics+(sust.edu+verified)&fontSize=12&fontColor=FFD700&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🧑‍🏫+Research+Supervisors+—+SUST+Department+of+Statistics+(sust.edu+verified)&fontSize=12&fontColor=FFD700&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -362,142 +416,147 @@ if __name__ == "__main__":
 <div align="center">
 <table>
 <tr>
-<td align="center" width="270">
-<img src="https://img.shields.io/badge/SUPERVISOR_01-00b4d8?style=for-the-badge&labelColor=03045e"/>
+<td align="center" width="280">
+<img src="https://img.shields.io/badge/SUPERVISOR_01-0077b6?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>Prof. Dr. Md. Jamal Uddin</b><br/>
 <sub>Department of Statistics, SUST</sub><br/>
-<sub>📧 sust.edu ✅ Verified</sub><br/>
-<sub>🔬 SUST Biostatistics & Epidemiology Team</sub>
+<sub>📧 sust.edu &nbsp;✅ Verified</sub><br/>
+<sub>🔬 SUST Biostatistics &amp; Epidemiology Team</sub>
 </td>
-<td align="center" width="270">
+<td align="center" width="280">
 <img src="https://img.shields.io/badge/SUPERVISOR_02-f72585?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>Prof. Mohammad Ohid Ullah</b><br/>
-<sub>Department of Statistics, SUST Sylhet</sub><br/>
-<sub>📧 sust.edu ✅ Verified</sub><br/>
+<sub>Department of Statistics, SUST</sub><br/>
+<sub>📧 sust.edu &nbsp;✅ Verified</sub><br/>
 <sub>🌱 PI — SUST RC Pesticides Funded Project</sub>
 </td>
-<td align="center" width="270">
+<td align="center" width="280">
 <img src="https://img.shields.io/badge/SUPERVISOR_03-7209b7?style=for-the-badge&labelColor=03045e"/>
 <br/><br/>
 <b>Prof. Dr. Md. Zakir Hossain</b><br/>
 <sub>Professor of Statistics, SUST</sub><br/>
-<sub>📧 sust.edu ✅ Verified</sub><br/>
-<sub>📊 Research Collaborator & Academic Mentor</sub>
+<sub>📧 sust.edu &nbsp;✅ Verified</sub><br/>
+<sub>📊 Research Collaborator &amp; Academic Mentor</sub>
 </td>
 </tr>
 </table>
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  5️⃣  SKILLS & TOOLS
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑤  SKILLS & TOOLS
+══════════════════════════════════════════════════════════════ -->
 
-<h2>5️⃣ &nbsp;Skills &amp; Tools</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑤-SKILLS_%26_TOOLS-0096c7?style=for-the-badge&labelColor=03045e"/> &nbsp;Skills &amp; Tools
 
 <div align="center">
 
-<!-- Capsule-render replaces broken "stack-bar" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=💻+Python+·+R+·+C%2B%2B+·+Java+·+SQL+·+STATA+·+SAS+·+LaTeX+·+HTML+·+SPSS&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=💻+Python+·+R+·+C%2B%2B+·+Java+·+SQL+·+STATA+·+SAS+·+LaTeX+·+HTML+·+SPSS&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
 ### `💻 Programming Languages`
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![STATA](https://img.shields.io/badge/STATA-00b4d8?style=for-the-badge&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-7209b7?style=for-the-badge&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS-f72585?style=for-the-badge&logo=ibm&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![STATA](https://img.shields.io/badge/STATA-00b4d8?style=for-the-badge&logoColor=white)&nbsp;
+![SAS](https://img.shields.io/badge/SAS-7209b7?style=for-the-badge&logoColor=white)&nbsp;
+![SPSS](https://img.shields.io/badge/SPSS-f72585?style=for-the-badge&logo=ibm&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <br/>
 
 ### `🤖 AI · Machine Learning · Deep Learning · XAI`
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-00b4d8?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-f72585?style=for-the-badge&logo=huggingface&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-7209b7?style=for-the-badge&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME-48cae4?style=for-the-badge&logoColor=white)
-![LLMs](https://img.shields.io/badge/Advanced_LLMs-56cfe1?style=for-the-badge&logoColor=white)
-![XAI](https://img.shields.io/badge/Explainable_AI-00d4ff?style=for-the-badge&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-00b4d8?style=for-the-badge&logoColor=white)&nbsp;
+![HuggingFace](https://img.shields.io/badge/HuggingFace-b5179e?style=for-the-badge&logo=huggingface&logoColor=white)&nbsp;
+![SHAP](https://img.shields.io/badge/SHAP-7209b7?style=for-the-badge&logoColor=white)&nbsp;
+![LIME](https://img.shields.io/badge/LIME-48cae4?style=for-the-badge&logoColor=white)&nbsp;
+![LLMs](https://img.shields.io/badge/Advanced_LLMs-56cfe1?style=for-the-badge&logoColor=white)&nbsp;
+![XAI](https://img.shields.io/badge/Explainable_AI-00d4ff?style=for-the-badge&logoColor=white)&nbsp;
 ![H2O.ai](https://img.shields.io/badge/H2O.ai-03045e?style=for-the-badge&logoColor=white)
 
 <br/>
 
 ### `📊 Data Science & Visualisation`
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00b4d8?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-f72585?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-7209b7?style=for-the-badge&logo=plotly&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-48cae4?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-56cfe1?style=for-the-badge&logo=powerbi&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00b4d8?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Seaborn](https://img.shields.io/badge/Seaborn-f72585?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-7209b7?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
+![ggplot2](https://img.shields.io/badge/ggplot2-48cae4?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power_BI-56cfe1?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-90e0ef?style=for-the-badge&logo=tableau&logoColor=black)
 
 <br/>
 
 ### `🗺️ Geospatial · DevOps · Writing Tools`
-![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-00b4d8?style=for-the-badge&logo=rstudio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)&nbsp;
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)&nbsp;
+![RStudio](https://img.shields.io/badge/RStudio-00b4d8?style=for-the-badge&logo=rstudio&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
 <br/>
 
 ### `🧠 Statistical & ML Methods`
-![](https://img.shields.io/badge/Multilevel_Modeling-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Survival_Analysis-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Structural_Equation_Modeling-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Complex_Survey_Design-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Spatial_Epidemiology-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Bayesian_Statistics-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/SMOTE_Imbalanced-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Meta_Analysis-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/CNN_RNN_LSTM-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Random_Forest-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Logistic_Regression-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Cox_Poisson_Regression-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/PCA_Factor_Analysis-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/ROC_AUC_Analysis-56cfe1?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Hyperparameter_Tuning-56cfe1?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Cross_Validation-56cfe1?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Transfer_Learning-56cfe1?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Time_Series_Analysis-90e0ef?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Bootstrapping-90e0ef?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/SHAP_LIME_XAI-90e0ef?style=flat-square&labelColor=03045e)
+
+![](https://img.shields.io/badge/Multilevel_Modeling-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Survival_Analysis-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Structural_Equation_Modeling-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Complex_Survey_Design-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Spatial_Epidemiology-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Bayesian_Statistics-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/SMOTE_Imbalanced-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Meta_Analysis-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/CNN_RNN_LSTM-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Random_Forest-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Logistic_Regression-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Cox_Poisson_Regression-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/PCA_Factor_Analysis-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/ROC_AUC_Analysis-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Hyperparameter_Tuning-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Cross_Validation-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Transfer_Learning-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Time_Series_Analysis-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Bootstrapping-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/SHAP_LIME_XAI-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Taylor_Diagram-90e0ef?style=flat-square&labelColor=03045e)
 
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  6️⃣  FEATURED RESEARCH PROJECTS
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑥  FEATURED RESEARCH PROJECTS
+══════════════════════════════════════════════════════════════ -->
 
-<h2>6️⃣ &nbsp;Featured Research Projects</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑥-FEATURED_PROJECTS-f72585?style=for-the-badge&labelColor=03045e"/> &nbsp;Featured Research Projects
 
 <div align="center">
-
-<!-- Capsule-render replaces broken "proj label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🚀+ML+Pipelines+·+Public+Health+Research+·+Open+Science&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🚀+ML+Pipelines+·+Public+Health+Research+·+Open+Science&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -510,27 +569,26 @@ if __name__ == "__main__":
 | [**Diabetes ML Analysis**](https://github.com/muhammadsalek/Data-Analytics-Portfolio-Project-Analysis-of-Diabetes-Dataset) | End-to-end pipeline · XGBoost · SHAP explainability | `Python` `SHAP` | ⚡ Active |
 | [**MovieLens Recommender**](https://github.com/muhammadsalek/MovieLens-Recommendation-System) | Hybrid collaborative + content-based filtering | `Python` `R` | 🔴 Live |
 | [**Interactive Stat Calculator**](https://salek-protfolio.vercel.app/) | R Shiny live statistical analysis tool | `R Shiny` | 🔴 Live |
-| **Skilled Birth Attendance — ML** | 89%+ accuracy · classification · Burkina Faso + Nepal | `Python` `R` | 📝 Review |
+| **Skilled Birth Attendance — ML** | 89%+ accuracy · Burkina Faso + Nepal · XGBoost | `Python` `R` | 📝 Review |
 | **Water Quality Index — Buriganga** | WQI modelling · spatial analysis · environmental data | `R` `GIS` | 📝 Review |
-| **Pesticides & Farmers' Health** | SUST RC Funded project · north-eastern Bangladesh | `R` `STATA` | 🟢 Ongoing |
+| **Pesticides & Farmers' Health** | SUST RC Government-Funded · north-eastern Bangladesh | `R` `STATA` | 🟢 Ongoing |
 | **Spatial Mental Health Mapping** | GIS + ML · Bangladesh & Nepal subnational analysis | `R` `ArcGIS` | 📝 Review |
 
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  7️⃣  PUBLICATIONS & MANUSCRIPTS
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑦  PUBLICATIONS & MANUSCRIPTS
+══════════════════════════════════════════════════════════════ -->
 
-<h2>7️⃣ &nbsp;Publications &amp; Manuscripts</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑦-PUBLICATIONS_%26_MANUSCRIPTS-7209b7?style=for-the-badge&labelColor=03045e"/> &nbsp;Publications &amp; Manuscripts
 
 <div align="center">
-
-<!-- Capsule-render replaces broken "pub bar" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=📖+1+Q1+Published+·+20%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026&fontSize=12&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=📖+1+Q1+Published+·+20%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026&fontSize=12&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -539,8 +597,8 @@ if __name__ == "__main__":
 
 <div align="center">
 
-> **Associations of Internet Use and Pregnancy Loss with Depression and Anxiety among Women in Bangladesh: Evidence from the 2022 BDHS**
-> *BMC Women's Health · Springer Nature · Published 29 November 2025*
+> ### Associations of Internet Use and Pregnancy Loss with Depression and Anxiety among Women in Bangladesh: Evidence from the 2022 BDHS
+> ***BMC Women's Health** · Springer Nature · Published **29 November 2025***
 >
 > [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12905--025--04166--4-00b4d8?style=for-the-badge&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1186/s12905-025-04166-4)&nbsp;[![WoS](https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)&nbsp;![](https://img.shields.io/badge/Q1-Springer_Nature-f72585?style=flat-square&labelColor=03045e)&nbsp;![](https://img.shields.io/badge/Open_Access-CC_BY_4.0-56cfe1?style=flat-square&labelColor=03045e)
 
@@ -548,10 +606,10 @@ if __name__ == "__main__":
 
 ---
 
-### <img src="https://img.shields.io/badge/🔄_UNDER_REVIEW-20%2B_Manuscripts_·_Q1%2FQ2_Journals-f72585?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/🔄_UNDER_REVIEW-20%2B_Manuscripts_·_Q1%2FQ2_Target_Journals-f72585?style=for-the-badge&labelColor=03045e"/>
 
 <details>
-<summary><b>&nbsp;💙 Click to expand — all 20 manuscripts under review</b></summary>
+<summary><b>&nbsp;💙 Click to expand — all 20 manuscripts under peer review</b></summary>
 <br/>
 
 | # | Title | Journal | Publisher | Status |
@@ -581,27 +639,27 @@ if __name__ == "__main__":
 
 ---
 
-### <img src="https://img.shields.io/badge/🎙️_CONFERENCES-5_International_%26_National-7209b7?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/🎙️_CONFERENCES-5_International_%26_National_Presentations-7209b7?style=for-the-badge&labelColor=03045e"/>
 
 <div align="center">
 
-| Presentation | Event | Location | Year |
+| 🎤 Presentation Title | 🏛️ Event | 📍 Location | 📅 |
 |:---|:---|:---|:---:|
-| Predictive Modelling & Survival Analysis of CVD | 14th Al Farabi International Congress | Selcuk University, Turkey | 2025 |
-| RPD3 Phosphorylation as Epigenetic Switch | University of Liverpool Conference | Liverpool, UK | 2025 |
-| Water Quality & Public Health — Buriganga River | RURS 1st International Conference | Rajshahi University, BD | 2025 |
-| Determinants of Maternal Healthcare — Haor Region | Bangladesh Statistical Association | Dhaka, BD | 2025 |
-| Psychological Health During Quota Movement | 2nd Student Research Conference | Leading University, Sylhet | 2025 |
+| Predictive Modelling & Survival Analysis of CVD | 14th Al Farabi International Congress | Selcuk University, Turkey 🇹🇷 | 2025 |
+| RPD3 Phosphorylation as Epigenetic Switch | University of Liverpool Conference | Liverpool, UK 🇬🇧 | 2025 |
+| Water Quality & Public Health — Buriganga River | RURS 1st International Conference | Rajshahi University, BD 🇧🇩 | 2025 |
+| Determinants of Maternal Healthcare — Haor Region | Bangladesh Statistical Association | Dhaka, BD 🇧🇩 | 2025 |
+| Psychological Health During Quota Movement | 2nd Student Research Conference | Leading University, Sylhet 🇧🇩 | 2025 |
 
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/📄_PREPRINTS-3_·_Research_Square_·_CC_BY_4.0-48cae4?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/📄_PREPRINTS-3_·_Research_Square_·_Open_Access_CC_BY_4.0-48cae4?style=for-the-badge&labelColor=03045e"/>
 
 <div align="center">
 
-| Title | DOI |
+| 📋 Title | 🔗 DOI |
 |:------|:----|
 | Determinants of Skilled Birth Assistance in Nepal | [![](https://img.shields.io/badge/DOI-rs.3.rs--7973803-00b4d8?style=flat-square&labelColor=03045e)](https://doi.org/10.21203/rs.3.rs-7973803/v1) |
 | Women's Empowerment, IPV & Mental Health — Bangladesh | [![](https://img.shields.io/badge/DOI-rs.3.rs--7473860-f72585?style=flat-square&labelColor=03045e)](https://doi.org/10.21203/rs.3.rs-7473860/v1) |
@@ -610,26 +668,25 @@ if __name__ == "__main__":
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  8️⃣  DATASETS & RESOURCES
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑧  DATASETS & RESOURCES
+══════════════════════════════════════════════════════════════ -->
 
-<h2>8️⃣ &nbsp;Datasets &amp; Resources</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑧-DATASETS_%26_RESOURCES-48cae4?style=for-the-badge&labelColor=03045e"/> &nbsp;Datasets &amp; Resources
 
 <div align="center">
-
-<!-- Capsule-render replaces broken "data label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🗄️+DHS+Programme+·+Open+Survey+Data+·+10%2B+Countries+·+Open+Science&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🗄️+DHS+Programme+·+Open+Survey+Data+·+10%2B+Countries+·+Open+Science&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-| 🗄️ Dataset | 🌍 Country | 📅 Year | 📊 Used For | 🔗 |
+| 🗄️ Dataset | 🌍 Country | 📅 Year | 📊 Research Use | 🔗 |
 |:---|:---|:---:|:---|:---:|
 | **BDHS 2022** — Bangladesh DHS | Bangladesh 🇧🇩 | 2022 | Mental health · Pregnancy loss · IPV · MCH | [DHS](https://dhsprogram.com) |
 | **NDHS 2022** — Nepal DHS | Nepal 🇳🇵 | 2022 | Skilled birth · ANC · spatial analysis | [DHS](https://dhsprogram.com) |
@@ -643,23 +700,25 @@ if __name__ == "__main__":
 
 <br/>
 
-![](https://img.shields.io/badge/DHS_Datasets-08_Countries-00b4d8?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Total_Countries-10%2B-f72585?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Sample_Sizes-10K%2B_per_survey-7209b7?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/DHS_Access-Open_via_Registration-48cae4?style=flat-square&labelColor=03045e)
-![](https://img.shields.io/badge/Analysis_Code-GitHub_Repos-56cfe1?style=flat-square&labelColor=03045e)
+![](https://img.shields.io/badge/DHS_Datasets-08_Countries-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Total_Countries-10%2B-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Sample_Sizes-10K%2B_per_survey-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/DHS_Access-Open_via_Registration-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Analysis_Code-GitHub_Repos-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Open_Science-CC_BY_4.0-FFD700?style=flat-square&labelColor=03045e)
 
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  9️⃣  ACHIEVEMENTS & CERTIFICATIONS
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑨  ACHIEVEMENTS & CERTIFICATIONS
+══════════════════════════════════════════════════════════════ -->
 
-<h2>9️⃣ &nbsp;Achievements &amp; Certifications</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑨-ACHIEVEMENTS_%26_CERTIFICATIONS-00b4d8?style=for-the-badge&labelColor=03045e"/> &nbsp;Achievements &amp; Certifications
 
 ### 🏆 Awards & Honours
 
@@ -706,19 +765,18 @@ if __name__ == "__main__":
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  🔟  RESEARCH PROFILES
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑩  RESEARCH PROFILES
+══════════════════════════════════════════════════════════════ -->
 
-<h2>🔟 &nbsp;Research Profiles</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑩-RESEARCH_PROFILES-f72585?style=for-the-badge&labelColor=03045e"/> &nbsp;Research Profiles
 
 <div align="center">
-
-<!-- Capsule-render replaces broken "profiles label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🏛️+Verified+Academic+Profiles+—+Indexed+·+Citable+·+Trackable&fontSize=13&fontColor=FFD700&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🏛️+Verified+Academic+Profiles+—+Indexed+·+Citable+·+Trackable&fontSize=13&fontColor=FFD700&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -726,7 +784,7 @@ if __name__ == "__main__":
 <div align="center">
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="190">
 <a href="https://www.webofscience.com/wos/author/record/PII-8481-2026">
 <img src="https://img.shields.io/badge/Web_of_Science-FFD700?style=for-the-badge&labelColor=03045e"/>
 </a><br/><br/>
@@ -735,7 +793,7 @@ if __name__ == "__main__":
 <sub>✅ Verified Author</sub><br/>
 <sub>📊 Citation tracked</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 <a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google_Scholar-48cae4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=03045e"/>
 </a><br/><br/>
@@ -744,7 +802,7 @@ if __name__ == "__main__":
 <sub>✅ Public Profile</sub><br/>
 <sub>📊 h-index tracked</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 <a href="https://www.researchgate.net/profile/Md-Miah-142">
 <img src="https://img.shields.io/badge/ResearchGate-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/>
 </a><br/><br/>
@@ -753,25 +811,25 @@ if __name__ == "__main__":
 <sub>✅ Verified</sub><br/>
 <sub>📄 Full-text shared</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 <a href="https://huggingface.co/salekml">
-<img src="https://img.shields.io/badge/HuggingFace-f72585?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/HuggingFace-b5179e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/>
 </a><br/><br/>
 <b>Hugging Face</b><br/>
 <sub>salekml</sub><br/>
 <sub>🤖 ML models</sub><br/>
 <sub>🚀 Open-source AI</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 <a href="https://salek-protfolio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=03045e"/>
 </a><br/><br/>
 <b>Personal Website</b><br/>
 <sub>salek-protfolio.vercel.app</sub><br/>
 <sub>🌐 Live academic site</sub><br/>
-<sub>📊 Shiny tools</sub>
+<sub>📊 R Shiny tools</sub>
 </td>
-<td align="center" width="200">
+<td align="center" width="190">
 <a href="https://github.com/muhammadsalek">
 <img src="https://img.shields.io/badge/GitHub-56cfe1?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/>
 </a><br/><br/>
@@ -785,44 +843,39 @@ if __name__ == "__main__":
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  1️⃣1️⃣  GITHUB STATS
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑪  GITHUB STATS
+══════════════════════════════════════════════════════════════ -->
 
-<h2>1️⃣1️⃣ &nbsp;GitHub Stats</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑪-GITHUB_STATS-7209b7?style=for-the-badge&labelColor=03045e"/> &nbsp;GitHub Stats &amp; Activity
 
 <div align="center">
 
-<!-- Capsule-render replaces broken "stats label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=📡+Live+GitHub+Metrics+%26+Activity&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=📡+Live+GitHub+Metrics+%26+Contribution+Activity&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
-<!-- Stats + Languages -->
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=f72585&text_color=caf0f8&bg_color=03045e&border_radius=14&ring_color=00b4d8&custom_title=Md+Salek+Miah+—+GitHub+Stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=00d4ff&icon_color=f72585&text_color=caf0f8&bg_color=03045e&border_radius=14&ring_color=00b4d8&custom_title=Md+Salek+Miah+—+GitHub+Stats"/>
 &nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00d4ff&text_color=caf0f8&bg_color=03045e&border_radius=14&custom_title=Most+Used+Languages"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&title_color=00d4ff&text_color=caf0f8&bg_color=03045e&border_radius=14&custom_title=Most+Used+Languages"/>
 
 <br/><br/>
 
-<!-- Streak -->
-<img src="https://streak-stats.demolab.com/?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00b4d8&fire=f72585&currStreakLabel=00d4ff&sideLabels=caf0f8&dates=90e0ef&background=03045e&border_radius=14&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&sideNums=48cae4" width="70%"/>
+<img src="https://streak-stats.demolab.com/?user=muhammadsalek&theme=tokyonight&hide_border=true&ring=00b4d8&fire=f72585&currStreakLabel=00d4ff&sideLabels=caf0f8&dates=90e0ef&background=03045e&border_radius=14&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=ffffff&sideNums=48cae4" width="68%"/>
 
 <br/><br/>
 
-<!-- Activity graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalek&theme=tokyo-night&hide_border=true&area=true&area_color=00b4d8&line=f72585&point=FFD700&bg_color=03045e&color=caf0f8&radius=8&custom_title=Contribution+Timeline+—+Md+Salek+Miah" width="98%"/>
 
 <br/><br/>
 
-<!-- Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=muhammadsalek&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" width="98%"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -830,8 +883,7 @@ if __name__ == "__main__":
 
 <div align="center">
 
-<!-- Capsule-render replaces broken "snake label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🐍+Snake+eating+my+GitHub+contribution+grid+⚡&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🐍+Snake+eating+Md+Salek+Miah's+GitHub+contribution+grid+⚡&fontSize=13&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
@@ -840,7 +892,7 @@ if __name__ == "__main__":
     srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation — run the Action once to activate"
+  <img alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg"
     width="100%"/>
 </picture>
@@ -848,8 +900,7 @@ if __name__ == "__main__":
 </div>
 
 <details>
-<summary><b>🛠️ Activate the snake — 3 steps, takes ~2 minutes total</b></summary>
-
+<summary><b>🛠️ Activate the contribution snake — 3 steps (~2 minutes)</b></summary>
 <br/>
 
 **STEP 1** — Create `.github/workflows/snake.yml` in your profile repo:
@@ -887,72 +938,80 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**STEP 2** — Settings → Actions → General → Workflow permissions → **Read and write** → Save
+**STEP 2** — Repo → **Settings** → **Actions** → **General** → **Workflow permissions** → **Read and write** → **Save**
 
-**STEP 3** — Actions tab → "Generate Snake Animation" → **Run workflow** → wait ~60s → ✅ done
+**STEP 3** — **Actions** tab → **"Generate Snake Animation"** → **"Run workflow"** → ✅ active in ~60s
 
 </details>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  1️⃣2️⃣  CURRENT RESEARCH / WORK IN PROGRESS
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑫  WORK IN PROGRESS
+══════════════════════════════════════════════════════════════ -->
 
-<h2>1️⃣2️⃣ &nbsp;Current Research &amp; Work in Progress</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑫-WORK_IN_PROGRESS-48cae4?style=for-the-badge&labelColor=03045e"/> &nbsp;Current Research &amp; Active Pipeline
 
 <div align="center">
-
-<!-- Capsule-render replaces broken "wip label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🟢+Active+Research+Pipeline+—+March+2026&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🟢+Active+Research+Pipeline+—+March+2026&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  🟢  ACTIVE SUBMISSIONS & JOURNAL REVIEWS                                       ║
-║  ──────────────────────────────────────────────────────────────────────────── ║
-║      ┣━━  20+ manuscripts currently under Q1/Q2 journal review                 ║
-║      ┣━━  3 preprints live on Research Square (CC BY 4.0 open access)          ║
-║      ┗━━  5 conference proceedings presented in 2025                           ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🌱  SUST RC FUNDED PROJECT — In Active Progress                                ║
-║  "Impact of Pesticides Use on Farmers' Health · North-Eastern Bangladesh"      ║
-║      ┣━━  Field data collection & analysis ongoing · 2025–2026                 ║
-║      ┗━━  Manuscript preparation in progress · target submission: 2026         ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🤖  ELITE RESEARCH LAB — Active AI Projects                                    ║
-║      ┣━━  Advanced LLM research · AI-assisted systematic review pipelines      ║
-║      ┗━━  XAI development (SHAP · LIME · counterfactual reasoning)             ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🗺️   SPATIAL ML PIPELINE — Under Development                                   ║
-║      ┣━━  Subnational health inequality mapping · Bangladesh + Nepal            ║
-║      ┗━━  Bayesian spatial models · GIS integration · DHS data                 ║
-╠══════════════════════════════════════════════════════════════════════════════════╣
-║  🎯  ACTIVELY SEEKING — PhD Opportunities 2026                                  ║
-║      ┣━━  Fields: Epidemiology · Biostatistics · ML for Health · XAI           ║
-║      ┣━━  Spatial Health · Global Health Inequalities · Explainable AI         ║
-║      ┗━━  Open to fully funded PhD positions worldwide 🌐                      ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   🟢  ACTIVE JOURNAL SUBMISSIONS                                                     ║
+║   ─────────────────────────────────────────────────────────────────────────────    ║
+║       ┣━━  20+ manuscripts under Q1/Q2 peer review                                  ║
+║       ┣━━  3 preprints live on Research Square (CC BY 4.0 open access)              ║
+║       ┗━━  5 conference proceedings presented in 2025 (2 international)             ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🌱  SUST RC FUNDED PROJECT — In Active Progress                                    ║
+║   "Impact of Pesticides Use on Farmers' Health · North-Eastern Bangladesh"          ║
+║       ┣━━  Field data collection & analysis ongoing · 2025–2026                     ║
+║       ┗━━  Manuscript preparation in progress · target submission Q2 2026           ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🤖  ELITE RESEARCH LAB LLC — Active AI Research                                    ║
+║       ┣━━  Advanced LLM research · AI-assisted systematic review pipelines          ║
+║       ┗━━  XAI development — SHAP · LIME · counterfactual reasoning                 ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🗺️   SPATIAL ML PIPELINE — Under Development                                       ║
+║       ┣━━  Subnational health inequality mapping · Bangladesh + Nepal                ║
+║       ┗━━  Bayesian spatial models · ArcGIS integration · DHS data                  ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🎯  ACTIVELY SEEKING — Fully Funded PhD Opportunities 2026                         ║
+║       ┣━━  Epidemiology · Biostatistics · ML for Health · Explainable AI            ║
+║       ┣━━  Spatial Health Inequalities · Global Public Health · LLMs                ║
+║       ┗━━  Open to positions worldwide — EU · UK · USA · Canada · Australia 🌐      ║
+║                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  1️⃣3️⃣  COLLABORATIONS & OPEN RESEARCH
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑬  COLLABORATIONS & AFFILIATIONS
+══════════════════════════════════════════════════════════════ -->
 
-<h2>1️⃣3️⃣ &nbsp;Collaborations &amp; Open Research</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑬-COLLABORATIONS-FFD700?style=for-the-badge&labelColor=03045e"/> &nbsp;Collaborations &amp; Open Research
 
 <div align="center">
-
-<!-- Capsule-render replaces broken "collab label" typing SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=28&text=🤝+Open+to+Research+Collaborations+—+Global+·+Interdisciplinary+·+Impact-Driven&fontSize=12&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🤝+Open+to+Research+Collaborations+—+Global+·+Interdisciplinary+·+Impact-Driven&fontSize=12&fontColor=48CAE4&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -985,40 +1044,41 @@ jobs:
 
 | I am looking for | Topics |
 |:---|:---|
-| 🎓 **PhD Supervisors** | Epidemiology · Biostatistics · ML for Health · XAI · Global Health Inequalities |
+| 🎓 **PhD Supervisors** | Epidemiology · Biostatistics · ML for Health · XAI · Global Health |
 | 🤝 **Research Collaborators** | DHS data analysis · Spatial epidemiology · LLM research · XAI |
 | ✍️ **Co-authors** | Public health · Mental health · Maternal/child health · ML manuscripts |
-| 💻 **Open-source Contributors** | R packages · Python health ML tools · XAI frameworks · health dashboards |
-| 📋 **Journal Reviewers / Editors** | Springer · BMJ · Elsevier · PLOS · Nature Portfolio journals |
+| 💻 **Open-source Contributors** | R packages · Python health ML · XAI frameworks · health dashboards |
+| 📋 **Journal Reviewers / Editors** | Springer · BMJ · Elsevier · PLOS · Nature Portfolio |
 
 </div>
 
 <br/>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,20:7209b7,50:00b4d8,80:0077b6,100:f72585&height=4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
-<!-- ═══════════════════════════════════════════════════════════════
-  1️⃣4️⃣  CONTACT INFORMATION
-═══════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════
+  ⑭  CONTACT INFORMATION
+══════════════════════════════════════════════════════════════ -->
 
-<h2>1️⃣4️⃣ &nbsp;Contact Information</h2>
+<br/>
+
+## <img src="https://img.shields.io/badge/⑭-CONTACT_INFORMATION-56cfe1?style=for-the-badge&labelColor=03045e"/> &nbsp;Contact Information
 
 <div align="center">
 
-<!-- Capsule-render replaces broken "contact typing" SVG -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🌐+Always+open+to+collaborate+·+PhD+enquiries+welcome+💙&fontSize=14&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=32&text=🌐+Always+open+to+collaborate+·+PhD+enquiries+welcome+💙&fontSize=14&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 
 <br/><br/>
 
 <table>
 <tr>
-<td align="center"><a href="https://salek-protfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-f72585?style=for-the-badge&logoColor=white&labelColor=03045e"/></a></td>
-<td align="center"><a href="https://www.linkedin.com/in/md-salek-miah-b34309329"><img src="https://img.shields.io/badge/💼_LinkedIn-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03045e"/></a></td>
-<td align="center"><a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/🏛️_Web_of_Science-FFD700?style=for-the-badge&logoColor=black&labelColor=03045e"/></a></td>
+<td align="center"><a href="https://salek-protfolio.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-f72585?style=for-the-badge&labelColor=03045e"/></a></td>
+<td align="center"><a href="https://www.linkedin.com/in/md-salek-miah-b34309329"><img src="https://img.shields.io/badge/💼_LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03045e"/></a></td>
+<td align="center"><a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/🏛️_Web_of_Science-FFD700?style=for-the-badge&labelColor=03045e"/></a></td>
 <td align="center"><a href="https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en"><img src="https://img.shields.io/badge/📖_Scholar-48cae4?style=for-the-badge&logo=google-scholar&logoColor=white&labelColor=03045e"/></a></td>
 </tr>
 <tr>
 <td align="center"><a href="https://www.researchgate.net/profile/Md-Miah-142"><img src="https://img.shields.io/badge/🔬_ResearchGate-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/></a></td>
-<td align="center"><a href="https://huggingface.co/salekml"><img src="https://img.shields.io/badge/🤗_HuggingFace-f72585?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/></a></td>
+<td align="center"><a href="https://huggingface.co/salekml"><img src="https://img.shields.io/badge/🤗_HuggingFace-b5179e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/></a></td>
 <td align="center"><a href="https://www.teamcsbd.com/"><img src="https://img.shields.io/badge/🌐_TeamCSBD-56cfe1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=03045e"/></a></td>
 <td align="center"><a href="mailto:saleksta@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/></a></td>
 </tr>
@@ -1044,43 +1104,50 @@ jobs:
 </div>
 
 <br/>
-
-<!-- QUOTE BLOCK -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="74%"/>
-
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=6000&pause=5200&color=90E0EF&center=true&vCenter=true&multiline=false&width=920&height=50&lines=💙+%22+Data+is+not+just+numbers+—+it+is+the+story+of+human+lives.+%22)](https://github.com/muhammadsalek)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Md_Salek_Miah-Research_Portfolio_·_CV_·_Code_Repository_·_WoS_PII--8481--2026-00b4d8?style=for-the-badge&labelColor=03045e"/>
+<!-- ████  QUOTE & SIGNATURE BLOCK  ████ -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="72%"/>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=7000&pause=6000&color=90E0EF&center=true&vCenter=true&multiline=false&width=940&height=48&lines=💙+%22+Data+is+not+just+numbers+—+it+is+the+story+of+human+lives.+%22)](https://github.com/muhammadsalek)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Md_Salek_Miah-PhD_Ready_2026_·_WoS_PII--8481--2026_·_Q1_Published-00b4d8?style=for-the-badge&labelColor=03045e"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Statistician_·_Epidemiologist_·_ML_Researcher_·_XAI_·_Public_Health_Scientist-f72585?style=for-the-badge&labelColor=03045e"/>
 
 </div>
 
 <br/>
 
-<!-- FOOTER WAVE — Firoza / deep rose-to-cyan gradient as requested -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,15:7209b7,38:f72585,62:ff6b9d,80:00b4d8,100:48cae4&height=240&section=footer&text=Open+to+Collaborations+%26+PhD+Opportunities!&fontSize=28&fontColor=ffffff&fontAlignY=54&animation=fadeIn&desc=saleksta%40gmail.com+·+%2B880+1687+831074+·+Sylhet%2C+Bangladesh+🇧🇩&descAlignY=74&descSize=15&descColor=caf0f8"/>
+<!-- ████  FOOTER WAVE — FIROZA DEEP ROSE TO CYAN  ████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,12:3a0ca3,28:7209b7,45:b5179e,62:f72585,78:ff6b9d,90:00b4d8,100:48cae4&height=250&section=footer&text=Open+to+Collaborations+%26+PhD+Opportunities!&fontSize=30&fontColor=ffffff&fontAlignY=52&animation=fadeIn&desc=saleksta%40gmail.com+·+%2B880+1687+831074+·+Sylhet%2C+Bangladesh+🇧🇩&descAlignY=72&descSize=15&descColor=caf0f8"/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f72585?style=flat-square&logo=vercel&logoColor=white&labelColor=03045e)](https://salek-protfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00b4d8?style=flat-square&logo=linkedin&logoColor=white&labelColor=03045e)](https://www.linkedin.com/in/md-salek-miah-b34309329)
-[![WoS](https://img.shields.io/badge/Web_of_Science-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)
-[![Scholar](https://img.shields.io/badge/Scholar-48cae4?style=flat-square&logo=google-scholar&logoColor=white&labelColor=03045e)](https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-7209b7?style=flat-square&logo=researchgate&logoColor=white&labelColor=03045e)](https://www.researchgate.net/profile/Md-Miah-142)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-f72585?style=flat-square&logo=huggingface&logoColor=white&labelColor=03045e)](https://huggingface.co/salekml)
-[![GitHub](https://img.shields.io/badge/GitHub-56cfe1?style=flat-square&logo=github&logoColor=white&labelColor=03045e)](https://github.com/muhammadsalek)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f72585?style=flat-square&logo=vercel&logoColor=white&labelColor=03045e)](https://salek-protfolio.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b6?style=flat-square&logo=linkedin&logoColor=white&labelColor=03045e)](https://www.linkedin.com/in/md-salek-miah-b34309329)&nbsp;
+[![WoS](https://img.shields.io/badge/Web_of_Science-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)&nbsp;
+[![Scholar](https://img.shields.io/badge/Scholar-48cae4?style=flat-square&logo=google-scholar&logoColor=white&labelColor=03045e)](https://scholar.google.com/citations?user=oV99NYoAAAAJ&hl=en)&nbsp;
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-7209b7?style=flat-square&logo=researchgate&logoColor=white&labelColor=03045e)](https://www.researchgate.net/profile/Md-Miah-142)&nbsp;
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-b5179e?style=flat-square&logo=huggingface&logoColor=white&labelColor=03045e)](https://huggingface.co/salekml)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-56cfe1?style=flat-square&logo=github&logoColor=white&labelColor=03045e)](https://github.com/muhammadsalek)&nbsp;
 [![TeamCSBD](https://img.shields.io/badge/TeamCSBD-56cfe1?style=flat-square&logo=googlechrome&logoColor=white&labelColor=03045e)](https://www.teamcsbd.com/)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=3000&color=90E0EF&center=true&vCenter=true&multiline=false&width=820&height=26&lines=⭐+Star+my+repos+if+useful!+Open+to+PhD+%26+global+research+collaborations+🌐)](https://github.com/muhammadsalek)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3500&pause=3000&color=90E0EF&center=true&vCenter=true&multiline=false&width=840&height=26&lines=⭐+Star+my+repos+if+useful!+·+Open+to+PhD+%26+global+research+collaborations+🌐)](https://github.com/muhammadsalek)
 
 </div>
 
-<!-- BOTTOM NEON STRIP -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,15:0077b6,35:023e8a,55:7209b7,75:f72585,90:48cae4,100:00b4d8&height=8"/>
+<!-- ████  BOTTOM IRIDESCENT STRIP  ████ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,12:0096c7,25:023e8a,40:3a0ca3,55:7209b7,70:b5179e,85:f72585,100:ff6b9d&height=6"/>
