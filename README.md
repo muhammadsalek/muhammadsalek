@@ -2,7 +2,7 @@
      ║   Md Salek Miah  ·  github.com/muhammadsalek  ·  2026                      ║
      ║   Academic Portfolio  ·  CV  ·  Research Code Repository                   ║
      ║   Statistician · Epidemiologist · ML Researcher · XAI · Public Health      ║
-     ║   WoS: PII-8481-2026  ·  Q1 Published  ·  20+ Under Review                 ║
+     ║   WoS: PII-8481-2026  ·  3 Q1 Published  ·  19+ Under Review               ║
      ║   Q1 Peer Reviewer · Cambridge University Press · Global Mental Health      ║
      ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
@@ -29,7 +29,7 @@
 <!-- ████  ANIMATED — RESEARCH STATS BAR  ████ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📖+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch;📝+Q1+Peer+Reviewer+—+Cambridge+Prisms%3A+Global+Mental+Health+%7C+Cambridge+University+Press)](https://github.com/muhammadsalek)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📖+3+Q1+Published+%7C+19%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch;📝+Q1+Peer+Reviewer+—+Cambridge+Prisms%3A+Global+Mental+Health+%7C+Cambridge+University+Press;🎥+YouTube%3A+Salek+Research+Hub+—+Research+Education+for+Bangladesh)](https://github.com/muhammadsalek)
 
 </div>
 
@@ -52,6 +52,7 @@
 <a href="https://www.researchgate.net/profile/Md-Miah-142"><img src="https://img.shields.io/badge/ResearchGate-Follow-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/></a>&nbsp;
 <a href="https://huggingface.co/salekml"><img src="https://img.shields.io/badge/HuggingFace-Models-b5179e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/></a>&nbsp;
 <a href="https://github.com/muhammadsalek"><img src="https://img.shields.io/badge/GitHub-Follow-56cfe1?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/YouTube-Salek_Research_Hub-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=03045e"/></a>&nbsp;
 <a href="mailto:saleksta@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/></a>
 
 </div>
@@ -67,14 +68,15 @@
 <img src="https://img.shields.io/badge/🟢_Open-To_Collaborate-56cfe1?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🔬_ELITE-Research_Lab_LLC-7209b7?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🏛️_WoS-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e"/>&nbsp;
-<a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/📝_Peer_Reviewer-Cambridge_University_Press-48cae4?style=for-the-badge&labelColor=03045e"/></a>
+<a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/📝_Peer_Reviewer-Cambridge_University_Press-48cae4?style=for-the-badge&labelColor=03045e"/></a>&nbsp;
+<a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/🎥_YouTube-Salek_Research_Hub-FF0000?style=for-the-badge&labelColor=03045e"/></a>
 
 </div>
 
 <br/>
 
 <!-- ████  QUICK-STATS FULL-WIDTH CAPSULE  ████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=46&text=✅+1+Q1+Published+%7C+20%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences+%7C+30%2B+ML+Models+%7C+Q1+Peer+Reviewer+%7C+WoS+PII-8481-2026&fontSize=11&fontColor=90E0EF&fontAlign=50&fontAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=46&text=✅+3+Q1+Published+%7C+19%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences+%7C+30%2B+ML+Models+%7C+Q1+Peer+Reviewer+%7C+WoS+PII-8481-2026&fontSize=11&fontColor=90E0EF&fontAlign=50&fontAlignY=58"/>
 
 <br/><br/>
 
@@ -148,6 +150,7 @@ class MdSalekMiah:
         "huggingface"    : "salekml",
         "portfolio"      : "salek-protfolio.vercel.app",
         "teamcsbd"       : "www.teamcsbd.com",
+        "youtube"        : "@SalekResearch  (Salek Research Hub)",
     }
 
     # ── Active Positions ────────────────────────────────────────────
@@ -169,8 +172,8 @@ class MdSalekMiah:
     # ── Research Snapshot ───────────────────────────────────────────
     research = {
         "wos_id"       : "PII-8481-2026",
-        "q1_published" : 1,
-        "under_review" : "20+",
+        "q1_published" : 3,
+        "under_review" : "19+",
         "submitted"    : 33,
         "preprints"    : 3,
         "conferences"  : 5,
@@ -196,7 +199,7 @@ if __name__ == "__main__":
 
 > ### 💙 &nbsp;"Turning data into decisions that save lives."
 >
-> I am **Md Salek Miah** — a statistician and spatial epidemiologist at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health. I champion **transparent AI** and open science — with **1 Q1 paper published** in Springer Nature, **20+ manuscripts under review**, and active collaboration with international research organisations across three continents.
+> I am **Md Salek Miah** — a statistician and spatial epidemiologist at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health. I champion **transparent AI** and open science — with **3 Q1 papers published** across Springer Nature, Wiley, and Cambridge University Press, **19+ manuscripts under review**, and active collaboration with international research organisations across three continents. I also run **[Salek Research Hub](https://www.youtube.com/@SalekResearch)** on YouTube, a channel dedicated to research education for the Bangladeshi academic community.
 
 <br/>
 
@@ -242,6 +245,7 @@ if __name__ == "__main__":
 - Pregnancy loss & mental health linkages
 - Antenatal care quality & access
 - Child undernutrition · stunting · WASH
+- Early childhood education participation & WASH facilities
 
 </td>
 <td width="33%" valign="top">
@@ -251,27 +255,23 @@ if __name__ == "__main__":
 - Women's empowerment indices & IPV dynamics
 - Rural–urban mental health inequalities
 - Cross-country comparative studies (10+ nations)
+- Spatial inequalities in IPV & mental health (Zambia)
+
+</td>
+<td width="33%" valign="top">
 
 ### 🗺️ Spatial & Environmental Health
 - GIS-based health outcome mapping
 - Water quality index (WQI) modelling
 - Pesticide exposure & farmers' health
 - Subnational health variation analysis
-
-</td>
-<td width="33%" valign="top">
+- Household water & handwashing facilities
 
 ### 🤖 Machine Learning & XAI
 - XGBoost · Random Forest · Neural Networks
 - SHAP · LIME · Counterfactual explanations
 - SMOTE for imbalanced clinical data
 - ML for complex DHS survey datasets
-
-### 🚀 Advanced AI & NLP
-- Large Language Models (LLMs)
-- AI-assisted systematic literature reviews
-- Explainable AI for healthcare decisions
-- Transparent & reliable AI (ELITE Lab)
 
 </td>
 </tr>
@@ -291,6 +291,7 @@ if __name__ == "__main__":
 ![](https://img.shields.io/badge/Public_Health-48cae4?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Women_Empowerment-48cae4?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Water_Quality-48cae4?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/WASH_%26_ECE-48cae4?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Pesticide_Health-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/SHAP_LIME_XAI-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Global_Health-90e0ef?style=flat-square&labelColor=03045e)
@@ -406,6 +407,12 @@ if __name__ == "__main__":
 ║                                                                                      ║
 ║   🎓  SUST RESEARCH SCIENCE CLUB — Workshop Instructor                               ║
 ║       ┗━━  R programming · ggplot2 visualisation · 150+ participants trained         ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🎥  SALEK RESEARCH HUB — YouTube Channel                    Ongoing               ║
+║   Role  ➤  Founder & Host  ·  URL: youtube.com/@SalekResearch                        ║
+║       ┗━━  Research education & academic skill-building for Bangladeshi students     ║
 ║                                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -612,6 +619,8 @@ if __name__ == "__main__":
 | 🔬 Project | 📝 Description | 🛠️ Stack | Status |
 |:---|:---|:---:|:---:|
 | [**Pregnancy Loss & Mental Health**](https://github.com/muhammadsalek/Pregnancy-Loss-Internet-Use-Mental-Health-DHS-2022) | Q1 Published · Internet use · depression & anxiety · BDHS 2022 | `R` `Survey` `ML` | ✅ Published |
+| **Household Water, Handwashing & ECE — Nepal** | Q1 Published · Wiley · WASH facilities & early childhood education | `R` `Survey` | ✅ Published |
+| **IPV, Anxiety & Depression — Zambia** | Q1 Published · Cambridge Prisms · spatial inequalities & SDGs | `R` `GIS` `Survey` | ✅ Published |
 | [**Diabetes ML Analysis**](https://github.com/muhammadsalek/Data-Analytics-Portfolio-Project-Analysis-of-Diabetes-Dataset) | End-to-end pipeline · XGBoost · SHAP explainability | `Python` `SHAP` | ⚡ Active |
 | [**MovieLens Recommender**](https://github.com/muhammadsalek/MovieLens-Recommendation-System) | Hybrid collaborative + content-based filtering | `Python` `R` | 🔴 Live |
 | [**Interactive Stat Calculator**](https://salek-protfolio.vercel.app/) | R Shiny live statistical analysis tool | `R Shiny` | 🔴 Live |
@@ -634,12 +643,12 @@ if __name__ == "__main__":
 ## <img src="https://img.shields.io/badge/⑦-PUBLICATIONS_%26_MANUSCRIPTS-7209b7?style=for-the-badge&labelColor=03045e"/> &nbsp;Publications &amp; Manuscripts
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=📖+1+Q1+Published+·+20%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026&fontSize=12&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=📖+3+Q1+Published+·+19%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026&fontSize=12&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
 
-### <img src="https://img.shields.io/badge/✅_PUBLISHED-Q1_SPRINGER_NATURE-00b4d8?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/✅_PUBLISHED-3_Q1_PAPERS-00b4d8?style=for-the-badge&labelColor=03045e"/>
 
 <div align="center">
 
@@ -648,14 +657,32 @@ if __name__ == "__main__":
 >
 > [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12905--025--04166--4-00b4d8?style=for-the-badge&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1186/s12905-025-04166-4)&nbsp;[![WoS](https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)&nbsp;![](https://img.shields.io/badge/Q1-Springer_Nature-f72585?style=flat-square&labelColor=03045e)&nbsp;![](https://img.shields.io/badge/Open_Access-CC_BY_4.0-56cfe1?style=flat-square&labelColor=03045e)
 
+<br/>
+
+> ### Household Water and Handwashing Facilities and Early Childhood Education Participation in Nepal: Evidence From a Nationally Representative Cross-Sectional Survey
+> ***Health Science Reports** · Wiley · First published **02 April 2026***
+>
+> **Co-authors:** Md Salek Miah · Fhameda Faija Lamia · Mst. Labonna Begum · Md Shied · Rima Akhter
+>
+> [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fhsr2.72254-00b4d8?style=for-the-badge&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1002/hsr2.72254)&nbsp;[![WoS](https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)&nbsp;![](https://img.shields.io/badge/Wiley-Health_Science_Reports-f72585?style=flat-square&labelColor=03045e)
+
+<br/>
+
+> ### Intimate Partner Violence and the Dual Burden of Anxiety and Depression Among Women in Zambia: Spatial Inequalities and Implications for the Sustainable Development Goals
+> ***Cambridge Prisms: Global Mental Health** · Cambridge University Press · Published **June 2026***
+>
+> **Co-authors:** Md Salek Miah · Mohammad Shahab Uddin
+>
+> [![DOI](https://img.shields.io/badge/DOI-10.1017%2Fgmh.2026.10261-00b4d8?style=for-the-badge&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1017/gmh.2026.10261)&nbsp;[![WoS](https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)&nbsp;![](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-56cfe1?style=flat-square&labelColor=03045e)
+
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/🔄_UNDER_REVIEW-20%2B_Manuscripts_·_Q1%2FQ2_Target_Journals-f72585?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/🔄_UNDER_REVIEW-19%2B_Manuscripts_·_Q1%2FQ2_Target_Journals-f72585?style=for-the-badge&labelColor=03045e"/>
 
 <details>
-<summary><b>&nbsp;💙 Click to expand — all 20 manuscripts under peer review</b></summary>
+<summary><b>&nbsp;💙 Click to expand — all 19 manuscripts under peer review</b></summary>
 <br/>
 
 | # | Title | Journal | Publisher | Status |
@@ -668,18 +695,17 @@ if __name__ == "__main__":
 | 06 | Digital Connectivity and Mental Health — Bangladesh | *Social Psychiatry & Psychiatric Epidemiology* | Springer Q1 | 📝 Editor |
 | 07 | ML Analysis of Skilled Birth Attendance — Burkina Faso | *Scientific Reports* | Nature Portfolio Q1 | 🔄 Review |
 | 08 | ML Determinants of Multiple Pregnancy Loss — Bangladesh | *Scientific Reports* | Nature Portfolio Q1 | 📝 Editor |
-| 09 | IPV and Anxiety & Depression — Zambia | *Global Mental Health* | Cambridge Q1 | ⏳ Awaiting |
-| 10 | Women's Empowerment and Mental Health — Zambia | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
-| 11 | ML for Skilled Birth Attendance — Nigeria | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
-| 12 | Maternal Mental Health and Pregnancy Loss — Nepal | *Discover Mental Health* | Springer Nature Q1 | 🔄 Review |
-| 13 | ML Prediction of Antenatal Care Quality — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
-| 14 | Socioeconomic Risk Factors Health-Seeking — Senegal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
-| 15 | Rural-Urban Inequalities in Depression — Lesotho | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
-| 16 | Anxiety, Depression and Internet Use — Zambia | *Discover Mental Health* | Springer Nature Q1 | 🔄 Review |
-| 17 | Subnational Determinants of IPV — Bangladesh | *BMC Women's Health* | Springer Nature Q1 | 👁 Peer Review |
-| 18 | Spatial Variation of Skilled Birth Attendance — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
-| 19 | ML Comparison for Skilled Birth Assistance — Nepal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
-| 20 | ML Prediction of Water Quality Index — Buriganga River | *Agrosystems, Geosciences & Environment* | Wiley Q2 | 🔄 Review |
+| 09 | Women's Empowerment and Mental Health — Zambia | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
+| 10 | ML for Skilled Birth Attendance — Nigeria | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
+| 11 | Maternal Mental Health and Pregnancy Loss — Nepal | *Discover Mental Health* | Springer Nature Q1 | 🔄 Review |
+| 12 | ML Prediction of Antenatal Care Quality — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
+| 13 | Socioeconomic Risk Factors Health-Seeking — Senegal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
+| 14 | Rural-Urban Inequalities in Depression — Lesotho | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
+| 15 | Anxiety, Depression and Internet Use — Zambia | *Discover Mental Health* | Springer Nature Q1 | 🔄 Review |
+| 16 | Subnational Determinants of IPV — Bangladesh | *BMC Women's Health* | Springer Nature Q1 | 👁 Peer Review |
+| 17 | Spatial Variation of Skilled Birth Attendance — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
+| 18 | ML Comparison for Skilled Birth Assistance — Nepal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
+| 19 | ML Prediction of Water Quality Index — Buriganga River | *Agrosystems, Geosciences & Environment* | Wiley Q2 | 🔄 Review |
 
 </details>
 
@@ -735,10 +761,10 @@ if __name__ == "__main__":
 | 🗄️ Dataset | 🌍 Country | 📅 Year | 📊 Research Use | 🔗 |
 |:---|:---|:---:|:---|:---:|
 | **BDHS 2022** — Bangladesh DHS | Bangladesh 🇧🇩 | 2022 | Mental health · Pregnancy loss · IPV · MCH | [DHS](https://dhsprogram.com) |
-| **NDHS 2022** — Nepal DHS | Nepal 🇳🇵 | 2022 | Skilled birth · ANC · spatial analysis | [DHS](https://dhsprogram.com) |
+| **NDHS 2022** — Nepal DHS | Nepal 🇳🇵 | 2022 | Skilled birth · ANC · WASH · ECE · spatial analysis | [DHS](https://dhsprogram.com) |
 | **NDHS 2021** — Nigeria DHS | Nigeria 🇳🇬 | 2021 | Skilled birth attendance · ML | [DHS](https://dhsprogram.com) |
 | **BFHS 2021** — Burkina Faso DHS | Burkina Faso 🇧🇫 | 2021 | Skilled birth attendance · ML | [DHS](https://dhsprogram.com) |
-| **ZDHS 2021–22** — Zambia DHS | Zambia 🇿🇲 | 2021–22 | IPV · mental health · depression | [DHS](https://dhsprogram.com) |
+| **ZDHS 2021–22** — Zambia DHS | Zambia 🇿🇲 | 2021–22 | IPV · mental health · depression · spatial inequality | [DHS](https://dhsprogram.com) |
 | **SDHS 2020** — Senegal DHS | Senegal 🇸🇳 | 2020 | Health-seeking · socioeconomic factors | [DHS](https://dhsprogram.com) |
 | **LDHS 2019** — Lesotho DHS | Lesotho 🇱🇸 | 2019 | Rural-urban depression inequalities | [DHS](https://dhsprogram.com) |
 | **Buriganga River WQ Data** | Bangladesh 🇧🇩 | 2024 | Water quality index · spatial health | Field Survey |
@@ -776,8 +802,11 @@ if __name__ == "__main__":
 | 🎯 | **Top 10 Finalist** — National Data Hackathon | Comilla University | 2025 |
 | 🥈 | **Runner-up** — Scientific Poster Competition | 6th Bangladesh Economics Summit | 2025 |
 | 📄 | **Q1 Published** — BMC Women's Health · DOI: 10.1186/s12905-025-04166-4 | Springer Nature | Nov 2025 |
+| 📄 | **Q1 Published** — Health Science Reports · DOI: 10.1002/hsr2.72254 | Wiley | Apr 2026 |
+| 📄 | **Q1 Published** — Cambridge Prisms: Global Mental Health · DOI: 10.1017/gmh.2026.10261 | Cambridge University Press | Jun 2026 |
 | 🏛️ | **WoS Verified Author** — ID: PII-8481-2026 | Clarivate Web of Science | 2026 |
 | 📝 | **Q1 Peer Reviewer** — [Cambridge Prisms: Global Mental Health](https://www.webofscience.com/wos/author/record/PII-8481-2026) | Cambridge University Press | Mar 2026 |
+| 🎥 | **Founder** — Salek Research Hub, YouTube research-education channel | Self-Founded | 2025 |
 | 🎓 | **Merit Scholarship** | Aftab Uddin–Khudeja Banu Welfare Trust, UK | 2016 |
 | 🎓 | **Merit Scholarship** | Khandoker Trust International | 2013 |
 
@@ -884,6 +913,17 @@ if __name__ == "__main__":
 <sub>@muhammadsalek</sub><br/>
 <sub>💻 Code repos</sub><br/>
 <sub>📦 Research pipelines</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="190">
+<a href="https://www.youtube.com/@SalekResearch">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=03045e"/>
+</a><br/><br/>
+<b>Salek Research Hub</b><br/>
+<sub>@SalekResearch</sub><br/>
+<sub>🎥 Research education</sub><br/>
+<sub>🇧🇩 Bangladeshi academic community</sub>
 </td>
 </tr>
 </table>
@@ -1013,7 +1053,7 @@ jobs:
 ║                                                                                      ║
 ║   🟢  ACTIVE JOURNAL SUBMISSIONS                                                     ║
 ║   ─────────────────────────────────────────────────────────────────────────────    ║
-║       ┣━━  20+ manuscripts under Q1/Q2 peer review                                  ║
+║       ┣━━  19+ manuscripts under Q1/Q2 peer review                                  ║
 ║       ┣━━  3 preprints live on Research Square (CC BY 4.0 open access)              ║
 ║       ┗━━  5 conference proceedings presented in 2025 (2 international)             ║
 ║                                                                                      ║
@@ -1035,6 +1075,12 @@ jobs:
 ║   🗺️   SPATIAL ML PIPELINE — Under Development                                       ║
 ║       ┣━━  Subnational health inequality mapping · Bangladesh + Nepal                ║
 ║       ┗━━  Bayesian spatial models · ArcGIS integration · DHS data                  ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🎥  SALEK RESEARCH HUB — YouTube Channel Growth                                     ║
+║       ┣━━  Ongoing research-education content for Bangladeshi students              ║
+║       ┗━━  youtube.com/@SalekResearch                                               ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                      ║
@@ -1080,6 +1126,7 @@ jobs:
 | **📖 DataKothon Research Lab** | Research Collaborator | 2025 |
 | **💻 SUST Data Science Club** | Member | 2023 |
 | **🎓 Daffodil International University Research Society** | Member | 2024 |
+| **🎥 Salek Research Hub** | Founder & Host | 2025 – Present |
 
 </div>
 
@@ -1093,9 +1140,9 @@ jobs:
 |:---|:---|
 | 🎓 **PhD Supervisors** | Epidemiology · Biostatistics · ML for Health · XAI · Global Health |
 | 🤝 **Research Collaborators** | DHS data analysis · Spatial epidemiology · LLM research · XAI |
-| ✍️ **Co-authors** | Public health · Mental health · Maternal/child health · ML manuscripts |
+| ✍️ **Co-authors** | Public health · Mental health · Maternal/child health · WASH/ECE · ML manuscripts |
 | 💻 **Open-source Contributors** | R packages · Python health ML · XAI frameworks · health dashboards |
-| 📋 **Journal Reviewers / Editors** | Springer · BMJ · Elsevier · PLOS · Nature Portfolio |
+| 📋 **Journal Reviewers / Editors** | Springer · BMJ · Elsevier · PLOS · Nature Portfolio · Wiley · Cambridge |
 
 </div>
 
@@ -1129,6 +1176,9 @@ jobs:
 <td align="center"><a href="https://www.teamcsbd.com/"><img src="https://img.shields.io/badge/🌐_TeamCSBD-56cfe1?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=03045e"/></a></td>
 <td align="center"><a href="mailto:saleksta@gmail.com"><img src="https://img.shields.io/badge/📧_Gmail-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/></a></td>
 </tr>
+<tr>
+<td align="center" colspan="4"><a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/🎥_YouTube-Salek_Research_Hub-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=03045e"/></a></td>
+</tr>
 </table>
 
 <br/>
@@ -1143,6 +1193,7 @@ jobs:
 | 🤗 **HuggingFace** | [salekml](https://huggingface.co/salekml) |
 | 💻 **GitHub** | [muhammadsalek](https://github.com/muhammadsalek) |
 | 🌐 **TeamCSBD** | [www.teamcsbd.com](https://www.teamcsbd.com/) |
+| 🎥 **YouTube** | [Salek Research Hub — @SalekResearch](https://www.youtube.com/@SalekResearch) |
 | 📧 **Personal Email** | saleksta@gmail.com |
 | 🎓 **Academic Email** | 2021134066@student.sust.edu |
 | 📱 **WhatsApp** | +880 1687 831074 |
@@ -1166,7 +1217,7 @@ jobs:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Md_Salek_Miah-PhD_Ready_2026_·_WoS_PII--8481--2026_·_Q1_Published-00b4d8?style=for-the-badge&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/Md_Salek_Miah-PhD_Ready_2026_·_WoS_PII--8481--2026_·_3_Q1_Published-00b4d8?style=for-the-badge&labelColor=03045e"/>
 
 <br/>
 
@@ -1188,7 +1239,8 @@ jobs:
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-7209b7?style=flat-square&logo=researchgate&logoColor=white&labelColor=03045e)](https://www.researchgate.net/profile/Md-Miah-142)&nbsp;
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-b5179e?style=flat-square&logo=huggingface&logoColor=white&labelColor=03045e)](https://huggingface.co/salekml)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-56cfe1?style=flat-square&logo=github&logoColor=white&labelColor=03045e)](https://github.com/muhammadsalek)&nbsp;
-[![TeamCSBD](https://img.shields.io/badge/TeamCSBD-56cfe1?style=flat-square&logo=googlechrome&logoColor=white&labelColor=03045e)](https://www.teamcsbd.com/)
+[![TeamCSBD](https://img.shields.io/badge/TeamCSBD-56cfe1?style=flat-square&logo=googlechrome&logoColor=white&labelColor=03045e)](https://www.teamcsbd.com/)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=03045e)](https://www.youtube.com/@SalekResearch)
 
 <br/>
 
