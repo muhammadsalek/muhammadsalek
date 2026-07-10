@@ -2,7 +2,7 @@
      ║   Md Salek Miah  ·  github.com/muhammadsalek  ·  2026                      ║
      ║   Academic Portfolio  ·  CV  ·  Research Code Repository                   ║
      ║   Statistician · Epidemiologist · ML Researcher · XAI · Public Health      ║
-     ║   WoS: PII-8481-2026  ·  3 Q1 Published  ·  19+ Under Review               ║
+     ║   WoS: PII-8481-2026  ·  4 Q1 Published  ·  18+ Under Review               ║
      ║   Q1 Peer Reviewer · Cambridge University Press · Global Mental Health      ║
      ╚══════════════════════════════════════════════════════════════════════════════╝ -->
 
@@ -22,14 +22,14 @@
 <!-- ████  ANIMATED WELCOME — PRIMARY  ████ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=880&height=68&lines=👋+Hello!+I+am+Md+Salek+Miah+🌊;🔬+Statistician+%7C+Epidemiologist+%7C+Data+Scientist;🤖+ML+Engineer+%7C+XAI+Specialist+%7C+LLM+Researcher;🌏+Turning+Data+Into+Decisions+That+Save+Lives;🎓+Seeking+PhD+%26+Global+Research+Collaborations)](https://github.com/muhammadsalek)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=29&duration=2200&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=880&height=68&lines=👋+Hello!+I+am+Md+Salek+Miah+🌊;🔬+Statistician+%7C+Epidemiologist+%7C+Data+Scientist;🤖+ML+Engineer+%7C+XAI+Specialist+%7C+LLM+Researcher;🎓+Instructor+%7C+GBD+Collaborator+%7C+Educator;🌏+Turning+Data+Into+Decisions+That+Save+Lives;🎓+Seeking+PhD+%26+Global+Research+Collaborations)](https://github.com/muhammadsalek)
 
 </div>
 
 <!-- ████  ANIMATED — RESEARCH STATS BAR  ████ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📖+3+Q1+Published+%7C+19%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch;📝+Q1+Peer+Reviewer+—+Cambridge+Prisms%3A+Global+Mental+Health+%7C+Cambridge+University+Press;🎥+YouTube%3A+Salek+Research+Hub+—+Research+Education+for+Bangladesh)](https://github.com/muhammadsalek)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📖+4+Q1+Published+%7C+18%2B+Under+Review+%7C+33+Submissions+%7C+5+Conferences;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;🌍+GBD+Collaborator+%40+IHME+%7C+Instructor+%40+BIIHR+%7C+Course+Founder;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch;📝+Q1+Peer+Reviewer+—+Cambridge+Prisms%3A+Global+Mental+Health+%7C+Cambridge+University+Press;🎥+YouTube%3A+Salek+Research+Hub+—+Research+Education+for+Bangladesh)](https://github.com/muhammadsalek)
 
 </div>
 
@@ -67,6 +67,7 @@
 <img src="https://img.shields.io/badge/📍_Sylhet-Bangladesh_🇧🇩-0096c7?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🟢_Open-To_Collaborate-56cfe1?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🔬_ELITE-Research_Lab_LLC-7209b7?style=for-the-badge&labelColor=03045e"/>&nbsp;
+<img src="https://img.shields.io/badge/🌍_GBD-IHME_Collaborator-2C7AC3?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🏛️_WoS-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/📝_Peer_Reviewer-Cambridge_University_Press-48cae4?style=for-the-badge&labelColor=03045e"/></a>&nbsp;
 <a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/🎥_YouTube-Salek_Research_Hub-FF0000?style=for-the-badge&labelColor=03045e"/></a>
@@ -76,7 +77,7 @@
 <br/>
 
 <!-- ████  QUICK-STATS FULL-WIDTH CAPSULE  ████ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=46&text=✅+3+Q1+Published+%7C+19%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences+%7C+30%2B+ML+Models+%7C+Q1+Peer+Reviewer+%7C+WoS+PII-8481-2026&fontSize=11&fontColor=90E0EF&fontAlign=50&fontAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=46&text=✅+4+Q1+Published+%7C+18%2B+Under+Review+%7C+33+Submissions+%7C+3+Preprints+%7C+5+Conferences+%7C+30%2B+ML+Models+%7C+Q1+Peer+Reviewer+%7C+WoS+PII-8481-2026&fontSize=11&fontColor=90E0EF&fontAlign=50&fontAlignY=58"/>
 
 <br/><br/>
 
@@ -101,7 +102,8 @@
 ![Stats](https://img.shields.io/badge/⑪_GitHub_Stats-7209b7?style=flat-square&labelColor=03045e)&nbsp;
 ![WIP](https://img.shields.io/badge/⑫_Work_in_Progress-48cae4?style=flat-square&labelColor=03045e)&nbsp;
 ![Collabs](https://img.shields.io/badge/⑬_Collaborations-FFD700?style=flat-square&labelColor=03045e)&nbsp;
-![Contact](https://img.shields.io/badge/⑭_Contact-56cfe1?style=flat-square&labelColor=03045e)
+![Teaching](https://img.shields.io/badge/⑭_Teaching_%26_Training-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![Contact](https://img.shields.io/badge/⑮_Contact-56cfe1?style=flat-square&labelColor=03045e)
 
 </div>
 
@@ -129,6 +131,7 @@ class MdSalekMiah:
     """
     Statistician · Epidemiologist · ML Researcher
     Explainable AI Specialist · Public Health Scientist
+    Instructor · GBD Collaborator
     Web of Science Verified Author: PII-8481-2026
     """
 
@@ -155,11 +158,13 @@ class MdSalekMiah:
 
     # ── Active Positions ────────────────────────────────────────────
     positions = [
-        "Research Intern  · ELITE Research Lab LLC    Jan 2026 – Now",
-        "Research Fellow  · CHINTA Research BD        2024 – Now",
-        "Research Asst.   · SUST Biostatistics Team   2025 – Now",
-        "Co-Investigator  · SUST RC Pesticides Proj.  2025 – 2026",
-        "Research Asst.   · TeamCSBD (teamcsbd.com)   Jan–Jul 2025",
+        "Statistical Analysis Instructor · BIIHR      Jul 2026 – Now",
+        "GBD Collaborator · IHME (Seattle, WA)         Jun 2026 – Now",
+        "Research Intern  · ELITE Research Lab LLC     Jan 2026 – Now",
+        "Research Fellow  · CHINTA Research BD          2024 – Now",
+        "Research Asst.   · SUST Biostatistics Team     2025 – Now",
+        "Co-Investigator  · SUST RC Pesticides Proj.    2025 – 2026",
+        "Research Asst.   · TeamCSBD (teamcsbd.com)     Jan–Jul 2025",
     ]
 
     # ── Supervisors (sust.edu verified) ─────────────────────────────
@@ -172,8 +177,8 @@ class MdSalekMiah:
     # ── Research Snapshot ───────────────────────────────────────────
     research = {
         "wos_id"       : "PII-8481-2026",
-        "q1_published" : 3,
-        "under_review" : "19+",
+        "q1_published" : 4,
+        "under_review" : "18+",
         "submitted"    : 33,
         "preprints"    : 3,
         "conferences"  : 5,
@@ -199,7 +204,7 @@ if __name__ == "__main__":
 
 > ### 💙 &nbsp;"Turning data into decisions that save lives."
 >
-> I am **Md Salek Miah** — a statistician and spatial epidemiologist at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health. I champion **transparent AI** and open science — with **3 Q1 papers published** across Springer Nature, Wiley, and Cambridge University Press, **19+ manuscripts under review**, and active collaboration with international research organisations across three continents. I also run **[Salek Research Hub](https://www.youtube.com/@SalekResearch)** on YouTube, a channel dedicated to research education for the Bangladeshi academic community.
+> I am **Md Salek Miah** — a statistician and spatial epidemiologist at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health. I champion **transparent AI** and open science — with **4 Q1 papers published** across Springer Nature, Wiley, Elsevier, and Cambridge University Press, **18+ manuscripts under review**, and active collaboration with international research organisations across three continents. Alongside research, I serve as a **Statistical Analysis Instructor at BIIHR** and a **GBD Collaborator with IHME**, and I run **[Salek Research Hub](https://www.youtube.com/@SalekResearch)** on YouTube — a channel dedicated to research education for the Bangladeshi academic community.
 
 <br/>
 
@@ -209,6 +214,7 @@ if __name__ == "__main__":
 | Spatial Health Mapping | Bangladesh → Africa | 30+ ML Models | Global Health Impact |
 | SHAP · LIME · LLMs | Open Science · CC BY | 89%+ Accuracy | Transparent AI Systems |
 | Q1 Peer Reviewer | Cambridge University Press | Global Mental Health | Rigorous Science |
+| Instructor · R & ML | GBD Collaborator (IHME) | 300+ Trainees Reached | Research Capacity Building |
 
 </div>
 
@@ -239,6 +245,7 @@ if __name__ == "__main__":
 - Multilevel & longitudinal modelling
 - Survival analysis · Cox & Poisson regression
 - Meta-analysis & systematic reviews
+- Global Burden of Disease (GBD) estimation
 
 ### 🤱 Maternal & Child Health
 - Skilled birth attendance determinants
@@ -252,8 +259,9 @@ if __name__ == "__main__":
 
 ### 💙 Mental Health & Women's Empowerment
 - Depression & anxiety (internet / IPV / pregnancy)
+- Women's decision-making autonomy & depressive symptoms
 - Women's empowerment indices & IPV dynamics
-- Rural–urban mental health inequalities
+- Rural–urban mental health inequalities (Lesotho, Bangladesh)
 - Cross-country comparative studies (10+ nations)
 - Spatial inequalities in IPV & mental health (Zambia)
 
@@ -270,6 +278,7 @@ if __name__ == "__main__":
 ### 🤖 Machine Learning & XAI
 - XGBoost · Random Forest · Neural Networks
 - SHAP · LIME · Counterfactual explanations
+- Policy simulation via g-computation
 - SMOTE for imbalanced clinical data
 - ML for complex DHS survey datasets
 
@@ -294,6 +303,7 @@ if __name__ == "__main__":
 ![](https://img.shields.io/badge/WASH_%26_ECE-48cae4?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Pesticide_Health-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/SHAP_LIME_XAI-56cfe1?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/GBD_Estimation-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Global_Health-90e0ef?style=flat-square&labelColor=03045e)
 
 </div>
@@ -351,13 +361,41 @@ if __name__ == "__main__":
 ## <img src="https://img.shields.io/badge/④-RESEARCH_EXPERIENCE-48cae4?style=for-the-badge&labelColor=03045e"/> &nbsp;Research Experience
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🟢+Active+Across+6+Research+Organisations+—+International+%26+National&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🟢+Active+Across+8+Research+%26+Academic+Organisations+—+International+%26+National&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                      ║
+║   🎓  BANGLADESH INSTITUTE OF INNOVATIVE HEALTH RESEARCH (BIIHR)   Jul 2026 – Now   ║
+║   Role  ➤  Statistical Analysis Instructor  ·  Part-time  ·  Remote (Dhaka) 🌐      ║
+║   Status ➤ 🟢 ACTIVE                                                                ║
+║       ┣━━  🎥  Delivered a 3-hour international demo training: "Applied            ║
+║       ┃       Statistical Analysis in Health Research Using Survey Data (DHS       ║
+║       ┃       Data): A Hands-On Training with R" — 300+ national & international   ║
+║       ┃       participants (students, researchers, public health professionals)    ║
+║       ┣━━  📚  Delivers lectures, workshops, webinars & hands-on training in       ║
+║       ┃       health research methodology, biostatistics & statistical analysis    ║
+║       ┣━━  📝  Develops instructional materials on quantitative methods, survey    ║
+║       ┃       data analysis, reproducible research workflows & R programming       ║
+║       ┗━━  🌍  Contributes to research capacity building & evidence-based          ║
+║               decision-making training                                              ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🌍  GBD COLLABORATOR NETWORK                                     Jun 2026 – Now   ║
+║   Institute for Health Metrics and Evaluation (IHME)                                ║
+║   Role  ➤  Global Burden of Disease (GBD) Collaborator · Part-time · Remote        ║
+║   Location ➤ Seattle, WA, USA (Remote)  ·  Status: 🟢 ACTIVE                       ║
+║       ┣━━  🌐  Member of the Global Burden of Disease Collaborator Network         ║
+║       ┣━━  🔬  Contributes to scientific review & global health research           ║
+║       ┃       collaboration on disease burden estimation initiatives                ║
+║       ┗━━  💙  Focus areas: maternal & child health, mental health, health         ║
+║               equity, and epidemiology                                              ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                      ║
 ║   🔬  ELITE RESEARCH LAB LLC                                 Jan 2026 – Present     ║
 ║   Motto: "Transparent, Reliable AI for Everyone"                                     ║
@@ -553,6 +591,8 @@ if __name__ == "__main__":
 ![Seaborn](https://img.shields.io/badge/Seaborn-f72585?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-7209b7?style=for-the-badge&logo=plotly&logoColor=white)&nbsp;
 ![ggplot2](https://img.shields.io/badge/ggplot2-48cae4?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
+![Shiny](https://img.shields.io/badge/R_Shiny-56cfe1?style=for-the-badge&logo=r&logoColor=white)&nbsp;
 ![Power BI](https://img.shields.io/badge/Power_BI-56cfe1?style=for-the-badge&logo=powerbi&logoColor=white)&nbsp;
 ![Tableau](https://img.shields.io/badge/Tableau-90e0ef?style=for-the-badge&logo=tableau&logoColor=black)
 
@@ -593,6 +633,7 @@ if __name__ == "__main__":
 ![](https://img.shields.io/badge/Time_Series_Analysis-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Bootstrapping-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/SHAP_LIME_XAI-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Counterfactual_g--computation-90e0ef?style=flat-square&labelColor=03045e)&nbsp;
 ![](https://img.shields.io/badge/Taylor_Diagram-90e0ef?style=flat-square&labelColor=03045e)
 
 </div>
@@ -609,7 +650,7 @@ if __name__ == "__main__":
 ## <img src="https://img.shields.io/badge/⑥-FEATURED_PROJECTS-f72585?style=for-the-badge&labelColor=03045e"/> &nbsp;Featured Research Projects
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🚀+ML+Pipelines+·+Public+Health+Research+·+Open+Science&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🚀+ML+Pipelines+·+Public+Health+Research+·+Open+Science+·+Live+Apps&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -621,6 +662,11 @@ if __name__ == "__main__":
 | [**Pregnancy Loss & Mental Health**](https://github.com/muhammadsalek/Pregnancy-Loss-Internet-Use-Mental-Health-DHS-2022) | Q1 Published · Internet use · depression & anxiety · BDHS 2022 | `R` `Survey` `ML` | ✅ Published |
 | **Household Water, Handwashing & ECE — Nepal** | Q1 Published · Wiley · WASH facilities & early childhood education | `R` `Survey` | ✅ Published |
 | **IPV, Anxiety & Depression — Zambia** | Q1 Published · Cambridge Prisms · spatial inequalities & SDGs | `R` `GIS` `Survey` | ✅ Published |
+| **Decision-Making Autonomy & Depression — Lesotho** | Q1 Published · JADR (Elsevier) · rural–urban differences | `R` `Survey` `ML` | ✅ Published |
+| [**PolicyShift — Counterfactual Policy Simulator**](https://salek.shinyapps.io/policyshift/) | g-computation simulation engine · Random Forest · subgroup heterogeneity (urban/rural, wealth quintile) · interactive Plotly dashboards | `R Shiny` `ML` `Plotly` | 🔴 Live |
+| [**Academic Design Studio (ADS)**](https://ads-app-salek.streamlit.app/) | Turns raw research content — hypotheses, chapter outlines, CVs — into typeset, submission-ready `.docx`/`.txt` documents | `Python` `Streamlit` | 🔴 Live |
+| [**Handwritten Digit Recognition**](https://mnist-digit-recognition-salek.streamlit.app/) | Real-time digit (0–9) recognition · ANN trained on MNIST · deployed as interactive app | `Python` `TensorFlow` `Streamlit` | 🔴 Live |
+| [**Statistics for Scientists (Book Project)**](https://github.com/muhammadsalek/statistics-for-scientists) | Open-source companion book & code repository on applied statistics for researchers | `R` `LaTeX` | ⚡ Active |
 | [**Diabetes ML Analysis**](https://github.com/muhammadsalek/Data-Analytics-Portfolio-Project-Analysis-of-Diabetes-Dataset) | End-to-end pipeline · XGBoost · SHAP explainability | `Python` `SHAP` | ⚡ Active |
 | [**MovieLens Recommender**](https://github.com/muhammadsalek/MovieLens-Recommendation-System) | Hybrid collaborative + content-based filtering | `Python` `R` | 🔴 Live |
 | [**Interactive Stat Calculator**](https://salek-protfolio.vercel.app/) | R Shiny live statistical analysis tool | `R Shiny` | 🔴 Live |
@@ -630,6 +676,34 @@ if __name__ == "__main__":
 | **Spatial Mental Health Mapping** | GIS + ML · Bangladesh & Nepal subnational analysis | `R` `ArcGIS` | 📝 Review |
 
 </div>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=26&text=🔮+Spotlight+—+PolicyShift+Simulation+Engine&fontSize=12&fontColor=48CAE4&fontAlign=50&fontAlignY=58"/>
+</div>
+
+<br/>
+
+**[PolicyShift](https://salek.shinyapps.io/policyshift/)** is a live R Shiny app combining causal inference and machine learning for evidence-based policy analysis:
+
+- 🔮 **Simulation Engine** — counterfactual policy simulation via g-computation, individual-level counterfactual explanations, subgroup heterogeneity analysis (urban/rural, wealth quintile)
+- 🤖 **Machine Learning** — Random Forest classifier with variable-importance ranking, survey-weighted training pipeline, automated train/test validation with ROC/AUC diagnostics
+- 📊 **Visualisation** — fully interactive Plotly graphics with zoom, hover & export
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=26&text=📝+Spotlight+—+Academic+Design+Studio+(ADS)&fontSize=12&fontColor=48CAE4&fontAlign=50&fontAlignY=58"/>
+</div>
+
+<br/>
+
+**[Academic Design Studio (ADS)](https://ads-app-salek.streamlit.app/)** is a single-page Streamlit app that turns raw research content — a hypothesis, a chapter outline, a CV's worth of publications — into typeset, submission-ready documents:
+
+```
+Fill a structured form  →  Preview instantly  →  Export as .txt / .docx
+```
+
+No template files to hunt for, no macro-riddled `.docx` inherited from a labmate three cohorts ago, no re-learning Word's paragraph styles at 2 A.M. before a submission deadline.
 
 <br/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
@@ -643,12 +717,12 @@ if __name__ == "__main__":
 ## <img src="https://img.shields.io/badge/⑦-PUBLICATIONS_%26_MANUSCRIPTS-7209b7?style=for-the-badge&labelColor=03045e"/> &nbsp;Publications &amp; Manuscripts
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=📖+3+Q1+Published+·+19%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026&fontSize=12&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=📖+4+Q1+Published+·+18%2B+Under+Review+·+3+Preprints+·+5+Conferences+·+WoS+PII-8481-2026&fontSize=12&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
 
-### <img src="https://img.shields.io/badge/✅_PUBLISHED-3_Q1_PAPERS-00b4d8?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/✅_PUBLISHED-4_Q1_PAPERS-00b4d8?style=for-the-badge&labelColor=03045e"/>
 
 <div align="center">
 
@@ -675,14 +749,23 @@ if __name__ == "__main__":
 >
 > [![DOI](https://img.shields.io/badge/DOI-10.1017%2Fgmh.2026.10261-00b4d8?style=for-the-badge&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1017/gmh.2026.10261)&nbsp;[![WoS](https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)&nbsp;![](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-56cfe1?style=flat-square&labelColor=03045e)
 
+<br/>
+
+> ### Decision-Making Autonomy and Depressive Symptoms among Women in Lesotho: Rural–Urban Differences
+> ***Journal of Affective Disorders Reports** · Elsevier · Published **2026***
+>
+> **Co-authors:** Md Salek Miah · Maria Bintey Kabir
+>
+> [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jadr.2026.101080-00b4d8?style=for-the-badge&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1016/j.jadr.2026.101080)&nbsp;[![WoS](https://img.shields.io/badge/Web_of_Science-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)&nbsp;![](https://img.shields.io/badge/Elsevier-JADR-f72585?style=flat-square&labelColor=03045e)
+
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/🔄_UNDER_REVIEW-19%2B_Manuscripts_·_Q1%2FQ2_Target_Journals-f72585?style=for-the-badge&labelColor=03045e"/>
+### <img src="https://img.shields.io/badge/🔄_UNDER_REVIEW-18%2B_Manuscripts_·_Q1%2FQ2_Target_Journals-f72585?style=for-the-badge&labelColor=03045e"/>
 
 <details>
-<summary><b>&nbsp;💙 Click to expand — all 19 manuscripts under peer review</b></summary>
+<summary><b>&nbsp;💙 Click to expand — all 18 manuscripts under peer review</b></summary>
 <br/>
 
 | # | Title | Journal | Publisher | Status |
@@ -700,12 +783,11 @@ if __name__ == "__main__":
 | 11 | Maternal Mental Health and Pregnancy Loss — Nepal | *Discover Mental Health* | Springer Nature Q1 | 🔄 Review |
 | 12 | ML Prediction of Antenatal Care Quality — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
 | 13 | Socioeconomic Risk Factors Health-Seeking — Senegal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
-| 14 | Rural-Urban Inequalities in Depression — Lesotho | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
-| 15 | Anxiety, Depression and Internet Use — Zambia | *Discover Mental Health* | Springer Nature Q1 | 🔄 Review |
-| 16 | Subnational Determinants of IPV — Bangladesh | *BMC Women's Health* | Springer Nature Q1 | 👁 Peer Review |
-| 17 | Spatial Variation of Skilled Birth Attendance — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
-| 18 | ML Comparison for Skilled Birth Assistance — Nepal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
-| 19 | ML Prediction of Water Quality Index — Buriganga River | *Agrosystems, Geosciences & Environment* | Wiley Q2 | 🔄 Review |
+| 14 | Anxiety, Depression and Internet Use — Zambia | *Discover Mental Health* | Springer Nature Q1 | 🔄 Review |
+| 15 | Subnational Determinants of IPV — Bangladesh | *BMC Women's Health* | Springer Nature Q1 | 👁 Peer Review |
+| 16 | Spatial Variation of Skilled Birth Attendance — Nepal | *BMC Pregnancy and Childbirth* | Springer Nature Q1 | 🔄 Review |
+| 17 | ML Comparison for Skilled Birth Assistance — Nepal | *BMC Women's Health* | Springer Nature Q1 | 🔄 Review |
+| 18 | ML Prediction of Water Quality Index — Buriganga River | *Agrosystems, Geosciences & Environment* | Wiley Q2 | 🔄 Review |
 
 </details>
 
@@ -766,9 +848,10 @@ if __name__ == "__main__":
 | **BFHS 2021** — Burkina Faso DHS | Burkina Faso 🇧🇫 | 2021 | Skilled birth attendance · ML | [DHS](https://dhsprogram.com) |
 | **ZDHS 2021–22** — Zambia DHS | Zambia 🇿🇲 | 2021–22 | IPV · mental health · depression · spatial inequality | [DHS](https://dhsprogram.com) |
 | **SDHS 2020** — Senegal DHS | Senegal 🇸🇳 | 2020 | Health-seeking · socioeconomic factors | [DHS](https://dhsprogram.com) |
-| **LDHS 2019** — Lesotho DHS | Lesotho 🇱🇸 | 2019 | Rural-urban depression inequalities | [DHS](https://dhsprogram.com) |
+| **LDHS 2019** — Lesotho DHS | Lesotho 🇱🇸 | 2019 | Decision-making autonomy & depressive symptoms (rural–urban) | [DHS](https://dhsprogram.com) |
 | **Buriganga River WQ Data** | Bangladesh 🇧🇩 | 2024 | Water quality index · spatial health | Field Survey |
 | **SUST RC Pesticides Data** | N-E Bangladesh 🇧🇩 | 2025 | Pesticide exposure · farmers' health | SUST RC Grant |
+| **GBD Estimates** | Global 🌍 | Ongoing | Disease burden estimation · GBD Collaborator Network | [IHME](https://www.healthdata.org/) |
 
 <br/>
 
@@ -804,8 +887,12 @@ if __name__ == "__main__":
 | 📄 | **Q1 Published** — BMC Women's Health · DOI: 10.1186/s12905-025-04166-4 | Springer Nature | Nov 2025 |
 | 📄 | **Q1 Published** — Health Science Reports · DOI: 10.1002/hsr2.72254 | Wiley | Apr 2026 |
 | 📄 | **Q1 Published** — Cambridge Prisms: Global Mental Health · DOI: 10.1017/gmh.2026.10261 | Cambridge University Press | Jun 2026 |
+| 📄 | **Q1 Published** — Journal of Affective Disorders Reports · DOI: 10.1016/j.jadr.2026.101080 | Elsevier | 2026 |
 | 🏛️ | **WoS Verified Author** — ID: PII-8481-2026 | Clarivate Web of Science | 2026 |
 | 📝 | **Q1 Peer Reviewer** — [Cambridge Prisms: Global Mental Health](https://www.webofscience.com/wos/author/record/PII-8481-2026) | Cambridge University Press | Mar 2026 |
+| 🌍 | **GBD Collaborator** — Global Burden of Disease Collaborator Network | Institute for Health Metrics and Evaluation | Jun 2026 |
+| 🎓 | **Statistical Analysis Instructor** — appointed for academic & research training programs | BIIHR | Jul 2026 |
+| 🎥 | **300+ Trainees** — international demo training, "Applied Statistical Analysis in Health Research Using Survey Data (DHS): A Hands-On Training with R" | BIIHR | Jul 2026 |
 | 🎥 | **Founder** — Salek Research Hub, YouTube research-education channel | Self-Founded | 2025 |
 | 🎓 | **Merit Scholarship** | Aftab Uddin–Khudeja Banu Welfare Trust, UK | 2016 |
 | 🎓 | **Merit Scholarship** | Khandoker Trust International | 2013 |
@@ -925,6 +1012,15 @@ if __name__ == "__main__":
 <sub>🎥 Research education</sub><br/>
 <sub>🇧🇩 Bangladeshi academic community</sub>
 </td>
+<td align="center" width="190">
+<a href="https://www.linkedin.com/in/md-salek-miah-b34309329">
+<img src="https://img.shields.io/badge/LinkedIn-0077b6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=03045e"/>
+</a><br/><br/>
+<b>LinkedIn</b><br/>
+<sub>md-salek-miah</sub><br/>
+<sub>🎓 Instructor · BIIHR</sub><br/>
+<sub>🌍 GBD Collaborator · IHME</sub>
+</td>
 </tr>
 </table>
 </div>
@@ -1043,7 +1139,7 @@ jobs:
 ## <img src="https://img.shields.io/badge/⑫-WORK_IN_PROGRESS-48cae4?style=for-the-badge&labelColor=03045e"/> &nbsp;Current Research &amp; Active Pipeline
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🟢+Active+Research+Pipeline+—+2026&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🟢+Active+Research+%26+Teaching+Pipeline+—+2026&fontSize=13&fontColor=56CFE1&fontAlign=50&fontAlignY=62"/>
 </div>
 
 <br/>
@@ -1053,9 +1149,22 @@ jobs:
 ║                                                                                      ║
 ║   🟢  ACTIVE JOURNAL SUBMISSIONS                                                     ║
 ║   ─────────────────────────────────────────────────────────────────────────────    ║
-║       ┣━━  19+ manuscripts under Q1/Q2 peer review                                  ║
+║       ┣━━  18+ manuscripts under Q1/Q2 peer review                                  ║
 ║       ┣━━  3 preprints live on Research Square (CC BY 4.0 open access)              ║
 ║       ┗━━  5 conference proceedings presented in 2025 (2 international)             ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🎓  BIIHR — INSTRUCTOR ROLE RAMPING UP                                             ║
+║       ┣━━  Ongoing lecture, workshop & webinar series in health research            ║
+║       ┃       methodology, biostatistics & statistical analysis                     ║
+║       ┗━━  Developing instructional materials for reproducible R workflows          ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   🌍  GBD COLLABORATOR NETWORK — ONBOARDING                                          ║
+║       ┗━━  Scientific review contributions to disease burden estimation             ║
+║               initiatives with IHME                                                  ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                      ║
@@ -1075,6 +1184,11 @@ jobs:
 ║   🗺️   SPATIAL ML PIPELINE — Under Development                                       ║
 ║       ┣━━  Subnational health inequality mapping · Bangladesh + Nepal                ║
 ║       ┗━━  Bayesian spatial models · ArcGIS integration · DHS data                  ║
+║                                                                                      ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   📚  STATISTICS FOR SCIENTISTS — Book & Code Repository                             ║
+║       ┗━━  Active development · github.com/muhammadsalek/statistics-for-scientists  ║
 ║                                                                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════════════╣
 ║                                                                                      ║
@@ -1115,6 +1229,8 @@ jobs:
 
 | 🏛️ Organisation | 🎯 Role | 📅 Period |
 |:---|:---:|:---:|
+| **🎓 Bangladesh Institute of Innovative Health Research (BIIHR)** | Statistical Analysis Instructor | Jul 2026 – Present |
+| **🌍 GBD Collaborator Network (IHME)** | Collaborator | Jun 2026 – Present |
 | **🔬 ELITE Research Lab LLC** | Research Intern | Jan 2026 – Present |
 | **💙 CHINTA Research Bangladesh** | Research Fellow | 2024 – Present |
 | **📊 TeamCSBD · Cognitive Solution Bangladesh** | Research Assistant | Jan–Jul 2025 |
@@ -1139,10 +1255,11 @@ jobs:
 | I am looking for | Topics |
 |:---|:---|
 | 🎓 **PhD Supervisors** | Epidemiology · Biostatistics · ML for Health · XAI · Global Health |
-| 🤝 **Research Collaborators** | DHS data analysis · Spatial epidemiology · LLM research · XAI |
+| 🤝 **Research Collaborators** | DHS data analysis · Spatial epidemiology · LLM research · XAI · GBD estimation |
 | ✍️ **Co-authors** | Public health · Mental health · Maternal/child health · WASH/ECE · ML manuscripts |
 | 💻 **Open-source Contributors** | R packages · Python health ML · XAI frameworks · health dashboards |
 | 📋 **Journal Reviewers / Editors** | Springer · BMJ · Elsevier · PLOS · Nature Portfolio · Wiley · Cambridge |
+| 🎓 **Training Partners** | Organisations seeking R/statistics/ML workshops for health researchers |
 
 </div>
 
@@ -1150,12 +1267,93 @@ jobs:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
 
 <!-- ══════════════════════════════════════════════════════════════
-  ⑭  CONTACT INFORMATION
+  ⑭  TEACHING & TRAINING
 ══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-## <img src="https://img.shields.io/badge/⑭-CONTACT_INFORMATION-56cfe1?style=for-the-badge&labelColor=03045e"/> &nbsp;Contact Information
+## <img src="https://img.shields.io/badge/⑭-TEACHING_%26_TRAINING-f72585?style=for-the-badge&labelColor=03045e"/> &nbsp;Teaching &amp; Training
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:03045e,100:03045e&height=30&text=🎓+Instructor+·+Course+Founder+·+Research+Capacity+Building&fontSize=13&fontColor=90E0EF&fontAlign=50&fontAlignY=62"/>
+</div>
+
+<br/>
+
+> ### Applied Data Science & Machine Learning with R for Research Data Analysis
+> ***Center For Bio-Health Research — Bangladesh***
+>
+> *From Raw Data to Publication-Ready Evidence — Master R, Statistics & Machine Learning!*
+
+A comprehensive, hands-on, research-oriented professional course designed for researchers, public health professionals, students, and aspiring data scientists.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**📘 What You'll Learn**
+- R Programming (Beginner → Advanced)
+- Data import (Excel, CSV, SPSS & STATA)
+- Data cleaning & preprocessing
+- Data visualisation with ggplot2
+- Descriptive & inferential statistics
+- t-test, ANOVA & post-hoc analysis
+- Chi-square & Fisher's Exact Test
+- Linear & logistic regression
+- Machine Learning (Random Forest & XGBoost)
+- Explainable AI (SHAP)
+- Automated reporting with R Markdown
+- GitHub portfolio development
+- End-to-end public health data science project
+
+</td>
+<td width="50%" valign="top">
+
+**✨ Course Highlights**
+- 15+ live interactive classes
+- Live online sessions with recordings included
+- Professional certificate on completion
+- Schedule: Friday & Saturday, 9:00 PM – 11:30 PM
+
+**👥 Who Should Join?**
+Researchers · Public Health Professionals · Medical & Graduate Students · PhD Applicants · Data Analysts · Biostatisticians · NGO Professionals · Academicians · Health Researchers
+
+**🎯 Why Join?**
+Build a strong research & data science portfolio, learn internationally accepted research data analysis techniques, and produce publication-ready tables, figures & reports.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![](https://img.shields.io/badge/R_Programming-276DC3?style=flat-square&logo=r&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/ggplot2-48cae4?style=flat-square&logo=r&logoColor=white)&nbsp;
+![](https://img.shields.io/badge/Random_Forest_XGBoost-7209b7?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/SHAP_Explainable_AI-f72585?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/R_Markdown-00b4d8?style=flat-square&labelColor=03045e)&nbsp;
+![](https://img.shields.io/badge/Professional_Certificate-FFD700?style=flat-square&labelColor=03045e)
+
+</div>
+
+<br/>
+
+**Related instructor engagements:**
+
+- 🎥 **BIIHR Demo Training** — "Applied Statistical Analysis in Health Research Using Survey Data (DHS Data): A Hands-On Training with R" · 3-hour international session · 300+ participants
+- 🎓 **SUST Research Science Club Workshops** — R programming & ggplot2 visualisation · 150+ participants trained
+- 🎥 **Salek Research Hub (YouTube)** — ongoing research-education content for the Bangladeshi academic community
+
+<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:f72585,16:b5179e,33:7209b7,50:3a0ca3,67:0077b6,84:00b4d8,100:f72585&height=3"/>
+
+<!-- ══════════════════════════════════════════════════════════════
+  ⑮  CONTACT INFORMATION
+══════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+## <img src="https://img.shields.io/badge/⑮-CONTACT_INFORMATION-56cfe1?style=for-the-badge&labelColor=03045e"/> &nbsp;Contact Information
 
 <div align="center">
 
@@ -1192,6 +1390,10 @@ jobs:
 | 🔬 **ResearchGate** | [Md-Miah-142](https://www.researchgate.net/profile/Md-Miah-142) |
 | 🤗 **HuggingFace** | [salekml](https://huggingface.co/salekml) |
 | 💻 **GitHub** | [muhammadsalek](https://github.com/muhammadsalek) |
+| 📚 **Book Repo** | [statistics-for-scientists](https://github.com/muhammadsalek/statistics-for-scientists) |
+| 🔮 **PolicyShift App** | [salek.shinyapps.io/policyshift](https://salek.shinyapps.io/policyshift/) |
+| 📝 **ADS App** | [ads-app-salek.streamlit.app](https://ads-app-salek.streamlit.app/) |
+| 🔢 **Digit Recognition App** | [mnist-digit-recognition-salek.streamlit.app](https://mnist-digit-recognition-salek.streamlit.app/) |
 | 🌐 **TeamCSBD** | [www.teamcsbd.com](https://www.teamcsbd.com/) |
 | 🎥 **YouTube** | [Salek Research Hub — @SalekResearch](https://www.youtube.com/@SalekResearch) |
 | 📧 **Personal Email** | saleksta@gmail.com |
@@ -1217,11 +1419,11 @@ jobs:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Md_Salek_Miah-PhD_Ready_2026_·_WoS_PII--8481--2026_·_3_Q1_Published-00b4d8?style=for-the-badge&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/Md_Salek_Miah-PhD_Ready_2026_·_WoS_PII--8481--2026_·_4_Q1_Published-00b4d8?style=for-the-badge&labelColor=03045e"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Statistician_·_Epidemiologist_·_ML_Researcher_·_XAI_·_Public_Health_Scientist-f72585?style=for-the-badge&labelColor=03045e"/>
+<img src="https://img.shields.io/badge/Statistician_·_Epidemiologist_·_ML_Researcher_·_XAI_·_Instructor_·_GBD_Collaborator-f72585?style=for-the-badge&labelColor=03045e"/>
 
 </div>
 
