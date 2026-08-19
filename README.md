@@ -189,18 +189,11 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=X71aL7wAAAAJ&citpid=2" width="100" style="border-radius:50%;"/>
-<br/><br/>
-<b><a href="https://www.sust.edu/departments/sta/faculty/rahman-sta@sust.edu">Prof. Dr. Md. Sadequr Rahman</a></b><br/>
-<sub>Statistics, SUST</sub><br/>
-<sub>📊 Statistical Modeling</sub>
-</td>
-<td align="center" width="200">
 <img src="https://cu.ac.bd/public/images/teacher/2024-11-11-21-55-17-6b9e9ef4b33e3caa2c6b8561ce803aa2.webp" width="100" style="border-radius:50%;"/>
 <br/><br/>
 <b><a href="https://cu.ac.bd/public_profile/index.php?ein=4341">Prof. Mohammad Shahab Uddin</a></b><br/>
 <sub>Management, University of Chittagong</sub><br/>
-<sub>📊 Co-Author · Cambridge Prisms</sub>
+<sub>📊 Co-Author · Cambridge Prisms: Global Mental Health</sub>
 </td>
 </tr>
 </table>
