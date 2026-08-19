@@ -121,7 +121,7 @@
 
 <img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-I am **Md Salek Miah** — a statistician, epidemiologist, and **R, STATA, and SPSS instructor** at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health, directly contributing to **SDG 3 (Good Health & Well-being)**, **SDG 5 (Gender Equality)**, and **SDG 10 (Reduced Inequalities)**. I champion **transparent AI** and open science, with research published across Springer Nature, Wiley, Elsevier, and Cambridge University Press. I serve as a **Statistical Analysis Instructor at BIIHR** and a **GBD Collaborator with IHME**, and I run **[Salek Research Hub](https://www.youtube.com/@SalekResearch)** on YouTube — a channel dedicated to research education for the Bangladeshi academic community.
+I am **Md Salek Miah** — a statistician, epidemiologist, and **R, STATA, and SPSS instructor** at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health, directly contributing to **SDG 3 (Good Health & Well-being)**, **SDG 5 (Gender Equality)**, and **SDG 10 (Reduced Inequalities)**. I champion **transparent AI** and open science, with research published across Springer Nature, Wiley, Elsevier, PLOS ONE, and Cambridge University Press. I serve as a **Statistical Analysis Instructor at BIIHR** and a **GBD Collaborator with IHME**, and I run **[Salek Research Hub](https://www.youtube.com/@SalekResearch)** on YouTube — a channel dedicated to research education for the Bangladeshi academic community.
 
 **📍 Location:** Sylhet, Bangladesh 🇧🇩  
 **📧 Email:** [saleksta@gmail.com](mailto:saleksta@gmail.com)  
@@ -340,19 +340,30 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 
 ### ✅ Published — Q1 Papers
 
-**1. Associations of Internet Use and Pregnancy Loss with Depression and Anxiety among Women in Bangladesh: Evidence from the 2022 BDHS**  
+**1. Stratified and Geographic Patterns of Depression and Anxiety in Mozambican Women: Mental Health Policy Implications**  
+*PLOS ONE* · Published August 2026 · Volume 21(8)  
+[![DOI](https://img.shields.io/badge/DOI-10.1371%2Fjournal.pone.0356265-00b4d8?style=flat-square&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1371/journal.pone.0356265) [![License](https://img.shields.io/badge/License-CC_BY_4.0-56cfe1?style=flat-square&labelColor=03045e)](https://creativecommons.org/licenses/by/4.0/)  
+📁 [Reproducible Code](https://github.com/muhammadsalek/mozambique-mental-health-analysis)
+
+**2. Association Between Internet Use and Unmet Need for Family Planning Among Currently Pregnant Women in Bangladesh: Evidence from BDHS 2022**  
+*BMC Women's Health* · Springer Nature · Published August 2026  
+**Authors:** Md Salek Miah, Md Jamal Uddin  
+[![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12905--026--04788--2-00b4d8?style=flat-square&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1186/s12905-026-04788-2) [![WoS](https://img.shields.io/badge/WoS-PII--8481--2026-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)  
+📁 [Reproducible Code](https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis)
+
+**3. Associations of Internet Use and Pregnancy Loss with Depression and Anxiety among Women in Bangladesh: Evidence from the 2022 BDHS**  
 *BMC Women's Health* · Springer Nature · Published 29 November 2025  
 [![DOI](https://img.shields.io/badge/DOI-10.1186%2Fs12905--025--04166--4-00b4d8?style=flat-square&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1186/s12905-025-04166-4) [![WoS](https://img.shields.io/badge/WoS-PII--8481--2026-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)
 
-**2. Household Water and Handwashing Facilities and Early Childhood Education Participation in Nepal**  
+**4. Household Water and Handwashing Facilities and Early Childhood Education Participation in Nepal**  
 *Health Science Reports* · Wiley · First published 02 April 2026  
 [![DOI](https://img.shields.io/badge/DOI-10.1002%2Fhsr2.72254-00b4d8?style=flat-square&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1002/hsr2.72254) [![WoS](https://img.shields.io/badge/WoS-PII--8481--2026-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)
 
-**3. Intimate Partner Violence and the Dual Burden of Anxiety and Depression Among Women in Zambia**  
+**5. Intimate Partner Violence and the Dual Burden of Anxiety and Depression Among Women in Zambia**  
 *Cambridge Prisms: Global Mental Health* · Cambridge University Press · Published June 2026  
 [![DOI](https://img.shields.io/badge/DOI-10.1017%2Fgmh.2026.10261-00b4d8?style=flat-square&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1017/gmh.2026.10261) [![WoS](https://img.shields.io/badge/WoS-PII--8481--2026-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)
 
-**4. Decision-Making Autonomy and Depressive Symptoms among Women in Lesotho: Rural–Urban Differences**  
+**6. Decision-Making Autonomy and Depressive Symptoms among Women in Lesotho: Rural–Urban Differences**  
 *Journal of Affective Disorders Reports* · Elsevier · Published 2026  
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jadr.2026.101080-00b4d8?style=flat-square&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1016/j.jadr.2026.101080) [![WoS](https://img.shields.io/badge/WoS-PII--8481--2026-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)
 
@@ -390,13 +401,14 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 
 | Dataset | Country | Year | Research Use |
 |:---|:---|:---:|:---|
-| BDHS 2022 | Bangladesh 🇧🇩 | 2022 | Mental health · Pregnancy loss · IPV · MCH |
+| BDHS 2022 | Bangladesh 🇧🇩 | 2022 | Mental health · Pregnancy loss · IPV · MCH · Family Planning |
 | NDHS 2022 | Nepal 🇳🇵 | 2022 | Skilled birth · ANC · WASH · ECE · spatial analysis |
 | NDHS 2021 | Nigeria 🇳🇬 | 2021 | Skilled birth attendance · ML |
 | BFHS 2021 | Burkina Faso 🇧🇫 | 2021 | Skilled birth attendance · ML |
 | ZDHS 2021–22 | Zambia 🇿🇲 | 2021–22 | IPV · mental health · depression · spatial inequality |
 | SDHS 2020 | Senegal 🇸🇳 | 2020 | Health-seeking · socioeconomic factors |
 | LDHS 2019 | Lesotho 🇱🇸 | 2019 | Decision-making autonomy & depressive symptoms |
+| MDHS 2015 | Mozambique 🇲🇿 | 2015 | Mental health · depression · anxiety · spatial patterns |
 | Buriganga River WQ Data | Bangladesh 🇧🇩 | 2024 | Water quality index · spatial health |
 | SUST RC Pesticides Data | N-E Bangladesh 🇧🇩 | 2025 | Pesticide exposure · farmers' health |
 | GBD Estimates | Global 🌍 | Ongoing | Disease burden estimation |
@@ -418,6 +430,8 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 | 🏆 Winner — DNA Day Essay Writing Contest | ISCB RSG Bangladesh | 2025 |
 | 🎯 Top 10 Finalist — National Data Hackathon | Comilla University | 2025 |
 | 🥈 Runner-up — Scientific Poster Competition | 6th Bangladesh Economics Summit | 2025 |
+| 📄 Q1 Published — PLOS ONE | PLOS | Aug 2026 |
+| 📄 Q1 Published — BMC Women's Health | Springer Nature | Aug 2026 |
 | 📄 Q1 Published — BMC Women's Health | Springer Nature | Nov 2025 |
 | 📄 Q1 Published — Health Science Reports | Wiley | Apr 2026 |
 | 📄 Q1 Published — Cambridge Prisms | Cambridge University Press | Jun 2026 |
