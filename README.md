@@ -31,7 +31,7 @@
 <!-- ████  ANIMATED — RESEARCH STATS BAR  ████ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📊+R+%7C+STATA+%7C+SPSS+Instructor+—+300%2B+Trained;🌍+SDG+3+%7C+SDG+5+%7C+SDG+10+—+Health+Equity+Researcher;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;🌍+GBD+Collaborator+%40+IHME+%7C+Instructor+%40+BIIHR+%7C+Course+Founder;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch;📝+Q1+Peer+Reviewer+—+Cambridge+Prisms%3A+Global+Mental+Health+%7C+Cambridge+University+Press;🎥+YouTube%3A+Salek+Research+Hub+—+Research+Education+for+Bangladesh)](https://github.com/muhammadsalek)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=14&duration=2000&pause=700&color=F72585&center=true&vCenter=true&multiline=false&width=1020&height=40&lines=🏛️+Web+of+Science+Verified+Author+—+ID%3A+PII-8481-2026;📊+R+%7C+STATA+%7C+SPSS+Instructor+—+300%2B+Trained;🌍+SDG+3+%7C+SDG+5+%7C+SDG+10+—+Health+Equity+Researcher;🏢+Research+Intern+%40+ELITE+Research+Lab+LLC+—+Transparent%2C+Reliable+AI;🌍+GBD+Collaborator+%40+IHME+%7C+Instructor+%40+BIIHR+%7C+Course+Founder;📊+DHS+Expert+%7C+Spatial+Epi+%7C+SUST+Bangladesh+%7C+10%2B+Countries;🧠+SHAP+%7C+LIME+%7C+XAI+%7C+LLMs+%7C+TensorFlow+%7C+XGBoost+%7C+PyTorch;📝+Q1+Peer+Reviewer+—+Cambridge+Prisms%3A+Global+Mental+Health+%7C+Cambridge+University+Press;🎥+YouTube%3A+Salek+Data+Lab+—+Research+Education+for+Bangladesh)](https://github.com/muhammadsalek)
 
 </div>
 
@@ -54,7 +54,7 @@
 <a href="https://www.researchgate.net/profile/Md-Miah-142"><img src="https://img.shields.io/badge/ResearchGate-Follow-7209b7?style=for-the-badge&logo=researchgate&logoColor=white&labelColor=03045e"/></a>&nbsp;
 <a href="https://huggingface.co/salekml"><img src="https://img.shields.io/badge/HuggingFace-Models-b5179e?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=03045e"/></a>&nbsp;
 <a href="https://github.com/muhammadsalek"><img src="https://img.shields.io/badge/GitHub-Follow-56cfe1?style=for-the-badge&logo=github&logoColor=white&labelColor=03045e"/></a>&nbsp;
-<a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/YouTube-Salek_Research_Hub-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=03045e"/></a>&nbsp;
+<a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/YouTube-Salek_Data_Lab-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=03045e"/></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=61592785365591"><img src="https://img.shields.io/badge/Facebook-Research_Diary-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=03045e"/></a>&nbsp;
 <a href="mailto:saleksta@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-f72585?style=for-the-badge&logo=gmail&logoColor=white&labelColor=03045e"/></a>
 
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/🌍_GBD-IHME_Collaborator-2C7AC3?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <img src="https://img.shields.io/badge/🏛️_WoS-PII--8481--2026-FFD700?style=for-the-badge&labelColor=03045e"/>&nbsp;
 <a href="https://www.webofscience.com/wos/author/record/PII-8481-2026"><img src="https://img.shields.io/badge/📝_Peer_Reviewer-Cambridge_University_Press-48cae4?style=for-the-badge&labelColor=03045e"/></a>&nbsp;
-<a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/🎥_YouTube-Salek_Research_Hub-FF0000?style=for-the-badge&labelColor=03045e"/></a>
+<a href="https://www.youtube.com/@SalekResearch"><img src="https://img.shields.io/badge/🎥_YouTube-Salek_Data_Lab-FF0000?style=for-the-badge&labelColor=03045e"/></a>
 
 </div>
 
@@ -121,13 +121,14 @@
 
 <img align="right" width="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-I am **Md Salek Miah** — a statistician, epidemiologist, and **R, STATA, and SPSS instructor** at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health, directly contributing to **SDG 3 (Good Health & Well-being)**, **SDG 5 (Gender Equality)**, and **SDG 10 (Reduced Inequalities)**. I champion **transparent AI** and open science, with research published across Springer Nature, Wiley, Elsevier, PLOS ONE, and Cambridge University Press. I serve as a **Statistical Analysis Instructor at BIIHR** and a **GBD Collaborator with IHME**, and I run **[Salek Research Hub](https://www.youtube.com/@SalekResearch)** on YouTube — a channel dedicated to research education for the Bangladeshi academic community.
+I am **Md Salek Miah** — a statistician, epidemiologist, and **R, STATA, and SPSS instructor** at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health, directly contributing to **SDG 3 (Good Health & Well-being)**, **SDG 5 (Gender Equality)**, and **SDG 10 (Reduced Inequalities)**. I champion **transparent AI** and open science, with research published across Springer Nature, Wiley, Elsevier, PLOS ONE, and Cambridge University Press. I serve as a **Statistical Analysis Instructor at BIIHR** and a **GBD Collaborator with IHME**, and I run **[Salek Data Lab](https://www.youtube.com/@SalekResearch)** on YouTube — a channel dedicated to research education for the Bangladeshi academic community.
 
 **📍 Location:** Sylhet, Bangladesh 🇧🇩  
 **📧 Email:** [saleksta@gmail.com](mailto:saleksta@gmail.com)  
 **🎓 Academic Email:** [2021134066@student.sust.edu](mailto:2021134066@student.sust.edu)  
 **📱 WhatsApp:** +880 1687 831074  
-**🏛️ WoS ID:** [PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026) ✅ Verified
+**🏛️ WoS ID:** [PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026) ✅ Verified  
+**🌐 Portfolio:** [saleksta.netlify.app](https://saleksta.netlify.app/)
 
 ---
 
@@ -440,7 +441,7 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 | 📝 Q1 Peer Reviewer | Cambridge University Press | Mar 2026 |
 | 🌍 GBD Collaborator | Institute for Health Metrics and Evaluation | Jun 2026 |
 | 🎓 Statistical Analysis Instructor | BIIHR | Jul 2026 |
-| 🎥 Founder — Salek Research Hub | Self-Founded | 2025 |
+| 🎥 Founder — Salek Data Lab | Self-Founded | 2025 |
 | 🎓 Merit Scholarship | Aftab Uddin–Khudeja Banu Welfare Trust, UK | 2016 |
 | 🎓 Merit Scholarship | Khandoker Trust International | 2013 |
 
@@ -478,7 +479,7 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 | **Hugging Face** | [salekml](https://huggingface.co/salekml) |
 | **Portfolio** | [saleksta.netlify.app](https://saleksta.netlify.app/) |
 | **GitHub** | [@muhammadsalek](https://github.com/muhammadsalek) |
-| **YouTube** | [@SalekResearch](https://www.youtube.com/@SalekResearch) |
+| **YouTube** | [@SalekResearch](https://www.youtube.com/@SalekResearch) — Salek Data Lab |
 | **LinkedIn** | [md-salek-miah-b34309329](https://www.linkedin.com/in/md-salek-miah-b34309329) |
 | **Facebook** | [Research Diary](https://www.facebook.com/profile.php?id=61592785365591) |
 | **TeamCSBD** | [www.teamcsbd.com](https://www.teamcsbd.com/) |
@@ -548,7 +549,7 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 - **ELITE Research Lab LLC** — Advanced LLM research · AI-assisted systematic review pipelines · XAI development — SHAP · LIME · counterfactual reasoning
 - **Spatial ML Pipeline** — Subnational health inequality mapping · Bangladesh + Nepal · Bayesian spatial models · ArcGIS integration · DHS data
 - **Statistics for Scientists** — Active development · [github.com/muhammadsalek/statistics-for-scientists](https://github.com/muhammadsalek/statistics-for-scientists)
-- **Salek Research Hub (YouTube)** — Ongoing research-education content for Bangladeshi students
+- **Salek Data Lab (YouTube)** — Ongoing research-education content for Bangladeshi students
 - **Actively Seeking** — Fully Funded PhD Opportunities 2026 · Epidemiology · Biostatistics · ML for Health · Explainable AI · Spatial Health Inequalities · Global Public Health · LLMs — Open to positions worldwide 🌐
 
 ---
@@ -577,7 +578,7 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 | DataKothon Research Lab | Research Collaborator | 2025 |
 | SUST Data Science Club | Member | 2023 |
 | Daffodil International University Research Society | Member | 2024 |
-| Salek Research Hub | Founder & Host | 2025 – Present |
+| Salek Data Lab | Founder & Host | 2025 – Present |
 
 ---
 
@@ -621,7 +622,7 @@ A comprehensive, hands-on, research-oriented professional course designed for re
 - 🎓 **SUST Research Science Club Workshops** — R programming & ggplot2 visualisation · 150+ participants trained
 - 📊 **DHS Data Analysis with STATA** — Complete course: raw data → complex survey design → weighted analysis → publication-ready output
 - 📊 **SPSS for Research** — Practical SPSS syntax files · lecture slides · video recordings
-- 🎥 **Salek Research Hub (YouTube)** — ongoing research-education content for the Bangladeshi academic community
+- 🎥 **Salek Data Lab (YouTube)** — ongoing research-education content for the Bangladeshi academic community
 
 ---
 
@@ -650,7 +651,7 @@ A comprehensive, hands-on, research-oriented professional course designed for re
 | 🔢 **Digit Recognition App** | [mnist-digit-recognition-salek.streamlit.app](https://mnist-digit-recognition-salek.streamlit.app/) |
 | 🩺 **Acoustic Biomarker** | [acoustic-biomarker-gh-salek05.streamlit.app](https://acoustic-biomarker-gh-salek05.streamlit.app/) |
 | 🌐 **TeamCSBD** | [www.teamcsbd.com](https://www.teamcsbd.com/) |
-| 🎥 **YouTube** | [@SalekResearch](https://www.youtube.com/@SalekResearch) |
+| 🎥 **YouTube** | [@SalekResearch](https://www.youtube.com/@SalekResearch) — Salek Data Lab |
 | 📘 **Facebook** | [Research Diary](https://www.facebook.com/profile.php?id=61592785365591) |
 | 📧 **Email** | [saleksta@gmail.com](mailto:saleksta@gmail.com) |
 | 🎓 **Academic Email** | [2021134066@student.sust.edu](mailto:2021134066@student.sust.edu) |
