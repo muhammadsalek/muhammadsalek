@@ -134,7 +134,8 @@ I am **Md Salek Miah** — a statistician, epidemiologist, and **R, STATA, and S
 
 ### 🎓 Education
 
-**B.Sc. (Honours) in Statistics** — 2021 – Present  
+**B.Sc. (Honours) in Statistics** — 2023 – Present (BSC Final Year)
+*Planning to pursue PhD studies in Fall 2027
 *Shahjalal University of Science & Technology (SUST) · Sylhet, Bangladesh*  
 Student ID: 2021134066 · Expected Graduation: April 2027
 
