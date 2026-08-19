@@ -153,26 +153,26 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 <div align="center">
 <table>
 <tr>
-<td align="center" width="160">
-<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=tMZWkOUAAAAJ&citpid=7" width="90" style="border-radius:50%;"/>
+<td align="center" width="150">
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=tMZWkOUAAAAJ&citpid=7" width="80" style="border-radius:50%;"/>
 <br/><br/>
 <b><a href="https://www.sust.edu/departments/sta/faculty/jamal-sta@sust.edu">Prof. Dr. Md. Jamal Uddin</a></b><br/>
 <sub>Statistics, SUST</sub>
 </td>
-<td align="center" width="160">
-<img src="https://www.sust.edu/public/uploads/faculty/672cc8b488460.jpg" width="90" style="border-radius:50%;"/>
+<td align="center" width="150">
+<img src="https://www.sust.edu/public/uploads/faculty/672cc8b488460.jpg" width="80" style="border-radius:50%;"/>
 <br/><br/>
 <b><a href="https://www.sust.edu/departments/sta/faculty/ohid-sta@sust.edu">Prof. Mohammad Ohid Ullah</a></b><br/>
 <sub>Statistics, SUST</sub>
 </td>
-<td align="center" width="160">
-<img src="https://www.sust.edu/public/uploads/faculty/672cc8b36f8ca.jpg" width="90" style="border-radius:50%;"/>
+<td align="center" width="150">
+<img src="https://www.sust.edu/public/uploads/faculty/672cc8b36f8ca.jpg" width="80" style="border-radius:50%;"/>
 <br/><br/>
 <b><a href="https://www.sust.edu/departments/sta/faculty/mzh-sta@sust.edu">Prof. Dr. Md. Zakir Hossain</a></b><br/>
 <sub>Statistics, SUST</sub>
 </td>
-<td align="center" width="160">
-<img src="https://www.sust.edu/public/uploads/faculty/672cc8b38a880.jpg" width="90" style="border-radius:50%;"/>
+<td align="center" width="150">
+<img src="https://www.sust.edu/public/uploads/faculty/672cc8b38a880.jpg" width="80" style="border-radius:50%;"/>
 <br/><br/>
 <b><a href="https://www.sust.edu/departments/sta/faculty/sabina-sta@sust.edu">Prof. Dr. Sabina Yasmin</a></b><br/>
 <sub>Statistics, SUST</sub>
@@ -185,21 +185,21 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 <table>
 <tr>
 <td align="center" width="200">
-<img src="https://cu.ac.bd/public/images/teacher/2024-11-11-21-55-17-6b9e9ef4b33e3caa2c6b8561ce803aa2.webp" width="90" style="border-radius:50%;"/>
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=X71aL7wAAAAJ&citpid=2" width="80" style="border-radius:50%;"/>
 <br/><br/>
-<b><a href="https://cu.ac.bd/public_profile/index.php?ein=4341">Prof. Mohammad Shahab Uddin</a></b><br/>
+<b><a href="https://scholar.google.com/citations?user=X71aL7wAAAAJ&hl=en">Prof. Mohammad Shahab Uddin</a></b><br/>
 <sub>Management, University of Chittagong</sub><br/>
 <sub>📊 Co-Author · Cambridge Prisms</sub>
 </td>
 <td align="center" width="200">
-<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=JdOKIJEAAAAJ&citpid=1" width="90" style="border-radius:50%;"/>
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=JdOKIJEAAAAJ&citpid=1" width="80" style="border-radius:50%;"/>
 <br/><br/>
 <b><a href="https://scholar.google.com/citations?user=JdOKIJEAAAAJ&hl=en">Md Nadim Kaysar</a></b><br/>
 <sub>Ph.D. Student, Nagoya Institute of Technology, Japan</sub><br/>
 <sub>🤝 ELITE Research Lab · Systematic Review Co-Author</sub>
 </td>
 <td align="center" width="200">
-<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=pjn3jg4AAAAJ&citpid=5" width="90" style="border-radius:50%;"/>
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=pjn3jg4AAAAJ&citpid=5" width="80" style="border-radius:50%;"/>
 <br/><br/>
 <b><a href="https://scholar.google.com/citations?user=pjn3jg4AAAAJ&hl=en">Md Kishor Morol</a></b><br/>
 <sub>AI Safety Researcher · Meta (FAIR)</sub><br/>
