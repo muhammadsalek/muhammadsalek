@@ -128,12 +128,12 @@ I am **Md Salek Miah** — a statistician, epidemiologist, and **R, STATA, and S
 **🎓 Academic Email:** [2021134066@student.sust.edu](mailto:2021134066@student.sust.edu)  
 **📱 WhatsApp:** +880 1687 831074  
 **🏛️ WoS ID:** [PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026) ✅ Verified  
-**🌐 Portfolio:** [saleksta.netlify.app](https://saleksta.netlify.app/)
+**🌐 Portfolio:** [saleksta.netlify.app](https://saleksta.netlify.app/)  
+**📘 Facebook:** [Research Diary](https://www.facebook.com/profile.php?id=61592785365591)
 
 ---
 
 ### 🎓 Education
-
 
 **B.Sc. (Honours) in Statistics** — 2023 – Present  
 *BSc Final Year · Planning to pursue PhD studies in Fall 2027*  
@@ -156,37 +156,51 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 <td align="center" width="200">
 <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=tMZWkOUAAAAJ&citpid=7" width="100" style="border-radius:50%;"/>
 <br/><br/>
-<b>Prof. Dr. Md. Jamal Uddin</b><br/>
+<b><a href="https://www.sust.edu/departments/sta/faculty/jamal-sta@sust.edu">Prof. Dr. Md. Jamal Uddin</a></b><br/>
 <sub>Statistics, SUST</sub><br/>
 <sub>🔬 Biostatistics &amp; Epidemiology</sub>
 </td>
 <td align="center" width="200">
 <img src="https://www.sust.edu/public/uploads/faculty/672cc8b488460.jpg" width="100" style="border-radius:50%;"/>
 <br/><br/>
-<b>Prof. Mohammad Ohid Ullah</b><br/>
+<b><a href="https://www.sust.edu/departments/sta/faculty/ohid-sta@sust.edu">Prof. Mohammad Ohid Ullah</a></b><br/>
 <sub>Statistics, SUST</sub><br/>
 <sub>🌱 PI — SUST RC Pesticides Project</sub>
 </td>
 <td align="center" width="200">
 <img src="https://www.sust.edu/public/uploads/faculty/672cc8b36f8ca.jpg" width="100" style="border-radius:50%;"/>
 <br/><br/>
-<b>Prof. Dr. Md. Zakir Hossain</b><br/>
+<b><a href="https://www.sust.edu/departments/sta/faculty/mzh-sta@sust.edu">Prof. Dr. Md. Zakir Hossain</a></b><br/>
 <sub>Statistics, SUST</sub><br/>
 <sub>📊 Maternal &amp; Child Health</sub>
 </td>
 <td align="center" width="200">
 <img src="https://www.sust.edu/public/uploads/faculty/672cc8b38a880.jpg" width="100" style="border-radius:50%;"/>
 <br/><br/>
-<b>Prof. Dr. Sabina Yasmin</b><br/>
+<b><a href="https://www.sust.edu/departments/sta/faculty/sabina-sta@sust.edu">Prof. Dr. Sabina Yasmin</a></b><br/>
 <sub>Statistics, SUST</sub><br/>
 <sub>📊 Public Health Research</sub>
 </td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
 <td align="center" width="200">
 <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=X71aL7wAAAAJ&citpid=2" width="100" style="border-radius:50%;"/>
 <br/><br/>
-<b>Prof. Dr. Md. Sadequr Rahman</b><br/>
+<b><a href="https://www.sust.edu/departments/sta/faculty/rahman-sta@sust.edu">Prof. Dr. Md. Sadequr Rahman</a></b><br/>
 <sub>Statistics, SUST</sub><br/>
 <sub>📊 Statistical Modeling</sub>
+</td>
+<td align="center" width="200">
+<img src="https://cu.ac.bd/public/images/teacher/2024-11-11-21-55-17-6b9e9ef4b33e3caa2c6b8561ce803aa2.webp" width="100" style="border-radius:50%;"/>
+<br/><br/>
+<b><a href="https://cu.ac.bd/public_profile/index.php?ein=4341">Prof. Mohammad Shahab Uddin</a></b><br/>
+<sub>Management, University of Chittagong</sub><br/>
+<sub>📊 Co-Author · Cambridge Prisms</sub>
 </td>
 </tr>
 </table>
@@ -364,6 +378,7 @@ Student ID: 2021134066 · Expected Graduation: April 2027
 
 **5. Intimate Partner Violence and the Dual Burden of Anxiety and Depression Among Women in Zambia**  
 *Cambridge Prisms: Global Mental Health* · Cambridge University Press · Published June 2026  
+**Authors:** Md Salek Miah, Mohammad Shahab Uddin  
 [![DOI](https://img.shields.io/badge/DOI-10.1017%2Fgmh.2026.10261-00b4d8?style=flat-square&logo=doi&logoColor=white&labelColor=03045e)](https://doi.org/10.1017/gmh.2026.10261) [![WoS](https://img.shields.io/badge/WoS-PII--8481--2026-FFD700?style=flat-square&labelColor=03045e)](https://www.webofscience.com/wos/author/record/PII-8481-2026)
 
 **6. Decision-Making Autonomy and Depressive Symptoms among Women in Lesotho: Rural–Urban Differences**  
