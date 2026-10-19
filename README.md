@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba1588e3-01db-4cac-b915-16e2f86368ad" />
+
  ╔══════════════════════════════════════════════════════════════════════════════╗
      ║   Md Salek Miah  ·  github.com/muhammadsalek  ·  2026                      ║
      ║   Statistician · Epidemiologist · ML Researcher · XAI · Public Health      ║
