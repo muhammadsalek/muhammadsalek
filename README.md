@@ -1,4 +1,4 @@
-<!-- ╔══════════════════════════════════════════════════════════════════════════════╗
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8f0a5dff-cf62-4b59-95f8-9883840ce7a6" /><!-- ╔══════════════════════════════════════════════════════════════════════════════╗
      ║   Md Salek Miah  ·  github.com/muhammadsalek  ·  2026                      ║
      ║   Statistician · Epidemiologist · ML Researcher · XAI · Public Health      ║
      ║   R · STATA · SPSS Instructor  ·  SDGs Researcher                          ║
@@ -123,13 +123,13 @@
 
 I am **Md Salek Miah** — a statistician, epidemiologist, and **R, STATA, and SPSS instructor** at **SUST Bangladesh**, specialising in **machine learning, explainable AI (XAI), and global public health**. My research leverages large-scale DHS surveys from **10+ countries** to uncover determinants of maternal, mental, and child health, directly contributing to **SDG 3 (Good Health & Well-being)**, **SDG 5 (Gender Equality)**, and **SDG 10 (Reduced Inequalities)**. I champion **transparent AI** and open science, with research published across Springer Nature, Wiley, Elsevier, PLOS ONE, and Cambridge University Press. I serve as a **Statistical Analysis Instructor at BIIHR** and a **GBD Collaborator with IHME**, and I run **[Salek Data Lab](https://www.youtube.com/@SalekResearch)** on YouTube — a channel dedicated to research education for the Bangladeshi academic community.
 
-** Location:** Sylhet, Bangladesh 🇧🇩  
-** Email:** [saleksta@gmail.com](mailto:saleksta@gmail.com)  
-** Academic Email:** [2021134066@student.sust.edu](mailto:2021134066@student.sust.edu)  
-** WhatsApp:** +880 1687 831074  
-** WoS ID:** [PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026) ✅ Verified  
-** Portfolio:** [saleksta.netlify.app](https://saleksta.netlify.app/)  
-** Facebook:** [Research Diary](https://www.facebook.com/profile.php?id=61592785365591)
+**Location**: Sylhet, Bangladesh 🇧🇩  
+ **Email**: [saleksta@gmail.com](mailto:saleksta@gmail.com)  
+ **Academic Email**: [2021134066@student.sust.edu](mailto:2021134066@student.sust.edu)  
+ **WhatsApp**: +880 1687 831074  
+** WoS ID**: [PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026)  Verified  
+ **Portfolio**: [saleksta.netlify.app](https://saleksta.netlify.app/)  
+** Facebook**: [Research Diary](https://www.facebook.com/profile.php?id=61592785365591)
 
 ---
 
