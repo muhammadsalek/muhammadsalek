@@ -153,7 +153,7 @@ I am **Md Salek Miah**, an **early-career researcher** in statistics, biostatist
 
 ## Education and Recognition
 
-**B.Sc. (Honours) in Statistics**, Shahjalal University of Science and Technology (SUST), Bangladesh · **Expected April 2027** · CGPA: **3.20/4.00** (through Semester 3/2).  
+**B.Sc. (Honours) in Statistics**, Shahjalal University of Science and Technology (SUST), Bangladesh · **Expected April 2027** · 
 **Selected foundations:** Linear Algebra · Real Analysis · Probability and Statistical Inference · Regression · Sampling · Design of Experiments · Statistical Computing.  
 **Advanced coursework in progress:** Multivariate Analysis · Biostatistics and Epidemiology · GLMs.
 
