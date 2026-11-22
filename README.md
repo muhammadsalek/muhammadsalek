@@ -6,23 +6,21 @@ should be kept in sync with the most recent academic CV and official records.
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&section=header&color=0:071B2F,40:124A69,75:0F766E,100:2DD4BF&text=Md%20Salek%20Miah&fontColor=FFFFFF&fontSize=55&fontAlignY=34&desc=Statistical%20Research%20%7C%20Population%20Health%20%7C%20Explainable%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Md Salek Miah academic portfolio banner" />
-
-<img src="https://github.com/muhammadsalek.png?size=280" width="124" alt="Md Salek Miah profile photo" />
+<a href="https://salek-prot.vercel.app/"><img src="./assets/academic_banner.png" width="100%" alt="Md Salek Miah — Statistics, Biostatistics and Epidemiology research portfolio" /></a>
 
 ### Statistics Researcher · Biostatistics & Epidemiology · Open-Science Educator
 
-[![Animated research focus](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=1350&duration=2900&color=0F9488&center=true&vCenter=true&width=900&height=40&lines=Complex+Survey+Analysis+%7C+Population+Health+Equity;Maternal+and+Reproductive+Health+%7C+Mental+Health;Spatial+Epidemiology+%7C+Subnational+Inequalities;Machine+Learning+%7C+Explainability+%7C+Reproducibility;Statistical+Education+%7C+R+%7C+Stata+%7C+SPSS)](https://salek-prot.vercel.app/)
+<a href="https://salek-prot.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=16&weight=500&pause=1200&color=0F9488&center=true&vCenter=true&width=900&height=36&lines=Complex+Survey+Methods+%7C+Epidemiological+Inference;Maternal+%26+Mental+Health+%7C+Health+Equity;Statistical+Computing+%7C+Reproducible+Research;Explainable+Machine+Learning+%7C+Spatial+Epidemiology;Research+Education+%7C+R+%7C+Stata+%7C+SPSS" alt="Animated research focus" /></a>
 
-[![Portfolio](https://img.shields.io/badge/Research_Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://salek-prot.vercel.app/)
-[![Scholar](https://img.shields.io/badge/Google_Scholar-Publications-234B81?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oV99NYoAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5973--461X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5973-461X)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salek-miah)
-[![YouTube](https://img.shields.io/badge/Salek_Data_Lab-Learn-BB2435?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SalekResearch)
+[![Portfolio](https://img.shields.io/badge/Research_Portfolio-Explore-0F766E?style=flat-square&logo=vercel&logoColor=white)](https://salek-prot.vercel.app/)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Publications-234B81?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oV99NYoAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5973--461X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5973-461X)
+[![YouTube](https://img.shields.io/badge/Salek_Data_Lab-YouTube-C4302B?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@SalekResearch)
+[![Email](https://img.shields.io/badge/Academic_Contact-Email-475569?style=flat-square&logo=gmail&logoColor=white)](mailto:saleksta@gmail.com)
 
-**B.Sc. (Honours) in Statistics | SUST, Bangladesh | Expected April 2027**  
-**Research Assistant (SUST) | Research Intern (ELITE) | GBD Collaborator (IHME) | Course Instructor (CHBR / BIIHR)**  
-**Research interests:** Biostatistics · Epidemiology · Population Health Sciences · Health Data Science
+**B.Sc. (Honours) in Statistics · SUST, Bangladesh · Expected April 2027**  
+**Research Assistant · Research Instructor (CHBR / BIIHR) · GBD Collaborator (IHME)**  
+**PhD interests: Biostatistics · Epidemiology · Population Health Sciences**
 
 </div>
 
@@ -31,6 +29,14 @@ should be kept in sync with the most recent academic CV and official records.
 ## Explore This Portfolio
 
 [About](#about-me) · [Publications](#selected-peer-reviewed-publications) · [Flagship Projects](#four-flagship-research-projects) · [Research Experience](#research-experience) · [Supervisors](#research-supervisors-and-academic-mentorship) · [Teaching & YouTube](#teaching-and-research-capacity-building) · [Leadership](#research-leadership-and-grant-development) · [Peer Review](#academic-service-and-peer-review) · [Skills](#methods-and-technical-toolkit) · [Academic Activities](#conferences-awards-and-professional-development) · [GitHub Activity](#github-activity) · [Contact](#contact-and-phd-research-interests)
+
+<div align="center">
+<table><tr>
+<td align="center" width="33%"><a href="#selected-peer-reviewed-publications"><b>PEER-REVIEWED RESEARCH</b></a><br/><sub>Two sole-author highlights</sub></td>
+<td align="center" width="33%"><a href="#four-flagship-research-projects"><b>CODE &amp; APPLICATIONS</b></a><br/><sub>Published studies + research prototypes</sub></td>
+<td align="center" width="33%"><a href="#teaching-and-research-capacity-building"><b>EDUCATION &amp; OUTREACH</b></a><br/><sub>Video playlists + instructor roles</sub></td>
+</tr></table>
+</div>
 
 ## About Me
 
@@ -159,50 +165,20 @@ Selected publications from my supplied Fall 2027 academic CV. **The full and mos
 
 ## Four Flagship Research Projects
 
-These four projects were selected to demonstrate **published statistical research, reproducible analysis, computational development and communication of scientific limitations**. They are prioritized over a lengthy list of unrelated demos.
-
+<div align="center">
 <table>
-<tr><td width="50%" valign="top">
-
-### 01 · Lesotho: Rural–Urban Mental-Health Inequalities
-**Published research · Stata · Complex survey analysis · Spatial epidemiology**
-
-Population-based study of decision-making autonomy and depressive symptoms among women in Lesotho, emphasizing rural–urban heterogeneity, regression analysis and geographic patterns.
-
-**[Research code](https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho)** · **[Published paper](https://doi.org/10.1016/j.jadr.2026.101080)**
-
-</td><td width="50%" valign="top">
-
-### 02 · Bangladesh: Digital Access and Reproductive Healthcare
-**Published research · Stata · DHS 2022 · Survey-weighted regression**
-
-Investigation of associations between internet use and unmet family-planning need among pregnant women using Bangladesh demographic and health survey data.
-
-**[Research code](https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis)** · **[Published paper](https://doi.org/10.1186/s12905-026-04788-2)**
-
-</td></tr>
-<tr><td width="50%" valign="top">
-
-### 03 · PolicyShift: Public Health Scenario Explorer
-**Interactive research prototype · R Shiny · Subgroup comparisons**
-
-Applied research interface for exploring model-based scenarios and subgroup variation. Results are **illustrative and should not be interpreted as validated causal effects**.
-
-**[Open application](https://salek.shinyapps.io/policyshift/)**
-
-</td><td width="50%" valign="top">
-
-### 04 · AcousticBiomarker-GH: Respiratory Audio AI
-**Exploratory research prototype · Python · Machine learning**
-
-Experimental AI interface for respiratory-audio classification and visualizing model predictions. **Not clinically validated; not suitable for diagnosis or medical decisions.**
-
-**[Open application](https://acoustic-biomarker-gh-salek05.streamlit.app/)**
-
-</td></tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho"><img src="./assets/project_lesotho.svg" width="100%" alt="Lesotho research visual card"/></a><br/><b>Lesotho — Mental-Health Inequalities</b><br/><sub>Published epidemiological study · Survey-weighted models · Spatial heterogeneity</sub><br/><a href="https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho">Code</a> · <a href="https://doi.org/10.1016/j.jadr.2026.101080">Paper</a></td>
+<td width="50%" valign="top"><a href="https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis"><img src="./assets/project_bdhs.svg" width="100%" alt="Bangladesh DHS research visual card"/></a><br/><b>Bangladesh — Reproductive Healthcare</b><br/><sub>Published DHS 2022 study · Digital connectivity · Survey-weighted regression</sub><br/><a href="https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis">Code</a> · <a href="https://doi.org/10.1186/s12905-026-04788-2">Paper</a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://salek.shinyapps.io/policyshift/"><img src="./assets/project_policyshift.svg" width="100%" alt="PolicyShift interactive scenario explorer"/></a><br/><b>PolicyShift — Public Health Scenario Explorer</b><br/><sub>R Shiny · Subgroup comparison · Exploratory modeling (not causal estimates)</sub><br/><a href="https://salek.shinyapps.io/policyshift/">Live application</a></td>
+<td width="50%" valign="top"><a href="https://acoustic-biomarker-gh-salek05.streamlit.app/"><img src="./assets/project_acoustic.svg" width="100%" alt="AcousticBiomarker-GH research prototype"/></a><br/><b>AcousticBiomarker-GH — Audio AI</b><br/><sub>Python · Respiratory audio classification · Experimental, not clinically validated</sub><br/><a href="https://acoustic-biomarker-gh-salek05.streamlit.app/">Live application</a></td>
+</tr>
 </table>
+</div>
 
-**Additional reproducible research:** [Mozambique mental-health code](https://github.com/muhammadsalek/mozambique-mental-health-analysis) · [Statistics for Scientists](https://github.com/muhammadsalek/statistics-for-scientists) · [DHS Data Analysis with Stata](https://github.com/muhammadsalek/DHS-Data-Analysis-with-STATA).
+**Other research code:** [Mozambique mental health](https://github.com/muhammadsalek/mozambique-mental-health-analysis) · [Statistics for Scientists](https://github.com/muhammadsalek/statistics-for-scientists) · [DHS Data Analysis with Stata](https://github.com/muhammadsalek/DHS-Data-Analysis-with-STATA)
 
 ---
 
@@ -386,15 +362,28 @@ For formal faculty affiliations, project documentation, and additional collabora
 - **Founder & instructor — [Salek Data Lab](https://www.youtube.com/@SalekResearch):** Bengali-language research education, applied statistical software and manuscript-development tutorials.
 - **Teaching recognition:** Best Promising Instructor Award (2026), as reported in my academic CV.
 
-### Salek Data Lab — Featured YouTube Playlists
+### Salek Data Lab — Research Tutorials and Video Playlists
 
-| Learning series | Focus | Access |
-|:--|:--|:--|
-| **Python for Data Science** | Foundational Python programming and analytical thinking for research-oriented learners | **[Watch playlist](https://www.youtube.com/playlist?list=PLJRqglItBi_Q)** |
-| **100 Days of Research** | Research design, academic writing, methods, analysis and reproducible research habits | **[Watch playlist](https://www.youtube.com/playlist?list=PLnB0x-ro9UK3zxAOCQmO3EDwCd3dke6f7)** |
-| **Salek Data Lab — Channel** | Applied R, Stata, SPSS and statistical education | **[View channel](https://www.youtube.com/@SalekResearch)** |
+<div align="center">
+<a href="https://www.youtube.com/@SalekResearch/playlists"><img src="https://img.shields.io/badge/Salek_Data_Lab-Video_Library-BB2435?style=for-the-badge&logo=youtube&logoColor=white" alt="Salek Data Lab YouTube channel"/></a>
 
-*The playlists are educational resources, not claims of completion or accreditation.*
+<table>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://www.youtube.com/playlist?list=PLJRqglItBi_Q"><img width="100%" src="./assets/playlist_python.png" alt="Python for Data Science playlist thumbnail"/></a><br/><b>Python for Data Science</b><br/><sub>Python, pandas, visualization and practical statistics</sub><br/><a href="https://www.youtube.com/playlist?list=PLJRqglItBi_Q">Watch playlist</a></td>
+<td width="50%" align="center" valign="top"><a href="https://www.youtube.com/playlist?list=PLnB0x-ro9UK3zxAOCQmO3EDwCd3dke6f7"><img width="100%" src="./assets/playlist_research.png" alt="100 Days of Research playlist thumbnail"/></a><br/><b>100 Days of Research</b><br/><sub>Statistical methods, research writing and evidence synthesis</sub><br/><a href="https://www.youtube.com/playlist?list=PLnB0x-ro9UK3zxAOCQmO3EDwCd3dke6f7">Watch playlist</a></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://www.youtube.com/@SalekResearch/playlists"><img width="100%" src="./assets/playlist_stata.png" alt="Stata for public health research video series thumbnail"/></a><br/><b>Stata for Public Health Research</b><br/><sub>Regression, survey analysis and public-health workflows</sub><br/><a href="https://www.youtube.com/@SalekResearch/playlists">Browse channel playlists</a></td>
+<td width="50%" align="center" valign="top"><a href="https://www.youtube.com/@SalekResearch/playlists"><img width="100%" src="./assets/playlist_r_dhs.png" alt="R for public health research video series thumbnail"/></a><br/><b>DHS Data Analysis with R</b><br/><sub>R programming, publication graphics and health surveys</sub><br/><a href="https://www.youtube.com/@SalekResearch/playlists">Browse channel playlists</a></td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top"><a href="https://www.youtube.com/@SalekResearch/playlists"><img width="100%" src="./assets/playlist_spss.png" alt="SPSS data analysis video series thumbnail"/></a><br/><b>SPSS Data Analysis Masterclass</b><br/><sub>Correlation, regression and applied research statistics</sub><br/><a href="https://www.youtube.com/@SalekResearch/playlists">Browse channel playlists</a></td>
+<td width="50%" align="center" valign="middle"><b>Open research education</b><br/><sub>Accessible Bangla tutorials for students and early-career researchers, with practical demonstrations in R, Python, Stata and SPSS.</sub><br/><br/><a href="https://www.youtube.com/@SalekResearch">Visit Salek Data Lab</a></td>
+</tr>
+</table>
+</div>
+
+*Preview images are from the channel screenshot supplied by the author. Two playlist URLs are directly provided; the remaining cards link to the channel's playlist index until their direct URLs are added.*
 
 ### Open Teaching Repositories
 
