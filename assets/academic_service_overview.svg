@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="380" viewBox="0 0 1250 380">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="9" y="8" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="9" y="8" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="34" y="68" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">Research</text>
+<text x="34" y="107" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">R / Stata / SPSS</text>
+<text x="34" y="142" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Complex survey inference</text>
+<rect x="425" y="8" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="425" y="8" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="450" y="68" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">Training</text>
+<text x="450" y="107" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">CHBR · BIIHR</text>
+<text x="450" y="142" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Research education</text>
+<rect x="841" y="8" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="841" y="8" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="866" y="68" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">Leadership</text>
+<text x="866" y="107" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">YOUReach — PI</text>
+<text x="866" y="142" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Shortlisted proposal</text>
+<rect x="9" y="188" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="9" y="188" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="34" y="248" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">Collaborator</text>
+<text x="34" y="287" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">IHME — GBD</text>
+<text x="34" y="322" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Global health research</text>
+<rect x="425" y="188" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="425" y="188" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="450" y="248" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">Mentoring</text>
+<text x="450" y="287" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">Salek Data Lab</text>
+<text x="450" y="322" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Open-source learning</text>
+<rect x="841" y="188" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="841" y="188" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="866" y="248" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">Review</text>
+<text x="866" y="287" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">Journal service</text>
+<text x="866" y="322" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">50+ contributions (reported)</text>
+</svg>

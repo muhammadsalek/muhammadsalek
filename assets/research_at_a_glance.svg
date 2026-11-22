@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="380" viewBox="0 0 1250 380">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<rect x="9" y="8" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="9" y="8" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="34" y="68" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">800</text>
+<text x="34" y="107" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">Maternal-health survey</text>
+<text x="34" y="142" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">40 Union Parishads</text>
+<rect x="425" y="8" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="425" y="8" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="450" y="68" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">399</text>
+<text x="450" y="107" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">Occupational-health study</text>
+<text x="450" y="142" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Farmers surveyed</text>
+<rect x="841" y="8" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="841" y="8" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="866" y="68" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">1,200</text>
+<text x="866" y="107" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">Geriatric research</text>
+<text x="866" y="142" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Quality-of-life survey</text>
+<rect x="9" y="188" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="9" y="188" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="34" y="248" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">461</text>
+<text x="34" y="287" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">Ageing / social allowance</text>
+<text x="34" y="322" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Population-health study</text>
+<rect x="425" y="188" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="425" y="188" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="450" y="248" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">2</text>
+<text x="450" y="287" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">Sole-author papers</text>
+<text x="450" y="322" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Scientific Reports · PLOS ONE</text>
+<rect x="841" y="188" width="398" height="168" rx="18" fill="#f1f7f8" stroke="#d0e5e6"/>
+<rect x="841" y="188" width="7" height="168" rx="3" fill="#0b9889"/>
+<text x="866" y="248" font-family="Arial,Helvetica,sans-serif" font-weight="bold" font-size="36" fill="#102c44">2027</text>
+<text x="866" y="287" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="20" fill="#1e596c">PhD research interests</text>
+<text x="866" y="322" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#597281">Biostatistics · Epidemiology</text>
+</svg>
