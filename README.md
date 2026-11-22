@@ -1,156 +1,432 @@
-<!-- GitHub profile README: place this file at muhammadsalek/muhammadsalek/README.md -->
+<!--
+PROFILE README | github.com/muhammadsalek/muhammadsalek
+Research-first visual portfolio. All publication, project, role and training claims
+should be kept in sync with the most recent academic CV and official records.
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=175&color=0:0B2239,50:145E75,100:0D9488&text=Md%20Salek%20Miah&fontAlignY=38&fontSize=44&fontColor=FFFFFF&desc=Statistics%20%7C%20Biostatistics%20%7C%20Population%20Health%20Research&descAlignY=61&descSize=16&animation=fadeIn" width="100%" alt="Md Salek Miah profile header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=235&section=header&color=0:071B2F,40:124A69,75:0F766E,100:2DD4BF&text=Md%20Salek%20Miah&fontColor=FFFFFF&fontSize=55&fontAlignY=34&desc=Statistical%20Research%20%7C%20Population%20Health%20%7C%20Explainable%20AI&descSize=17&descAlignY=58&animation=fadeIn" alt="Md Salek Miah academic portfolio banner" />
 
-<img src="https://github.com/muhammadsalek.png?size=260" alt="Md Salek Miah" width="112" />
+<img src="https://github.com/muhammadsalek.png?size=280" width="124" alt="Md Salek Miah profile photo" />
 
-### Quantitative Population Health Researcher · Research Assistant · Statistical Computing Instructor
+### Statistics Researcher · Biostatistics & Epidemiology · Open-Science Educator
 
-[![Typing introduction](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=17&duration=3200&pause=1400&color=0D9488&center=true&vCenter=true&width=850&lines=Survey-weighted+epidemiology+%7C+Biostatistics;Maternal+health+%7C+Mental+health+inequalities;Explainable+machine+learning+%7C+Spatial+analysis;Reproducible+research+%7C+Statistical+education)](https://salek-prot.vercel.app/)
+[![Animated research focus](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=16&pause=1350&duration=2900&color=0F9488&center=true&vCenter=true&width=900&height=40&lines=Complex+Survey+Analysis+%7C+Population+Health+Equity;Maternal+and+Reproductive+Health+%7C+Mental+Health;Spatial+Epidemiology+%7C+Subnational+Inequalities;Machine+Learning+%7C+Explainability+%7C+Reproducibility;Statistical+Education+%7C+R+%7C+Stata+%7C+SPSS)](https://salek-prot.vercel.app/)
 
-[**Research Portfolio**](https://salek-prot.vercel.app/) · [**Google Scholar**](https://scholar.google.com/citations?user=oV99NYoAAAAJ) · [**ORCID**](https://orcid.org/0009-0005-5973-461X) · [**LinkedIn**](https://www.linkedin.com/in/md-salek-miah) · [**Salek Data Lab**](https://www.youtube.com/@SalekResearch) · [**Email**](mailto:saleksta@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Research_Portfolio-Visit-0F766E?style=for-the-badge&logo=vercel&logoColor=white)](https://salek-prot.vercel.app/)
+[![Scholar](https://img.shields.io/badge/Google_Scholar-Publications-234B81?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=oV99NYoAAAAJ)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--5973--461X-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-5973-461X)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-salek-miah)
+[![YouTube](https://img.shields.io/badge/Salek_Data_Lab-Learn-BB2435?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SalekResearch)
+
+**B.Sc. (Honours) in Statistics | SUST, Bangladesh | Expected April 2027**  
+**GBD Study Collaborator — IHME | Research Assistant | Statistical Computing Instructor**  
+**Research interests:** Biostatistics · Epidemiology · Population Health Sciences · Health Data Science
 
 </div>
 
 ---
 
-## About
+## Explore This Portfolio
 
-I am **Md Salek Miah**, a final-year **B.Sc. (Honours) student in Statistics** at **Shahjalal University of Science and Technology (SUST), Bangladesh**, with expected graduation in **April 2027**. My work combines **survey-based epidemiology, biostatistical modelling, spatial analysis, and interpretable machine learning** to study maternal and reproductive health, mental-health disparities, and health equity.
+[About](#about-me) · [Research agenda](#research-agenda) · [Education](#education) · [Publications](#selected-peer-reviewed-publications) · [Research experience](#research-experience) · [Leadership](#research-leadership-and-grant-development) · [Code & apps](#research-code-and-software) · [Methods](#methods-and-technical-toolkit) · [Teaching](#teaching-and-research-capacity-building) · [Peer review](#academic-service-and-peer-review) · [Conferences](#conferences-awards-and-professional-development) · [Collaborations](#collaborations-and-professional-affiliations) · [Activity](#github-activity) · [Contact](#contact-and-phd-research-interests)
 
-I develop statistical analyses and reproducible research workflows using **R, Python, Stata and SPSS**. Alongside research, I teach quantitative methods through workshops and **[Salek Data Lab](https://www.youtube.com/@SalekResearch)**, making statistical tools more accessible to early-career researchers.
+## About Me
 
-- **Research direction:** reliable statistical evidence for population health and equitable healthcare.
-- **Current research:** DHS-based studies, prospective clinical research planning, health inequality mapping and methodological evidence synthesis.
-- **Research community:** GBD Collaborator Network, Institute for Health Metrics and Evaluation (IHME); independent and collaborative research across public-health settings.
-- **Next step:** seeking **Fall 2027 PhD opportunities** in Biostatistics, Epidemiology and Population Health Sciences.
+I am **Md Salek Miah**, a final-year Statistics undergraduate at **Shahjalal University of Science and Technology (SUST), Sylhet, Bangladesh**. My research combines **biostatistics, epidemiological study design, complex survey methods, spatial analysis and explainable machine learning** to investigate population-health inequalities—particularly in maternal and reproductive health, mental health, and underserved communities.
 
-> I am especially interested in the interface between statistical methodology and real-world population-health evidence: complex survey design, model assumptions, spatial variation, and interpretable prediction.
+My work spans secondary analysis of nationally representative household surveys, primary field-based data collection, clinical cohort research planning, statistical programming, and evidence synthesis. I am interested not just in whether a model identifies an association, but also in **sampling assumptions, measurement quality, missing information, effect heterogeneity, statistical uncertainty, reproducibility, and how findings should be interpreted for public-health decisions**.
 
-## Research Interests
+Alongside research, I design and deliver training in **R, Stata, SPSS and applied statistics**, including open educational resources through **[Salek Data Lab](https://www.youtube.com/@SalekResearch)**.
 
-| Area | Specific interests |
-| --- | --- |
-| **Biostatistics and epidemiology** | Complex surveys, regression/GLMs, statistical inference, longitudinal and survival analysis |
-| **Maternal and reproductive health** | Healthcare access, skilled birth attendance, reproductive disparities and empowerment |
-| **Mental health and health equity** | Depression, anxiety, social determinants and rural–urban inequalities |
-| **Spatial population health** | Geographic disparities, GIS-based health mapping and subgroup heterogeneity |
-| **Explainable machine learning** | Predictive modelling, SHAP/LIME, model validation and interpretable healthcare evidence |
-| **Evidence synthesis** | Systematic reviews, PRISMA workflows and methodological appraisal |
+> **Research perspective:** Develop transparent, defensible statistical evidence that improves how population-health inequalities are measured, interpreted and addressed.
+
+**Current academic direction:** Fall 2027 doctoral study in **Biostatistics, Epidemiology, Population Health Sciences**, or a closely aligned quantitative health-science program.
+
+### At a glance
+
+| Research and service | Evidence from my academic record |
+|:--|:--|
+| **Peer-reviewed scholarship** | Multiple first-authored papers, including sole-author research in *Scientific Reports* and *PLOS ONE*; selected publications below |
+| **Population-health datasets** | National demographic and health surveys, primary community surveys, and prospective clinical-study planning |
+| **Field research** | Maternal-health fieldwork involving **800 women / 40 Union Parishads**; occupational-health survey involving **399 farmers** |
+| **Clinical and ageing research** | Post-stroke longitudinal cohort collaboration; **1,200-participant** geriatric quality-of-life survey |
+| **Academic service** | Peer review, statistical workshops, student mentoring and community health research |
+| **Research leadership** | PI / team lead on a youth maternal-health research proposal; shortlisted proposal status, not a funding award |
+
+## Research Agenda
+
+<details open>
+<summary><strong>1. Biostatistics, survey inference and epidemiological methods</strong></summary>
+
+- Complex survey design: weights, stratification, clusters, design-based estimation and regression.
+- Generalized linear models, regression diagnostics, robust inference and missing-data considerations.
+- Interpretable subgroup comparisons and geographical heterogeneity in population-health outcomes.
+- Longitudinal and survival-analysis applications, with emphasis on developing stronger methodological foundations.
+- Critical appraisal of how machine learning approaches handle complex survey sampling.
+
+</details>
+
+<details open>
+<summary><strong>2. Maternal, reproductive and child health</strong></summary>
+
+- Skilled birth attendance, maternal health-service access and antenatal-care inequalities.
+- Digital connectivity, reproductive healthcare needs and social determinants of health.
+- Pregnancy-related knowledge, women's empowerment and subnational disparities.
+- Child health, nutrition, WASH and developmental opportunities.
+
+</details>
+
+<details>
+<summary><strong>3. Mental health, women's autonomy and health equity</strong></summary>
+
+- Depression and anxiety across social, geographic and socioeconomic strata.
+- Decision-making autonomy, intimate partner violence and mental-health outcomes.
+- Rural–urban inequality and geographic patterns in multi-country survey studies.
+- Measurement validity and responsible interpretation of observational associations.
+
+</details>
+
+<details>
+<summary><strong>4. Explainable ML, spatial methods and evidence synthesis</strong></summary>
+
+- Transparent predictive workflows: validation, calibration, model limitations and explainability.
+- SHAP/LIME and related approaches for interpreting fitted models.
+- Geographic visualization and GIS-based public-health evidence.
+- Systematic reviews, screening, PRISMA documentation and methodological synthesis.
+- Exploratory responsible AI applications in healthcare; research prototypes are **not clinical devices**.
+
+</details>
 
 ## Education
 
-**B.Sc. (Honours) in Statistics** — Shahjalal University of Science and Technology, Sylhet, Bangladesh  
-*February 2023–Present · Expected graduation: April 2027*
+**Bachelor of Science (Honours) in Statistics**  
+**Shahjalal University of Science and Technology (SUST)** — Sylhet, Bangladesh  
+**February 2023–Present** · **Expected graduation: April 2027**  
+**Current CGPA: 3.20/4.00** (through Semester 3/2; 96 graded credits in the supplied CV)
 
-Selected coursework: Linear Algebra, Real Analysis, Calculus, Probability and Statistical Inference, Regression Analysis, Sampling Techniques, Design of Experiments, Statistical Computing and Stochastic Processes. Current advanced study includes Biostatistics and Epidemiology, Generalized Linear Models and Multivariate Analysis.
+**Selected completed coursework:**
 
-## Selected Publications
+| Mathematics foundations | Statistics and computing |
+|:--|:--|
+| Linear Algebra, Real Analysis, Calculus and Advanced Calculus | Probability Distributions, Theory of Statistics and Statistical Inference |
+| Algebra, Differential Equations, Numerical Methods | Regression Analysis, Sampling Techniques, Design of Experiments |
+| | Statistical Computing (with labs), Stochastic Processes |
 
-The following are **selected peer-reviewed publications**. For the complete, up-to-date bibliography, see my [Google Scholar](https://scholar.google.com/citations?user=oV99NYoAAAAJ) and [research portfolio](https://salek-prot.vercel.app/).
+**Current/planned advanced coursework (results pending):** Multivariate Analysis; Biostatistics and Epidemiology; Generalized Linear Models. Coursework status should be updated when examinations and grades are finalized.
 
-| Study | Outlet · Year | Materials |
-| --- | --- | --- |
-| **Explainable machine learning analysis of factors associated with skilled birth attendance in Burkina Faso** (sole author) | *Scientific Reports*, 2026 | [Portfolio](https://salek-prot.vercel.app/) |
-| **Stratified and geographic patterns of depression and anxiety in Mozambican women: Mental health policy implications** (sole author) | *PLOS ONE*, 2026 | [Article](https://doi.org/10.1371/journal.pone.0356265) |
-| **Digital connectivity and mental health symptoms among women in Bangladesh: A rural–urban perspective** | *Discover Mental Health*, 2026 | [Publications](https://salek-prot.vercel.app/) |
-| **Intimate partner violence and the dual burden of anxiety and depression among women in Zambia** | *Cambridge Prisms: Global Mental Health*, 2026 | [Publications](https://salek-prot.vercel.app/) |
-| **Decision-making autonomy and depressive symptoms among women in Lesotho: Rural–urban differences** | *Journal of Affective Disorders Reports*, 2026 | [Article](https://doi.org/10.1016/j.jadr.2026.101080) · [Code](https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho) |
-| **Explainable machine learning approaches to predict knowledge of pregnancy danger signs among women in the Haor region of Bangladesh** | *Global Health Research and Policy*, 2026 | [Publications](https://salek-prot.vercel.app/) |
-| **Association between internet use and unmet need for family planning among currently pregnant women in Bangladesh** | *BMC Women's Health*, 2026 | [Article](https://doi.org/10.1186/s12905-026-04788-2) · [Code](https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis) |
+**Academic objective:** Develop deeper methodological expertise through doctoral training and collaboration with researchers working on important real-world biomedical and public-health problems.
 
-*Publication titles and status are based on the supplied academic CV; check the linked bibliography for the definitive citation record.*
+## Selected Peer-Reviewed Publications
+
+Selected publications from my supplied Fall 2027 academic CV. **The full and most current bibliography is on [Google Scholar](https://scholar.google.com/citations?user=oV99NYoAAAAJ) and my [research portfolio](https://salek-prot.vercel.app/).** Publication title, co-authorship and journal status should match the final publisher record.
+
+| # | Publication | Journal / materials |
+|:--:|:--|:--|
+| **01** | **Explainable machine learning analysis of factors associated with skilled birth attendance in Burkina Faso** — *sole author* | *Scientific Reports* (2026) · [Publications](https://salek-prot.vercel.app/) |
+| **02** | **Stratified and geographic patterns of depression and anxiety in Mozambican women: Mental health policy implications** — *sole author* | *PLOS ONE* 21(8), e0356265 (2026) · [DOI](https://doi.org/10.1371/journal.pone.0356265) |
+| **03** | **Digital connectivity and mental health symptoms among women in Bangladesh: A rural–urban perspective** | *Discover Mental Health* (2026) · [Publications](https://salek-prot.vercel.app/) |
+| **04** | **Intimate partner violence and the dual burden of anxiety and depression among women in Zambia: Spatial inequalities and implications for the sustainable development goals** | *Cambridge Prisms: Global Mental Health* (2026) · [Publications](https://salek-prot.vercel.app/) |
+| **05** | **Decision-making autonomy and depressive symptoms among women in Lesotho: Rural–urban differences** | *Journal of Affective Disorders Reports* (2026) · [DOI](https://doi.org/10.1016/j.jadr.2026.101080) · [Code](https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho) |
+| **06** | **Association between women's empowerment and mental health in sub-Saharan Africa and South Asia: Evidence from the Survey-based Women's Empowerment Index** | *Cambridge Prisms: Global Mental Health* (2026) · [Publications](https://salek-prot.vercel.app/) |
+| **07** | **Explainable machine learning approaches to predict knowledge of pregnancy danger signs among women in the Haor region of Bangladesh** | *Global Health Research and Policy* (2026) · [Publications](https://salek-prot.vercel.app/) |
+| **08** | **Association between internet use and unmet need for family planning among currently pregnant women in Bangladesh: Evidence from BDHS 2022** | *BMC Women's Health* (2026) · [DOI](https://doi.org/10.1186/s12905-026-04788-2) · [Code](https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis) |
+| **09** | **Pregnancy loss and women's mental health in Zambia: A cross-sectional population-based and spatial analysis** | *Health Science Reports* (2026) · [Publications](https://salek-prot.vercel.app/) |
+
+**Research themes represented:** maternal health · women’s empowerment · depressive symptoms · geographic disparities · survey-weighted regression · interpretable ML.
+
+<details>
+<summary><strong>Manuscripts and evidence synthesis in progress (separate from published articles)</strong></summary>
+
+- **LLM-Based Well-Being Chatbot for Women: A Systematic Mini Review (2022–2026)** — first-author submission; systematic literature synthesis of AI-assisted women's mental-health tools, with ELITE Research Lab LLC.
+- **Mental disorder status among university students in Bangladesh** — collaborative systematic review and meta-analysis; search screening, study selection and synthesis planning.
+- **Best practices for machine learning with complex survey data** — collaborative methodological systematic review; PROSPERO registration **CRD420261399081**.
+- **IHME GBD collaborator manuscripts** — collaborative revision work relating to dementia, dietary risks and dengue burden; these are **not presented as accepted or published papers**.
+- **Other collaborative submissions** — details and current status are maintained in the academic portfolio; manuscripts under review are distinguished from published publications.
+
+</details>
 
 ## Research Experience
 
-| Appointment / collaboration | Period | Selected contributions |
-| --- | --- | --- |
-| **Research Assistant — Biostatistics and Population Health**, SUST Research Centre, Prof. Md Jamal Uddin | 2024–Present | DHS-based research; regression and survey methods; reproducible code; post-stroke disability and quality-of-life cohort research with clinical collaborators |
-| **Research Assistant — Maternal and Newborn Health**, SUST Research Centre, Prof. Md Zakir Hossain | 2025 | Fieldwork and quality assurance for a study involving **800 women across 40 Union Parishads**; analysis and manuscript preparation |
-| **Research Assistant — Geriatric Quality of Life**, SUST Research Centre, Prof. Sabina Islam | 2024–2026 | Statistical analysis of a **1,200-participant** quality-of-life survey; multivariable modelling and reporting |
-| **Research Assistant — Occupational and Population Health**, SUST Research Centre, Prof. Mohammad Ohid Ullah | 2024–2026 | Questionnaire design, field data collection and analysis of pesticide exposures and health outcomes among **399 farmers** |
-| **Research Assistant**, Cognitive Solution Bangladesh | 2025 | DHS-based analysis of child nutrition, WASH and population subgroups |
-| **Biostatistician**, Manuco Research Center | 2026–Present | Cross-sectional study of social-allowance delivery, mental health and well-being among **461 beneficiaries**; manuscript submitted, not yet published |
-| **Research collaboration**, University of Dhaka faculty and clinical research teams | 2025–Present | Advanced count/multinomial regression and prospective cohort study-design and analysis planning |
-| **Research Intern**, ELITE Research Lab LLC | 2026–Present | Literature synthesis and exploratory NLP/LLM research on women’s digital mental health; manuscript submitted, not published |
-| **Research Fellow**, CHINTA Research Bangladesh | 2024–Present | Collaborative research involvement; detailed projects documented in research portfolio |
+### Research Assistant — Biostatistics and Population Health
+**SUST Research Centre / research group** · **Prof. Md Jamal Uddin (PI)**  
+**January 2024–Present** · Sylhet, Bangladesh
 
-### Research leadership and collaborative studies
+- Conduct research involving demographic and health surveys, statistical regression, social determinants of health and reproducible programming workflows.
+- Work on quantitative questions spanning maternal health, women's mental health and population-level inequalities.
+- Contribute to a prospective longitudinal study of **post-stroke disability and quality of life**, in collaboration with clinicians at **Sylhet M.A.G. Osmani Medical College Hospital**; study design and analysis planning are distinguished from completed cohort outcomes.
+- Translate epidemiological research questions into documented analysis procedures, manuscript figures and interpretable results.
 
-- **Principal Investigator and Team Lead — YOUReach Youth Research Grants for Action 2026 proposal:** coordinated an interdisciplinary maternal-health/health-equity project proposal focused on climate-vulnerable Haor communities. *The proposal was reported as shortlisted for interview; funding award is not claimed here.*
-- **GBD Collaborator Network (IHME):** participation in collaborative disease-burden research and training; collaborative manuscripts are distinguished from published first-author studies.
-- **Methodological and systematic reviews:** complex-survey machine-learning practice review (PROSPERO CRD420261399081), student mental-health evidence synthesis and a submitted review on LLM-based women's well-being chatbots.
-- **Applied ML research:** exploratory multicountry cesarean-delivery prediction involving **37,982 women** and comparison of **17 machine-learning algorithms**.
+### Research Assistant — Maternal and Newborn Health
+**SUST Research Centre** · **Prof. Md Zakir Hossain**  
+**July–December 2025** · Bangladesh
 
-## Selected Research Software and Reproducible Projects
+- Supported survey fieldwork, data-quality checks and research documentation involving **800 women across 40 Union Parishads** in northeastern Bangladesh.
+- Contributed to quantitative analysis and first-author manuscript development on maternal healthcare access in the Haor region.
+- Research accepted for presentation at the **2nd International Conference of Physical Sciences, SUST (December 2026)** according to the supplied CV.
 
-| Project | What it demonstrates | Link |
-| --- | --- | --- |
-| **Lesotho mental-health inequality analysis** | Survey-weighted modelling, rural–urban comparisons and geographic analysis | [Repository](https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho) |
-| **BDHS unmet family-planning need** | Reproducible population-health analysis using survey data | [Repository](https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis) |
-| **PolicyShift** | R Shiny exploratory policy-scenario and subgroup comparison prototype; outputs are illustrative, **not causal estimates** | [App](https://salek.shinyapps.io/policyshift/) |
-| **AcousticBiomarker-GH** | Exploratory AI respiratory-audio research interface; **not clinically validated** | [App](https://acoustic-biomarker-gh-salek05.streamlit.app/) |
-| **Statistics for Scientists** | Applied statistics and reproducible educational material | [Repository](https://github.com/muhammadsalek/statistics-for-scientists) |
-| **DHS Data Analysis with Stata** | Training resources for data management and survey analysis | [Repository](https://github.com/muhammadsalek/DHS-Data-Analysis-with-STATA) |
-| **R for Public Health DHS** | R-based public-health research workflows | [Repository](https://github.com/muhammadsalek/R-for-Public-Health-DHS) |
-| **SPSS for Research** | SPSS syntax and practical training materials | [Repository](https://github.com/muhammadsalek/SPSS-for-Research) |
+### Research Assistant — Geriatric Quality of Life
+**SUST Research Centre** · **Prof. Sabina Islam**  
+**July 2024–June 2026**
 
-## Statistical and Computational Toolkit
+- Analyzed a **1,200-participant** geriatric quality-of-life survey using multivariable statistical modelling.
+- Supported university-funded reporting, manuscript preparation and dissemination planning.
 
-**Core methods:** complex survey analysis · regression and GLMs · multivariable modelling · geographic analysis · PCA/factor analysis · subgroup/sensitivity analysis · systematic review methods · model assessment · interpretable machine learning.
+### Research Assistant — Occupational and Population Health
+**SUST Research Centre** · **Prof. Mohammad Ohid Ullah**  
+**December 2024–October 2026**
 
-**Software:** R / RStudio · Python · Stata 17 · SPSS · SQL · SAS · ArcGIS Pro · Git/GitHub · LaTeX.
+- Contributed to questionnaire development, field data collection and analysis of pesticide-related occupational exposures among **399 farmers**.
+- Supported environmental and occupational health research presented at **EFAST 2026**.
+
+### Biostatistician — Manuco Research Center
+**2026–Present** · Bangladesh
+
+- Statistical and manuscript contribution to a cross-sectional study of **461 older and widowed beneficiaries** concerning social-allowance delivery, mental well-being and depressive symptoms.
+- Manuscript reported as submitted to *Journal of Affective Disorders*; **not represented here as accepted or published**.
+
+### Research Assistant — Cognitive Solution Bangladesh / TeamCSBD
+**January–July 2025**
+
+- Analysis of Bangladesh demographic and health survey data for child nutrition, WASH and sociodemographic disparities.
+- Participated in collaborative research documentation and interpretation of subgroup patterns.
+
+### Research Intern — ELITE Research Lab LLC
+**2026–Present** · Remote
+
+- Exploratory work on responsible AI, large language models and systematic synthesis related to women's digital mental health.
+- Contributed to development and documentation of literature-review workflows; submitted manuscripts remain labelled as unpublished.
+
+### Other Research Collaborations
+
+- **University of Dhaka faculty research collaboration:** survey-weighted count and multinomial regression in reproductive-health datasets, including Conway–Maxwell–Poisson modelling.
+- **Clinical collaborators:** longitudinal-analysis planning and post-stroke cohort protocol development.
+- **CHINTA Research Bangladesh:** collaborative research-fellow involvement since 2024, as recorded in earlier profile materials.
+- **Global Burden of Disease (GBD) Collaborator Network, IHME:** collaborator training and research participation; collaborative outputs clearly distinguished from individual first-author papers.
+
+For a complete appointment and project chronology: **[Research Experience — Portfolio](https://salek-prot.vercel.app/)**.
+
+## Research Leadership and Grant Development
+
+### Principal Investigator and Team Lead — Youth Maternal-Health Research Proposal
+**YOUReach Youth Research Grants for Action 2026**
+
+- Led an interdisciplinary three-person team developing a proposal on **antenatal-care inequalities in climate-vulnerable Haor communities**, with a planned comparison to population-based survey evidence.
+- Coordinated research aims, quantitative design considerations, role allocation and proposal development.
+- **Status:** Reported **shortlisted for interview**. This entry **does not claim that funding was awarded**.
+
+### Additional Leadership and Academic Engagement
+
+- **Founder and instructor — Salek Data Lab (2025–Present):** research education through practical Bengali-language statistical programming tutorials.
+- **Youth Neglected Tropical Diseases Taskforce coordinator (2026–Present):** academic/public-health outreach and coordination, per supplied CV.
+- **Research capacity building:** development of workshops, practical computing exercises and reproducibility resources for students and researchers.
+
+## Research Code and Software
+
+### Reproducible Research Repositories
+
+| Project | Scientific focus | Tools / evidence |
+|:--|:--|:--|
+| **Lesotho: autonomy and depressive symptoms** | Rural–urban comparisons, survey regression and geographic patterns | [GitHub repository](https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho) · [Article](https://doi.org/10.1016/j.jadr.2026.101080) |
+| **Bangladesh: digital access and unmet family-planning need** | Survey-based reproductive health inequalities | [GitHub repository](https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis) · [Article](https://doi.org/10.1186/s12905-026-04788-2) |
+| **Mozambique mental-health analysis** | Depression/anxiety and geographic inequality | [GitHub repository](https://github.com/muhammadsalek/mozambique-mental-health-analysis) · [Article](https://doi.org/10.1371/journal.pone.0356265) |
+| **Statistics for Scientists** | Open-source statistics learning resources and code | [GitHub repository](https://github.com/muhammadsalek/statistics-for-scientists) |
+| **DHS Data Analysis with Stata** | Survey-data preparation, estimation and applied reporting | [GitHub repository](https://github.com/muhammadsalek/DHS-Data-Analysis-with-STATA) |
+| **R for Public Health DHS** | Research-oriented R workflows for DHS datasets | [GitHub repository](https://github.com/muhammadsalek/R-for-Public-Health-DHS) |
+| **SPSS for Research** | Applied SPSS syntax, lessons and analysis exercises | [GitHub repository](https://github.com/muhammadsalek/SPSS-for-Research) |
+
+> **Data governance:** Individual-level survey microdata may be subject to source-specific permissions. Public repositories should contain code and sharable derived outputs, not restricted individual-level records or confidential peer-review correspondence.
+
+### Research Applications and Demonstrations
+
+| Software / demo | Research or teaching purpose | Access / qualification |
+|:--|:--|:--|
+| **PolicyShift** | Interactive R Shiny prototype for survey-based policy scenarios and subgroup comparisons | [Open app](https://salek.shinyapps.io/policyshift/) · **illustrative, not validated causal effects** |
+| **Academic Design Studio** | Research document preparation and formatted academic outputs | [Open app](https://ads-app-salek.streamlit.app/) |
+| **Handwritten Digit Recognition** | Neural-network/MNIST educational demonstration | [Open app](https://mnist-digit-recognition-salek.streamlit.app/) |
+| **AcousticBiomarker-GH** | Experimental respiratory-audio AI dashboard | [Open app](https://acoustic-biomarker-gh-salek05.streamlit.app/) · **not clinically validated** |
+| **TB-XAI** | Exploratory medical-imaging model explainability | Research prototype; verify live link in portfolio |
+| **AquaLens** | Water quality and geographic visualization | Research/educational project; verify availability in portfolio |
+| **Body Fat Calculator** | Anthropometric fitness guidance interface | Educational application, not a medical diagnostic tool |
+
+### Selected Applied ML Study
+
+**Multicountry cesarean-delivery prediction** — exploratory comparison of **17 machine-learning algorithms** using a combined sample of **37,982 women**, as listed in the supplied CV. The project illustrates model benchmarking and the need for careful handling of survey structure and prediction claims.
+
+## Methods and Technical Toolkit
+
+| Domain | Methods and approaches |
+|:--|:--|
+| **Statistical modelling** | Linear/logistic regression; GLMs; multivariable modelling; count/multinomial regression; robust inference; model assessment |
+| **Surveys & study design** | Stratified/cluster sampling; survey-weighted analysis; variable construction; quality assurance; survey documentation |
+| **Epidemiology & causal reasoning** | Study design; confounding; DAG-informed covariate selection; cautious observational interpretation; subgroup analysis |
+| **Machine learning** | Preprocessing; train/test workflow; feature selection; ensemble models; evaluation; interpretability with SHAP/LIME |
+| **Spatial health analysis** | Geographic distribution mapping; GIS and choropleth outputs; subnational comparisons |
+| **Evidence synthesis** | Literature searches, eligibility screening, data extraction, PRISMA documentation, methodological appraisal |
+| **Reproducible computing** | Scripts; version control; documented data processing; research figures and reports |
+
+**Software and programming:** R · Python · Stata 17 · SPSS · SQL · SAS · ArcGIS Pro · Git/GitHub · LaTeX · R Markdown.
 
 <div align="center">
 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Stata](https://img.shields.io/badge/Stata-1A478B) ![SPSS](https://img.shields.io/badge/SPSS-1D364F) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Stata](https://img.shields.io/badge/Stata-1A478B?style=flat-square)
+![SPSS](https://img.shields.io/badge/SPSS-203D77?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-1E6C8D?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white&style=flat-square)
 
 </div>
 
-## Teaching, Mentorship and Academic Service
+<details>
+<summary><strong>Specialized approaches and methods under continued development</strong></summary>
 
-- **Statistics and data-science instructor (2025–Present):** workshops and training through SUST Data Science Club, CBHR and BIIHR; teaching R, Stata, SPSS, regression, epidemiology and applied machine learning. Received a **Best Promising Instructor Award (2026)**.
-- **Volunteer instructor, Sylhet Engineering College Career Club (2026):** **15 sessions / 30 hours** on mathematics for machine learning with Python.
-- **Founder and educator, [Salek Data Lab](https://www.youtube.com/@SalekResearch):** Bengali-language statistical computing and research-methods tutorials.
-- **Peer reviewer:** contributions to journals published by PLOS, Cambridge University Press, Springer Nature, IEEE, Taylor & Francis, Sage and Wiley. Includes **three completed reviews in Dove Medical Press journals** (*Neuropsychiatric Disease and Treatment* and *Psychology Research and Behavior Management*).
-- **Community and research-service involvement:** Youth Neglected Tropical Diseases Taskforce coordination (2026–Present); scientific conference and research-training activities.
+- Longitudinal modelling, time-to-event analysis and survival-analysis applications.
+- Statistical perspectives on missing data, confounding and validation for survey-based AI systems.
+- Advanced spatial and multilevel models, with current methodological development noted separately from established expertise.
+- Responsible use of NLP/LLM tools for evidence synthesis and mental-health research.
 
-## Selected Recognition, Conferences and Training
+</details>
 
-- **Best Intern**, DataKothon (2025); **Best Promising Instructor Award** (2026).
-- **First place**, ISCB RSG-Bangladesh DNA Day essay competition (2025); **Top 10**, Comilla University Data Hackathon (2024).
-- **Conference research:** maternal and child health, mental-health disparities, cardiovascular survival analysis and occupational health; includes a cardiovascular poster runner-up award (University of Dhaka, 2024).
-- **Professional development:** IHME GBD Collaborator Training (2026); research ethics and participatory field methods (FGD/PRA/RRA) at Bangladesh Academy for Rural Development (2026).
-- **Continuing education:** data analysis with R, machine learning with Python, research methods and statistical computing.
+## Teaching and Research Capacity Building
 
-For a full chronology of workshops, presentations, awards and service appointments, visit my [academic portfolio](https://salek-prot.vercel.app/).
+**A major part of my work is translating statistical methods into accessible, reproducible training.**
+
+### Instructional Roles
+
+- **Statistics and data-science instructor — SUST Data Science Club / CBHR / BIIHR (2025–Present):** practical workshops covering R, Stata, SPSS, regression, statistical inference, epidemiology, data visualization and introductory machine learning.
+- **Statistical analysis instructor — Bangladesh Institute of Innovative Health Research (BIIHR):** hands-on survey and applied health-research sessions.
+- **Volunteer instructor — Sylhet Engineering College Career Club (2026):** **15 sessions / 30 hours**, mathematics for machine learning with Python.
+- **Founder & creator — [Salek Data Lab](https://www.youtube.com/@SalekResearch):** Bengali tutorials, statistical software instruction, and research-writing and reproducibility resources.
+- **Workshop/course development:** introduction to R, Stata survey analysis, SPSS inference, applied regression, interpretable ML and statistical presentation skills.
+
+### Open Learning Resources
+
+| Resource | What learners can find |
+|:--|:--|
+| [Salek Data Lab](https://www.youtube.com/@SalekResearch) | Tutorial videos, live classes and research communication |
+| [DHS Data Analysis with Stata](https://github.com/muhammadsalek/DHS-Data-Analysis-with-STATA) | Practical Stata survey-analysis materials |
+| [R for Public Health DHS](https://github.com/muhammadsalek/R-for-Public-Health-DHS) | R-based public-health analysis exercises |
+| [SPSS for Research](https://github.com/muhammadsalek/SPSS-for-Research) | SPSS syntax and teaching resources |
+| [Statistics for Scientists](https://github.com/muhammadsalek/statistics-for-scientists) | Introductory to applied statistics research materials |
+
+**Teaching recognition:** Best Promising Instructor Award (2026), as recorded in the academic CV.
+
+## Academic Service and Peer Review
+
+I participate in external scholarly peer review as part of my professional service to research communities.
+
+**Selected journal and publisher service mentioned in the supplied CV:** PLOS ONE; *Cambridge Prisms: Global Mental Health*; Springer Nature journals; IEEE, Taylor & Francis, Sage and Wiley journals. Specific service records can be checked against invitation and completion documentation.
+
+**Dove Medical Press — three completed reviews (2026)** documented in the reviewer dashboard:
+
+| Journal | Completed reviews |
+|:--|:--:|
+| *Neuropsychiatric Disease and Treatment* | 1 |
+| *Psychology Research and Behavior Management* | 2 |
+| **Total** | **3** |
+
+**Confidentiality:** Reviewer reports, unpublished manuscripts and editorial decisions are not disclosed here. Completion of peer review does not imply endorsement of the manuscript or the journal's editorial outcome.
+
+## Conferences, Awards and Professional Development
+
+### Selected Presentations and Dissemination
+
+- **2026 — SUST 2nd International Conference of Physical Sciences:** maternal-health and geriatric-health research accepted for presentation, according to CV (December 10–12, 2026 scheduled).
+- **2026 — EFAST:** occupational health and pesticide-exposure research involving 399 farmers.
+- **2025 — Research dissemination:** maternal healthcare, child nutrition/WASH, women’s mental health and related public-health presentations.
+- **2024 — University of Dhaka:** cardiovascular survival-analysis poster recognition (runner-up in the supplied CV).
+
+### Selected Recognition
+
+| Distinction | Year / context |
+|:--|:--|
+| **Best Promising Instructor Award** | 2026 |
+| **Best Intern — DataKothon** | 2025 |
+| **First place — ISCB RSG-Bangladesh DNA Day essay** | 2025 |
+| **Top 10 — Comilla University Data Hackathon** | 2024 (according to recent CV) |
+| **Aftab Uddin–Khudeja Banu Welfare Trust Merit Scholarship** | Earlier academic recognition |
+| **Khandoker Trust International Merit Scholarship** | Earlier academic recognition |
+
+### Selected Academic Training
+
+- **IHME GBD Collaborator Training (2026)** — global disease-burden research concepts and methods.
+- **Bangladesh Academy for Rural Development (2026)** — participatory field methods (FGD/PRA/RRA), community research and research ethics.
+- **Data Analysis with R (IBM), Data Science/Machine Learning with Python (Coursera)** and other selected methods courses.
+- **Research methods, manuscript preparation, programming and academic communication** — continued professional development.
+
+## Collaborations and Professional Affiliations
+
+| Organization / network | Role or collaboration |
+|:--|:--|
+| **SUST Research Centre and Department of Statistics** | Research assistantships, survey analysis and methodological collaborations |
+| **IHME — Global Burden of Disease Collaborator Network** | GBD Study Collaborator and training participation |
+| **BIIHR / CBHR / SUST Data Science Club** | Statistical computing instruction and workshops |
+| **ELITE Research Lab LLC** | Research intern; exploratory AI and evidence-synthesis activities |
+| **Manuco Research Center** | Biostatistics contribution to population and ageing research |
+| **Cognitive Solution Bangladesh / TeamCSBD** | Research assistant; DHS child-health and WASH analyses |
+| **University of Dhaka faculty collaborators** | Reproductive-health statistical modelling and quantitative methods |
+| **CHINTA Research Bangladesh** | Research fellow collaboration, as previously listed in profile materials |
+| **Youth Neglected Tropical Diseases Taskforce** | Coordinator (2026–Present) |
+
+**Collaboration interests:** survey inference · statistical epidemiology · health-equity research · geographic health disparities · reproducible health ML · methodological reviews · training and academic mentorship.
 
 ## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&hide_border=true&theme=transparent" height="165" alt="Repository language statistics" />
+<img height="176" alt="GitHub activity summary" src="https://github-readme-stats.vercel.app/api?username=muhammadsalek&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true" />
+<img height="176" alt="Languages represented in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsalek&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+
+<img width="94%" alt="GitHub contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadsalek&theme=github-compact&hide_border=true&area=true" />
+
+<details>
+<summary><strong>Contribution animation (visible when the GitHub Action output is configured)</strong></summary>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake.svg" />
+  <img alt="Animated GitHub contribution grid" src="https://raw.githubusercontent.com/muhammadsalek/muhammadsalek/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</details>
 
 </div>
 
-*GitHub contribution and language widgets reflect repository activity, not research impact or methodological proficiency. Third-party widgets may be temporarily unavailable.*
+*These third-party visualizations may fail temporarily; they represent GitHub activity rather than publication impact, methodological proficiency or scientific quality. The contribution animation requires a configured GitHub Action and published `output` branch.*
 
-## Research Collaboration and Contact
+## Open Research Principles
 
-I welcome **methodological collaborations, reproducibility projects, public-health data science initiatives, and doctoral research conversations** in Biostatistics, Epidemiology, Population Health Sciences and Explainable AI for Health.
+1. **Document the analytic workflow.** Provide methods, readable scripts, dependencies and realistic reproduction instructions.
+2. **Respect data access restrictions.** Do not redistribute restricted DHS microdata or identifiable research records.
+3. **Differentiate types of evidence.** Association is not causation; predictive models are not clinical diagnoses.
+4. **Keep publication records precise.** Published papers, under-review manuscripts, accepted conference abstracts and proposed grants are different achievements.
+5. **Share teaching materials responsibly.** Prefer transparent examples, reproducible demonstrations and appropriately licensed resources.
 
-**Research portfolio:** https://salek-prot.vercel.app/  
-**Email:** [saleksta@gmail.com](mailto:saleksta@gmail.com)  
-**Google Scholar:** [Publication record](https://scholar.google.com/citations?user=oV99NYoAAAAJ)  
-**ORCID:** [0009-0005-5973-461X](https://orcid.org/0009-0005-5973-461X)  
-**Web of Science Researcher ID:** [PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026)  
-**YouTube:** [Salek Data Lab](https://www.youtube.com/@SalekResearch)
+## Contact and PhD Research Interests
+
+I welcome research discussions with investigators and quantitative teams studying **biostatistical methodology, population-health disparities, clinical and survey research, spatial epidemiology, maternal/reproductive health, mental health and interpretable machine learning**.
+
+**Academic stage:** B.Sc. (Honours) in Statistics, expected April 2027; interested in Fall 2027 doctoral training.
+
+| Academic profile | Link |
+|:--|:--|
+| **Portfolio** | [salek-prot.vercel.app](https://salek-prot.vercel.app/) |
+| **Email** | [saleksta@gmail.com](mailto:saleksta@gmail.com) |
+| **Google Scholar** | [Publication profile](https://scholar.google.com/citations?user=oV99NYoAAAAJ) |
+| **ORCID** | [0009-0005-5973-461X](https://orcid.org/0009-0005-5973-461X) |
+| **Web of Science** | [PII-8481-2026](https://www.webofscience.com/wos/author/record/PII-8481-2026) |
+| **LinkedIn** | [Research network](https://www.linkedin.com/in/md-salek-miah) |
+| **GitHub** | [@muhammadsalek](https://github.com/muhammadsalek) |
+| **YouTube** | [Salek Data Lab](https://www.youtube.com/@SalekResearch) |
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=90&color=0:0D9488,100:0B2239" width="100%" alt="Footer" />
+<img width="100%" alt="Profile footer" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0F766E,100:071B2F" />
+
+**Research • Reproducibility • Education • Population Health Equity**
 
 </div>
