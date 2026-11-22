@@ -52,14 +52,15 @@ Alongside research, I design and deliver training in **R, Stata, SPSS and applie
 
 ### At a glance
 
-| Research and service | Evidence from my academic record |
+<div align="center"><img src="./assets/research_at_a_glance.svg" width="100%" alt="Research at a glance: study sizes, fieldwork, independent papers and PhD focus" /></div>
+
+| Research area | Evidence |
 |:--|:--|
-| **Peer-reviewed scholarship** | Multiple first-authored papers, including sole-author research in *Scientific Reports* and *PLOS ONE*; selected publications below |
-| **Population-health datasets** | National demographic and health surveys, primary community surveys, and prospective clinical-study planning |
-| **Field research** | Maternal-health fieldwork involving **800 women / 40 Union Parishads**; occupational-health survey involving **399 farmers** |
-| **Clinical and ageing research** | Post-stroke longitudinal cohort collaboration; **1,200-participant** geriatric quality-of-life survey |
-| **Academic service** | Peer review, statistical workshops and course instruction at CHBR/BIIHR; mentoring through Salek Data Lab |
-| **Research leadership** | PI / team lead on a youth maternal-health research proposal; shortlisted proposal status, not a funding award |
+| **Scholarship** | Multiple first-author papers, including sole-author research in *Scientific Reports* and *PLOS ONE* |
+| **Data and inference** | Demographic and health surveys, complex sampling, subgroup comparisons and reproducible statistical code |
+| **Clinical and field research** | Post-stroke longitudinal cohort planning, community surveys and occupational-health fieldwork |
+| **Research education** | Course instruction through CHBR/BIIHR; open tutorials through Salek Data Lab |
+| **Leadership** | YOUReach PI/team lead on a **shortlisted proposal** (not a funding award) |
 
 ## Research Agenda
 
@@ -126,15 +127,22 @@ Alongside research, I design and deliver training in **R, Stata, SPSS and applie
 
 ## Selected Peer-Reviewed Publications
 
-### Sole-Author Research Highlights
+### Visual Research Highlights
 
-| Paper | Contribution | Publication |
-|:--|:--|:--|
-| **Explainable machine learning analysis of factors associated with skilled birth attendance in Burkina Faso** | Independent study connecting interpretable ML to maternal-health determinants | **Sole author — *Scientific Reports* (2026)** · [Publication details](https://salek-prot.vercel.app/) |
-| **Stratified and geographic patterns of depression and anxiety in Mozambican women: Mental health policy implications** | Independent analysis of mental-health inequality, stratified estimates and geographical variation | **Sole author — *PLOS ONE* (2026)** · [DOI](https://doi.org/10.1371/journal.pone.0356265) · [Code](https://github.com/muhammadsalek/mozambique-mental-health-analysis) |
+<div align="center">
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="https://salek-prot.vercel.app/"><img src="./assets/paper_burkina_faso.png" width="100%" alt="Illustrative visual summary: Burkina Faso, skilled birth attendance and explainable machine learning"/></a><br/><b>Burkina Faso · Skilled Birth Attendance</b><br/><sub><b>Sole author</b> · Scientific Reports (2026)<br/>Explainable machine learning</sub></td>
+<td align="center" valign="top" width="33%"><a href="https://doi.org/10.1371/journal.pone.0356265"><img src="./assets/paper_mozambique.png" width="100%" alt="Illustrative visual summary: Mozambique depression, anxiety and geographic patterns"/></a><br/><b>Mozambique · Women's Mental Health</b><br/><sub><b>Sole author</b> · PLOS ONE (2026)<br/>Spatial / stratified analysis</sub></td>
+<td align="center" valign="top" width="33%"><a href="https://doi.org/10.1016/j.jadr.2026.101080"><img src="./assets/paper_lesotho.png" width="100%" alt="Illustrative visual summary: Lesotho decision autonomy and depressive symptoms"/></a><br/><b>Lesotho · Autonomy &amp; Depression</b><br/><sub>Journal of Affective Disorders Reports (2026)<br/>Rural–urban comparison</sub></td>
+</tr>
+</table>
+</div>
 
-These two independently authored papers best illustrate the central direction of my research: **transparent statistical modelling of population-health inequalities**. For all other works, authorship and publication status are specified individually below.
+<sub>Visual illustrations summarize study topics; they are not actual study graphs, patient records or numerical findings. Follow each paper for the published analysis.</sub>
 
+<details>
+<summary><strong>View all nine selected peer-reviewed publications, journal details and research links</strong></summary>
 
 Selected publications from my supplied Fall 2027 academic CV. **The full and most current bibliography is on [Google Scholar](https://scholar.google.com/citations?user=oV99NYoAAAAJ) and my [research portfolio](https://salek-prot.vercel.app/).** Publication title, co-authorship and journal status should match the final publisher record.
 
@@ -152,6 +160,9 @@ Selected publications from my supplied Fall 2027 academic CV. **The full and mos
 
 **Research themes represented:** maternal health · women’s empowerment · depressive symptoms · geographic disparities · survey-weighted regression · interpretable ML.
 
+
+</details>
+
 <details>
 <summary><strong>Manuscripts and evidence synthesis in progress (separate from published articles)</strong></summary>
 
@@ -163,17 +174,18 @@ Selected publications from my supplied Fall 2027 academic CV. **The full and mos
 
 </details>
 
+
 ## Four Flagship Research Projects
 
 <div align="center">
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho"><img src="./assets/project_lesotho.svg" width="100%" alt="Lesotho research visual card"/></a><br/><b>Lesotho — Mental-Health Inequalities</b><br/><sub>Published epidemiological study · Survey-weighted models · Spatial heterogeneity</sub><br/><a href="https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho">Code</a> · <a href="https://doi.org/10.1016/j.jadr.2026.101080">Paper</a></td>
-<td width="50%" valign="top"><a href="https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis"><img src="./assets/project_bdhs.svg" width="100%" alt="Bangladesh DHS research visual card"/></a><br/><b>Bangladesh — Reproductive Healthcare</b><br/><sub>Published DHS 2022 study · Digital connectivity · Survey-weighted regression</sub><br/><a href="https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis">Code</a> · <a href="https://doi.org/10.1186/s12905-026-04788-2">Paper</a></td>
+<td width="50%" valign="top"><a href="https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho"><img src="./assets/project_lesotho.png" width="100%" alt="Lesotho research visual card"/></a><br/><b>Lesotho — Mental-Health Inequalities</b><br/><sub>Published epidemiological study · Survey-weighted models · Spatial heterogeneity</sub><br/><a href="https://github.com/muhammadsalek/Rural-Urban-Inequalities-in-Depression-among-Ever-Married-Women-in-Lesotho">Code</a> · <a href="https://doi.org/10.1016/j.jadr.2026.101080">Paper</a></td>
+<td width="50%" valign="top"><a href="https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis"><img src="./assets/project_bdhs.png" width="100%" alt="Bangladesh DHS research visual card"/></a><br/><b>Bangladesh — Reproductive Healthcare</b><br/><sub>Published DHS 2022 study · Digital connectivity · Survey-weighted regression</sub><br/><a href="https://github.com/muhammadsalek/BDHS-Unmet-Need-Analysis">Code</a> · <a href="https://doi.org/10.1186/s12905-026-04788-2">Paper</a></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://salek.shinyapps.io/policyshift/"><img src="./assets/project_policyshift.svg" width="100%" alt="PolicyShift interactive scenario explorer"/></a><br/><b>PolicyShift — Public Health Scenario Explorer</b><br/><sub>R Shiny · Subgroup comparison · Exploratory modeling (not causal estimates)</sub><br/><a href="https://salek.shinyapps.io/policyshift/">Live application</a></td>
-<td width="50%" valign="top"><a href="https://acoustic-biomarker-gh-salek05.streamlit.app/"><img src="./assets/project_acoustic.svg" width="100%" alt="AcousticBiomarker-GH research prototype"/></a><br/><b>AcousticBiomarker-GH — Audio AI</b><br/><sub>Python · Respiratory audio classification · Experimental, not clinically validated</sub><br/><a href="https://acoustic-biomarker-gh-salek05.streamlit.app/">Live application</a></td>
+<td width="50%" valign="top"><a href="https://salek.shinyapps.io/policyshift/"><img src="./assets/project_policyshift.png" width="100%" alt="PolicyShift interactive scenario explorer"/></a><br/><b>PolicyShift — Public Health Scenario Explorer</b><br/><sub>R Shiny · Subgroup comparison · Exploratory modeling (not causal estimates)</sub><br/><a href="https://salek.shinyapps.io/policyshift/">Live application</a></td>
+<td width="50%" valign="top"><a href="https://acoustic-biomarker-gh-salek05.streamlit.app/"><img src="./assets/project_acoustic.png" width="100%" alt="AcousticBiomarker-GH research prototype"/></a><br/><b>AcousticBiomarker-GH — Audio AI</b><br/><sub>Python · Respiratory audio classification · Experimental, not clinically validated</sub><br/><a href="https://acoustic-biomarker-gh-salek05.streamlit.app/">Live application</a></td>
 </tr>
 </table>
 </div>
@@ -184,65 +196,26 @@ Selected publications from my supplied Fall 2027 academic CV. **The full and mos
 
 ## Research Experience
 
-### Research Assistant — Biostatistics and Population Health
-**SUST Research Centre / research group** · **Prof. Md Jamal Uddin (PI)**  
-**January 2024–Present** · Sylhet, Bangladesh
+<div align="center"><img src="./assets/research_timeline.svg" width="100%" alt="Research appointment timeline"/></div>
 
-- Conduct research involving demographic and health surveys, statistical regression, social determinants of health and reproducible programming workflows.
-- Work on quantitative questions spanning maternal health, women's mental health and population-level inequalities.
-- Contribute to a prospective longitudinal study of **post-stroke disability and quality of life**, in collaboration with clinicians at **Sylhet M.A.G. Osmani Medical College Hospital**; study design and analysis planning are distinguished from completed cohort outcomes.
-- Translate epidemiological research questions into documented analysis procedures, manuscript figures and interpretable results.
+<table>
+<tr><td valign="top" width="22%"><b>2024–Present</b></td><td valign="top"><b>Biostatistics & Population Health</b><br/><sub>SUST Research Centre · Prof. Md Jamal Uddin</sub><br/>DHS-based regression, health inequalities and reproducible analysis; prospective post-stroke disability/quality-of-life study design with hospital clinicians.</td></tr>
+<tr><td valign="top" width="22%"><b>Jul–Dec 2025</b></td><td valign="top"><b>Maternal & Newborn Health</b><br/><sub>SUST Research Centre · Prof. Md Zakir Hossain</sub><br/>Fieldwork and data-quality checks among <b>800 women / 40 Union Parishads</b>; Haor maternal healthcare manuscript and conference dissemination.</td></tr>
+<tr><td valign="top" width="22%"><b>Jul 2024–Jun 2026</b></td><td valign="top"><b>Geriatric Quality of Life</b><br/><sub>SUST Research Centre · Prof. Sabina Islam</sub><br/>Multivariable analysis of a <b>1,200-participant</b> geriatric quality-of-life survey; reporting and manuscript development.</td></tr>
+<tr><td valign="top" width="22%"><b>Dec 2024–Oct 2026</b></td><td valign="top"><b>Occupational & Population Health</b><br/><sub>SUST Research Centre · Prof. Mohammad Ohid Ullah</sub><br/>Questionnaire design, data collection and analysis of pesticide exposure among <b>399 farmers</b>; EFAST 2026 dissemination.</td></tr>
+<tr><td valign="top" width="22%"><b>2026–Present</b></td><td valign="top"><b>Biostatistician · Manuco Research Center</b><br/><sub>Ageing and population health</sub><br/>Study of <b>461 older and widowed beneficiaries</b> on social-allowance delivery and mental well-being; manuscript submitted, not accepted.</td></tr>
+<tr><td valign="top" width="22%"><b>Jan–Jul 2025</b></td><td valign="top"><b>Research Assistant · TeamCSBD</b><br/><sub>Cognitive Solution Bangladesh</sub><br/>BDHS analyses of child nutrition, WASH and sociodemographic disparities; collaborative interpretation and documentation.</td></tr>
+<tr><td valign="top" width="22%"><b>2026–Present</b></td><td valign="top"><b>Research Intern · ELITE Research Lab LLC</b><br/><sub>Responsible AI & evidence synthesis</sub><br/>Research on LLM-assisted women’s mental-health applications; first-author systematic mini review submitted/in progress, not published.</td></tr>
+</table>
 
-### Research Assistant — Maternal and Newborn Health
-**SUST Research Centre** · **Prof. Md Zakir Hossain**  
-**July–December 2025** · Bangladesh
+<details><summary><b>Additional statistical and research collaborations</b></summary>
 
-- Supported survey fieldwork, data-quality checks and research documentation involving **800 women across 40 Union Parishads** in northeastern Bangladesh.
-- Contributed to quantitative analysis and first-author manuscript development on maternal healthcare access in the Haor region.
-- Research accepted for presentation at the **2nd International Conference of Physical Sciences, SUST (December 2026)** according to the supplied CV.
+- University of Dhaka faculty: survey-weighted Conway–Maxwell–Poisson and multinomial regression for reproductive-health studies.
+- Clinical collaborators: post-stroke cohort protocols and longitudinal-analysis planning.
+- CHINTA Research Bangladesh: research-fellow collaboration (as reported in earlier profile materials).
+- GBD Collaborator Network, IHME: collaboration and disease-burden training; collaborators’ manuscripts are separated from first-author publications.
 
-### Research Assistant — Geriatric Quality of Life
-**SUST Research Centre** · **Prof. Sabina Islam**  
-**July 2024–June 2026**
-
-- Analyzed a **1,200-participant** geriatric quality-of-life survey using multivariable statistical modelling.
-- Supported university-funded reporting, manuscript preparation and dissemination planning.
-
-### Research Assistant — Occupational and Population Health
-**SUST Research Centre** · **Prof. Mohammad Ohid Ullah**  
-**December 2024–October 2026**
-
-- Contributed to questionnaire development, field data collection and analysis of pesticide-related occupational exposures among **399 farmers**.
-- Supported environmental and occupational health research presented at **EFAST 2026**.
-
-### Biostatistician — Manuco Research Center
-**2026–Present** · Bangladesh
-
-- Statistical and manuscript contribution to a cross-sectional study of **461 older and widowed beneficiaries** concerning social-allowance delivery, mental well-being and depressive symptoms.
-- Manuscript reported as submitted to *Journal of Affective Disorders*; **not represented here as accepted or published**.
-
-### Research Assistant — Cognitive Solution Bangladesh / TeamCSBD
-**January–July 2025**
-
-- Analysis of Bangladesh demographic and health survey data for child nutrition, WASH and sociodemographic disparities.
-- Participated in collaborative research documentation and interpretation of subgroup patterns.
-
-### Research Intern — ELITE Research Lab LLC
-**2026–Present** · Remote / interdisciplinary research team
-
-- Contribute to research at the intersection of **large language models, responsible AI and women’s mental health**.
-- Work on the first-author **LLM-Based Well-Being Chatbot for Women: A Systematic Mini Review (2022–2026)**, including structured evidence synthesis and research documentation.
-- Explore methodological challenges in evaluating digital-health AI systems and communicating research limitations.
-- **Status distinction:** This is research experience; the systematic review is submitted/in progress, not a published paper.
-
-### Other Research Collaborations
-
-- **University of Dhaka faculty research collaboration:** survey-weighted count and multinomial regression in reproductive-health datasets, including Conway–Maxwell–Poisson modelling.
-- **Clinical collaborators:** longitudinal-analysis planning and post-stroke cohort protocol development.
-- **CHINTA Research Bangladesh:** collaborative research-fellow involvement since 2024, as recorded in earlier profile materials.
-- **Global Burden of Disease (GBD) Collaborator Network, IHME:** collaborator training and research participation; collaborative outputs clearly distinguished from individual first-author papers.
-
-For a complete appointment and project chronology: **[Research Experience — Portfolio](https://salek-prot.vercel.app/)**.
+</details>
 
 ## Research Supervisors and Academic Mentorship
 
@@ -397,19 +370,11 @@ For formal faculty affiliations, project documentation, and additional collabora
 
 ## Academic Service and Peer Review
 
-I participate in external scholarly peer review as part of my professional service to research communities.
+<div align="center"><img src="./assets/academic_service_overview.svg" width="100%" alt="Research teaching, review, leadership and scientific service"/></div>
 
-**Selected journal and publisher service mentioned in the supplied CV:** PLOS ONE; *Cambridge Prisms: Global Mental Health*; Springer Nature journals; IEEE, Taylor & Francis, Sage and Wiley journals. Specific service records can be checked against invitation and completion documentation.
+**Peer-review service:** Approximately **50+ review contributions**, as reported by the author across journals including *PLOS ONE*, *BMC Women's Health*, *BMC Public Health*, *Cambridge Prisms: Global Mental Health*, and publishers such as Springer Nature, Taylor & Francis, IEEE, SAGE and Wiley. The aggregate total is self-reported and should be reconciled with editorial reviewer records before being used as an audited count.
 
-**Dove Medical Press — three completed reviews (2026)** documented in the reviewer dashboard:
-
-| Journal | Completed reviews |
-|:--|:--:|
-| *Neuropsychiatric Disease and Treatment* | 1 |
-| *Psychology Research and Behavior Management* | 2 |
-| **Total** | **3** |
-
-**Confidentiality:** Reviewer reports, unpublished manuscripts and editorial decisions are not disclosed here. Completion of peer review does not imply endorsement of the manuscript or the journal's editorial outcome.
+<sub>Review identities, unpublished manuscripts, reviewer reports and confidential editorial decisions are not shared publicly. Individual completed-review documentation may be supplied privately when appropriate.</sub>
 
 ## Conferences, Awards and Professional Development
 
@@ -419,6 +384,8 @@ I participate in external scholarly peer review as part of my professional servi
 - **2026 — EFAST:** occupational health and pesticide-exposure research involving 399 farmers.
 - **2025 — Research dissemination:** maternal healthcare, child nutrition/WASH, women’s mental health and related public-health presentations.
 - **2024 — University of Dhaka:** cardiovascular survival-analysis poster recognition (runner-up in the supplied CV).
+
+<div align="center"><img src="./assets/awards_training.svg" width="100%" alt="Awards, training and academic dissemination"/></div>
 
 ### Selected Recognition
 
